@@ -1,14 +1,19 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
+
+import { ReactComponent as Nooklogo } from '../../assets/nooklogo.svg';
 
 import './header.styles.scss';
-import nooklogo from '../../assets/nooklogo.png';
 
 const Header = () => (
   <div className='header'>
-    <div><img src={nooklogo} alt='icon'></img></div>
+    <Link className='logo-container' to='/'>
+      <Nooklogo className='logo' />
+    </Link>
     <h1>ACNH Island Compendium</h1>
-    <button>Login/Logout</button>
-  </div>
+    <Link className='loginout' to='/login'>Login/Logout</Link>
+    </div>
+    
 );
 
 export default Header;

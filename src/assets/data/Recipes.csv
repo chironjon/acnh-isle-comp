@@ -1,0 +1,638 @@
+Name,Image,#1,Material 1,#2,Material 2,#3,Material 3,#4,Material 4,#5,Material 5,#6,Material 6,Buy,Sell,Exchange Price,Exchange Currency,Source,Source Notes,Season/Event,Season/Event Exclusive,Version Added,Unlocked?,Recipes to Unlock,Category,Crafted Item Internal ID,Card Color,DIY Icon Filename,Serial ID,Internal ID,Unique Entry ID
+acorn pochette,,6,acorn,,,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Equipment,7492,brown,BagShoulderAcorn0,4682,632,a9FFbP64fTcJ3Cn5E
+acoustic guitar,,8,softwood,3,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,383,brown,FtrAcorsticguitar,406,44,Y62RymJYgbmZEyQon
+angled signpost,,2,hardwood,3,softwood,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Housewares,7867,brown,FtrSignpostTilt,440,510,BNiDaivRjGNzCckWw
+apple chair,,10,apple,4,wood,,,,,,,,,NFS,200,NA,NA,Big Sister villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is apples,NA,NA,1.0.0,Yes,100,Housewares,4134,red,FtrFruitsChairApple,1700,189,HB55bMQf4D57ekNf4
+apple dress,,8,apple,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Equipment,9836,red,TopsTexOnepieceAlineNApple0,1782,621,KmfTvhh3qeyd6WcFJ
+apple hat,,5,apple,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Equipment,9871,red,CapHatApple0,1781,622,5ABmQxkN3SatETcEg
+apple rug,,6,apple,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Rugs,7327,red,RugOtherAppleM00,1770,542,5noTnXTTPzBfbsaz2
+apple umbrella,,7,apple,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Equipment,9948,red,UmbrellaApple0,1780,623,N2aQCn6hYqjw2ijPX
+apple wall,,20,apple,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4916,red,RoomTexWallApple00,1750,304,7azjirioafcXyzPHB
+Aquarius urn,,3,star fragment,2,Aquarius fragment,2,gold nugget,5,stone,,,,,NFS,200,NA,NA,Celeste,,Aquarius,Yes,1.0.0,Yes,0,Housewares,5956,silver,FtrZodiacAquarius,2310,366,NGfmzz4ndL9MvLG2F
+Aries rocking chair,,3,star fragment,2,Aries fragment,1,gold nugget,5,stone,,,,,NFS,200,NA,NA,Celeste,,Aries,Yes,1.0.0,Yes,0,Housewares,5954,silver,FtrZodiacAries,2300,367,XXJwFRCG4m9Q4xe6y
+armor shoes,,4,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Equipment,5472,dark gray,ShoesKneeKnightIron,982,642,zbzh6s369wZ3anypo
+aroma pot,,3,clay,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,1753,brick,FtrAlomapot,704,30,BTu3bRj64f2dwdDXa
+asteroid,,5,star fragment,10,stone,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1439,silver,FtrMeteo,2203,235,BPNHraJWRXYZahLoJ
+astronaut suit,,5,star fragment,5,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1445,silver,FtrSpacesuit,2220,236,sczENjHH7XW8e2n3Q
+autumn wall,,10,maple leaf,5,wood,5,clump of weeds,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Wallpaper,4905,brown,RoomSpWallAutumun00,4650,290,vjyWT27sydFDoYjhF
+axe,,1,flimsy axe,3,wood,1,iron nugget,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,2100,beige,ToolAxe,102,271,b3QE9sXE7w5KCXkS5
+backyard lawn,,30,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Floors,4979,green,RoomTexFloorLawn00,1261,487,pCoJi3w8hqsWKsBvz
+bamboo basket,,7,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Housewares,3658,green,FtrBambooBasket,2409,152,y7Zjyax97JJo6k4oJ
+bamboo bench,,8,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,50,Housewares,710,green,FtrBambooChairL,2401,46,iRBcw227DDdksTz3J
+bamboo candleholder,,3,bamboo piece,2,clay,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,3554,green,FtrBambooCandle,2402,153,9FCcnLSsxLXkR2NEA
+bamboo doll,,6,young spring bamboo,,,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Housewares,3555,green,FtrBambooSurprisedbox,3000,158,gc6yP5HuqTxEGBK48
+bamboo drum,,3,bamboo piece,2,softwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,4093,green,FtrBamboodrum,2413,397,K5pwygoJtxAXbj7db
+bamboo floor lamp,,8,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,50,Housewares,3557,green,FtrBambooLamp,2410,159,47AeakgHNdNvSvLRb
+bamboo flooring,,15,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Floors,4964,green,RoomTexFloorBamboo00,2460,485,JyK3oMGwWg46SZ7M6
+bamboo hat,,10,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Equipment,5143,green,CapHatAjiroBeige,1284,607,p6dWvgRwv6574A7md
+bamboo lattice fence,,6,bamboo piece,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,3403,green,ItemFenceBamboo,2490,101,kFi2XW9eoPkAoWdS5
+bamboo lunch box,,4,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,5978,green,FtrBambooLunch,2406,421,ejw8RfXvq8vPJuLod
+bamboo noodle slide,,7,young spring bamboo,3,wood,,,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,young spring bamboo,Yes,1.0.0,Yes,0,Housewares,5979,green,FtrBambooSomen,3002,424,P9SmzDkYdcYuPmRop
+bamboo partition,,7,bamboo piece,6,stone,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Housewares,3553,green,FtrBambooScreen,2403,157,6B3A3RrMHHYeGnDR4
+bamboo shelf,,15,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Housewares,3551,green,FtrBambooShelf,2405,155,ATFSAKswogCggcGbd
+bamboo speaker,,3,bamboo piece,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Housewares,10743,green,FtrBambooMusic,2411,591,59rwk7hPFaeWEX7AY
+bamboo sphere,,3,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,5976,green,FtrBambooBall,2404,420,4DSiABqB4KvShtQdM
+bamboo stool,,5,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Housewares,10742,green,FtrBambooStool,2400,590,cSywc8qQTGtF5PTqT
+bamboo stopblock,,3,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,50,Housewares,3556,green,FtrBambooCarstop,2412,154,g6cSM6je3YN47KiMD
+bamboo wall,,15,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Wallpaper,4833,green,RoomTexWallBamboo00,2450,322,BYCNmo3a3HZQXWqHK
+bamboo wall decoration,,1,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3558,green,FtrBambooFlowerwall,2430,151,Xb2ywJv5tsDeSKG2H
+bamboo wand,,6,young spring bamboo,3,star fragment,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Tools,7590,green,ToolStickBamboo,3090,538,Z5FSewP6wM2McqRCJ
+bamboo-grove wall,,7,young spring bamboo,3,bamboo shoot,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Wallpaper,4853,green,RoomTexWallChikurin00,3051,300,YEqTcFmBecj7pp4XX
+bamboo-shoot lamp,,4,young spring bamboo,5,bamboo shoot,4,clay,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Miscellaneous,5977,green,FtrBambooshootLamp,3004,385,kdfzcoLwkhis8mbtR
+barbed-wire fence,,4,hardwood,2,iron nugget,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,5213,brown,ItemFenceBarbedWire,585,561,dgW8J3q4JWsyyrDxP
+barbell,,10,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,4078,dark gray,FtrBarbell,914,395,A3fKpbNzYnRZwYMbx
+barrel,,5,wood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1266,brown,FtrPirateBarrel,431,165,QBxsHQZ8DpGYE7d8S
+basement flooring,,10,stone,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Floors,4797,light gray,RoomTexFloorBasement00,860,474,RdpaWYGrZLzQWtKDJ
+basket pack,,6,young spring bamboo,,,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Equipment,7506,green,BagBackpackBasket0,3080,645,j2a3p7Gtpy8fW2Z5S
+beekeeper's hive,,3,wasp nest,5,wood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,3406,orange,FtrBeekeepingbox,2000,204,nxtm2DdtRcHzAyrZX
+big festive tree,,6,red ornament,6,blue ornament,4,gold ornament,5,wood,5,clay,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,3966,white,FtrTreeXmasL,7404,273,xArzFHH3vK5tq4r6y
+birdbath,,6,stone,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,331,light gray,FtrBirdbus,802,42,73BAmDLcYdhSDnHLR
+birdcage,,8,wood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,865,brown,FtrBirdcage,404,216,Dm56HseZexdC2ctda
+birdhouse,,2,wood,5,softwood,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,,NA,NA,1.0.0,Yes,0,Housewares,333,brown,FtrBirdhouse,435,41,cDe3r9tficCbWgmH4
+blossom-viewing lantern,,6,cherry-blossom petal,4,hardwood,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Housewares,6831,pink,FtrSakuraLantern,3404,427,7dxFMY3pjTmv4D3QX
+blue rose crown,,6,blue roses,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,7377,green,CapOrnamentRose4,8215,459,5oscGctPhHbHFeSHY
+blue rose wreath,,10,blue roses,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5772,green,FtrDoorOrnamentWreathRoseUrtraRare,7855,447,XbGbAr5htMNb6h4mr
+bone doorplate,,3,softwood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4751,brown,FtrDoorPlateBone,500,467,jbvhjbWecrky57s9e
+bonfire,,1,campfire,10,wood,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,,NA,NA,1.0.0,Yes,0,Housewares,1430,brown,FtrCampfire,201,34,JxApKgoud4gfvEcwk
+bonsai shelf,,1,cherry-blossom bonsai,1,pine bonsai tree,8,wood,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Housewares,3580,brown,FtrBonsaiShelf,437,593,ybNj2deAkSr4AkbXf
+boomerang,,3,hardwood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,682,brown,FtrBoomerang,481,171,rMasSCDby69z84Fai
+brick fence,,6,clay,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,3080,brick,ItemFenceWallRenga,790,99,F7bg775Kh6niY7gcZ
+brick oven,,8,clay,2,iron nugget,6,wood,,,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,1157,brick,FtrStoneoven,706,58,HKzfxMGvbz6Xhni9E
+brick well,,8,clay,5,wood,1,flimsy shovel,,,,,,,NFS,200,2000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,3776,brick,FtrWellBrick,707,408,MZhaSK4GZ9D3jkRMw
+bridge construction kit,,4,log stakes,4,clay,4,stone,,,,,,,NFS,200,NA,NA,Tom Nook,Obtained during the main storyline,NA,NA,1.0.0,Yes,0,Other,7211,NA,BridgeLogReserveKit,1,458,5aMdJ9fqw3nFtTSYR
+brown herringbone wall,,15,softwood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4804,brown,RoomTexWallHerringbone00,524,312,YXiuGMDZmkG7wbuQn
+Bunny Day arch,,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,NFS,200,NA,NA,Zipper,Reward from Zipper after collecting all 6 egg types,Bunny Day,Yes,1.1.0,Yes,0,Housewares,12398,yellow,FtrEggArch,8608,695,LnuCzHYJaAs4HNMdm
+Bunny Day bag,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,All villagers,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12447,yellow,BagBackpackEgg0,8681,694,9njGw9d2nxaB5RiGR
+Bunny Day bed,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12414,yellow,FtrEggBedW,8604,698,FiJ85ZKnHbkjNQ7FF
+Bunny Day crown,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,All villagers,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12445,yellow,CapOrnamentCEgg0,8680,693,ARB6gWR7MFyiPoP3b
+Bunny Day fence,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Other,12630,yellow,ItemFenceEgg,8690,712,4Kdig9tWPTr4Xx6Kv
+Bunny Day festive balloons,,1,stone egg,1,wood egg,1,water egg,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12421,yellow,FtrEggBalloonB,8607,704,gSFqr84aRRt85bwzj
+Bunny Day flooring,,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Floors,12423,yellow,RoomTexFloorEaster00,8651,710,niHGKnTgXRGTbpEwc
+Bunny Day glowy garland,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Wall-mounted,12417,yellow,FtrEggLampWall,8631,700,o4dxxDMeguMH8zQzx
+Bunny Day lamp,,4,wood egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Miscellaneous,12413,yellow,FtrEggLamp,8605,697,aJAmvizpFhDespKHb
+Bunny Day merry balloons,,1,earth egg,1,leaf egg,1,sky egg,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12419,yellow,FtrEggBalloonA,8606,702,8JL8MamAW5zYTfT3J
+Bunny Day rug,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Rugs,7546,yellow,RugOtherEasterM00,8652,709,qhQxRtRZztg72hh23
+Bunny Day stool,,3,water egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12415,yellow,FtrEggStool,8600,699,wa4bcffdYLswPfJ2B
+Bunny Day table,,4,earth egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12436,yellow,FtrEggTableS,8601,705,9aQh9Qrq3vpQdqueu
+Bunny Day vanity,,4,leaf egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12420,yellow,FtrEggDresser,8603,703,NnTWBXepctfiLMjnL
+Bunny Day wall,,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Wallpaper,5231,yellow,RoomTexWallEaster00,8650,708,fJWKvdNQwBqRaKjsz
+Bunny Day wall clock,,3,sky egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Wall-mounted,12418,yellow,FtrEggClock,8630,701,CYdX8kEStsmMXX96v
+Bunny Day wand,,1,wobbling Zipper toy,3,star fragment,,,,,,,,,NFS,200,NA,NA,Zipper,Reward from Zipper after crafting wobbling Zipper toy,Bunny Day,Yes,1.1.0,Yes,0,Tools,12578,yellow,ToolStickEgg,8691,711,ySsGKkX7k5TFeytzQ
+Bunny Day wardrobe,,4,stone egg,,,,,,,,,,,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Housewares,12437,yellow,FtrEggClosetLR,8602,706,CNAhe3aeGYQ22Q7LG
+Bunny Day wreath,,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,NFS,200,NA,NA,Egg bottle; Egg balloon,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Wall-mounted,12517,yellow,FtrDoorOrnamentWreathEaster,8640,707,296Ws5ikbL8hMv3ZC
+butter churn,,4,wood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,7805,brown,FtrButtermixer,433,508,zAPyFGPvmSTCdivgm
+cabin wall,,15,hardwood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4840,brown,RoomTexWallLog00,527,315,vYePWAqNbmHCX2n7u
+campfire,,3,tree branch,,,,,,,,,,,NFS,200,NA,NA,Tom Nook,Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game,NA,NA,1.0.0,Yes,0,Housewares,1429,brown,FtrBonfire,200,13,YDCiZFYQHNweKWYcz
+campsite construction kit,,15,wood,15,softwood,15,hardwood,15,iron nugget,,,,,NFS,200,NA,NA,Tom Nook,Obtained during the main storyline,NA,NA,1.0.0,Yes,0,Other,5166,NA,CampsiteReserveKit,1,461,r2Hct8GMigwWDdwc8
+Cancer table,,3,star fragment,2,Cancer fragment,2,gold nugget,3,stone,,,,,NFS,200,NA,NA,Celeste,,Cancer,Yes,1.0.0,Yes,0,Housewares,5959,silver,FtrZodiacCancer,2303,371,FvH6DXMtKuuXbmRdS
+Capricorn ornament,,3,star fragment,2,Capricorn fragment,2,gold nugget,12,stone,,,,,NFS,200,NA,NA,Celeste,,Capricorn,Yes,1.0.0,Yes,0,Housewares,5957,silver,FtrZodiacCapricornus,2309,370,WzAvFzPD5oa7ZijeY
+cardboard bed,,4,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,7161,yellow,FtrCardboardBedS,2133,497,egMT9pGzXF4tW2TcQ
+cardboard chair,,1,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,7163,yellow,FtrCardboardChairS,2130,498,keFZfoTQf5ShhZn7b
+cardboard sofa,,2,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,7159,yellow,FtrCardboardSofaL,2131,500,XfuFR6TygpGsHECLn
+cardboard table,,4,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,7160,yellow,FtrCardboardTableL,2132,496,nXCaiKb8ZKtRdFrps
+cherry dress,,8,cherry,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Equipment,9838,yellow,TopsTexOnepieceAlineNCherry0,1482,612,XeA7zE2nkf38vLXR2
+cherry hat,,5,cherry,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Equipment,9873,yellow,CapHatCherry0,1481,613,t7SsbKgRAa6GWgjR8
+cherry lamp,,10,cherry,2,clay,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is cherries,NA,NA,1.0.0,Yes,100,Wall-mounted,4012,yellow,FtrFruitsLampW,1430,162,6hBjge6rn7Sxd5sr7
+cherry rug,,6,cherry,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Rugs,7328,yellow,RugOtherCherryM00,1470,543,pMnYDcm7v9cjAdLj2
+cherry speakers,,10,cherry,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is cherries,NA,NA,1.0.0,Yes,100,Miscellaneous,4011,yellow,FtrFruitsMusic,1400,161,TtSKEhTt2uf2P9Mcj
+cherry umbrella,,7,cherry,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Equipment,9949,yellow,UmbrellaCherry0,1480,614,pKzsdzbBmNX3hZd7R
+cherry wall,,20,cherry,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4919,yellow,RoomTexWallCherry00,1450,307,c4EyTmXti6TusMbGF
+cherry-blossom bonsai,,6,cherry-blossom petal,2,hardwood,3,clump of weeds,3,clay,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Miscellaneous,6030,pink,FtrBonsaiSakura,3401,375,ToGQibiXb4sB3pT7B
+cherry-blossom branches,,8,cherry-blossom petal,4,tree branch,5,clay,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Housewares,6031,pink,FtrSakuraBranch,3402,419,6P3zgNBfKCc3vZxjJ
+cherry-blossom clock,,5,cherry-blossom petal,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Wall-mounted,6832,pink,FtrSakuraClockW,3430,426,9kPKbzAAQzJTu9758
+cherry-blossom flooring,,10,cherry-blossom petal,20,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Floors,7204,pink,RoomTexFloorSakura00,3460,479,Bthw6qsrWMxRp4L2J
+cherry-blossom pochette,,6,cherry-blossom petal,,,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Equipment,7490,pink,BagShoulderCherryblossoms0,3481,630,vh9iLeDKLo3LR8T4G
+cherry-blossom pond stone,,10,stone,3,cherry-blossom petal,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Housewares,7409,light gray,FtrStonewaterbowlSakura,820,511,5kPZxufBzifksrFoK
+cherry-blossom umbrella,,7,cherry-blossom petal,,,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Equipment,9945,pink,UmbrellaCherryblossom0,3480,629,Ss2QnC4nP26NFyexM
+cherry-blossom wand,,3,cherry-blossom petal,3,star fragment,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Tools,7589,pink,ToolStickCherryblossom,3490,537,TRZ2p8L58k3FvGpPJ
+cherry-blossom-petal pile,,5,cherry-blossom petal,,,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Housewares,6032,pink,FtrSakuraPetal,3400,418,Brh7tns5YQ2rzkYLN
+cherry-blossom-trees wall,,10,cherry-blossom petal,5,hardwood,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Wallpaper,7205,pink,RoomSpWallSakura00,3450,480,C4v4pT2hwNJdB82tD
+chic cosmos wreath,,10,black cosmos,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5764,green,FtrDoorOrnamentWreathCosmosRare,7848,444,XgThrnxG75cqkssWt
+chic mum crown,,3,purple mums,3,pink mums,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5118,green,CapOrnamentMum2,8204,259,tZEt9aNRec7gTZDjp
+chic rose crown,,3,purple roses,3,black roses,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5113,green,CapOrnamentRose3,8214,254,af3PHSYfriLmgvb8b
+chic tulip crown,,2,purple tulips,2,pink tulips,1,orange tulips,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5103,green,CapOrnamentTulip2,8210,244,AWo72X4YM3PnWSL2P
+chic windflower wreath,,10,purple windflowers,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5765,green,FtrDoorOrnamentWreathAnemoneRare,7842,440,2W5Pa9MKWHhknBENu
+chocolate herringbone wall,,15,softwood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4805,brown,RoomTexWallHerringbone01,525,313,TvTxY9NBsDvQfXAJH
+clackercart,,2,hardwood,6,softwood,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,80,brown,FtrKatakatatoy,402,164,EqWJqEqcpki2TCTXS
+classic pitcher,,4,clay,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers; Tom Nook,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Miscellaneous,4073,brick,FtrPotteryjug,702,192,jtdnvzuzyxYDa6xov
+classic-library wall,,10,book,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4837,yellow,RoomTexWallLibrary00,2103,317,tWZXois4WZ3ztMwv6
+clothesline,,10,tree branch,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,3229,brown,FtrClothesline,203,457,kQm8o92yBJJPNpM2o
+coconut juice,,1,coconut,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3684,green,FtrCoconutjuice,1800,163,43ztxc7D5XHDmAMXA
+coconut wall planter,,1,coconut,5,clump of weeds,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4130,green,FtrPlanterPalm,1830,405,tw8LKPHQrkMZwgAua
+colored-leaves flooring,,10,maple leaf,15,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Floors,4990,brown,RoomTexFloorAutumun00,4660,476,ENEvnncek9KfcwS9G
+cool hyacinth crown,,4,blue hyacinths,2,pink hyacinths,2,orange hyacinths,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5097,green,CapOrnamentHyacinth2,8221,238,zRzWiZwk8nTjaPxy7
+cool hyacinth wreath,,3,orange hyacinths,3,blue hyacinths,3,pink hyacinths,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5750,green,FtrDoorOrnamentWreathHyacinthMix,7861,453,HaC5frhoXCDpy5YYj
+cool pansy crown,,3,orange pansies,3,blue pansies,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5106,green,CapOrnamentPansy2,8218,247,HH3M3xNAeCLsHTZRj
+cool pansy wreath,,10,purple pansies,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5767,green,FtrDoorOrnamentWreathPansyRare,7859,450,RxiJe64ebSZy3dsHg
+cool windflower crown,,3,blue windflowers,3,pink windflowers,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5100,green,CapOrnamentAnemone2,8201,241,8KsLNr5dskMACBgmg
+cool windflower wreath,,3,blue windflowers,3,pink windflowers,3,white windflowers,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5746,green,FtrDoorOrnamentWreathAnemoneMix,7841,441,Aer6cEdrENAWFD4TP
+corral fence,,6,wood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4349,brown,ItemFenceHorizontalWood,580,269,MRhMdwsDKNuaDfi8s
+cosmos crown,,2,red cosmos,2,yellow cosmos,3,white cosmos,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5108,green,CapOrnamentCosmos1,8206,249,RBhKgvizEg6uocZvQ
+cosmos shower,,5,pink cosmos,3,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Housewares,7230,green,FtrFlowerShower,7802,501,WqnkcGJydxs7ueTdr
+cosmos wand,,1,white cosmos,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5092,green,ToolStickCosmos,8272,528,qw6sc7YjNoXFjQt7J
+cosmos wreath,,3,yellow cosmos,3,white cosmos,3,red cosmos,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is cosmos,NA,NA,1.0.0,Yes,50,Wall-mounted,4293,green,FtrDoorOrnamentWreathCosmos,7846,227,KwujCjwLcpr42PGb3
+country fence,,6,hardwood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4350,brown,ItemFenceLog,583,268,Wy3TCH3APTHJrpDhg
+crescent-moon chair,,7,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,6829,silver,FtrStarMoonChairL,2201,432,3FcpSCLM9gcJrNhMu
+crest doorplate,,4,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,5717,dark gray,FtrDoorOrnamentCrest,941,469,rBCZK2XaMKZ4jXrNH
+crewed spaceship,,10,star fragment,20,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,5676,silver,FtrSpacecraft,2224,434,2SBnbqnymBq9DczP6
+cute lily crown,,2,pink lilies,2,orange lilies,2,white lilies,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5115,green,CapOrnamentYuri2,8224,256,WNR9mPLvre4qtfrnQ
+cute rose crown,,3,pink roses,3,orange roses,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5112,green,CapOrnamentRose2,8213,253,GqacSkmPu6G4u43tR
+cutting board,,2,hardwood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3618,brown,FtrCuttingboard,465,284,ebxdGKznZzRDMMccg
+dark bamboo rug,,6,bamboo piece,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Rugs,11114,green,RugRectBambooM01,2470,672,4FRs7iQAhxjseeyWP
+dark cosmos crown,,7,black cosmos,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5110,green,CapOrnamentCosmos3,8208,251,yoXYwWGZ7xpNi9P4W
+dark lily crown,,6,black lilies,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5116,green,CapOrnamentYuri3,8225,257,Fr3oaQMDbkQ9N9i8t
+dark lily wreath,,10,black lilies,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5770,green,FtrDoorOrnamentWreathYuriRare,7865,454,ExWh3urifQgJTCCH3
+dark rose wreath,,3,black roses,6,purple roses,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5766,green,FtrDoorOrnamentWreathRoseRare,7854,446,utyr7MwFDwd8syFcW
+dark tulip crown,,5,black tulips,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5104,green,CapOrnamentTulip3,8211,245,xJjpphgWJpHubYFET
+dark tulip wreath,,10,black tulips,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5771,green,FtrDoorOrnamentWreathTulipRare,7851,362,oCnpF6D3PyAJ5kGz8
+dark wooden-mosaic wall,,15,wood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4860,brown,RoomTexWallMixPlankWood01,522,311,sEZQCkucygfgPphNu
+decoy duck,,4,softwood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,1797,brown,FtrDecoy,466,390,Rb8PSLPkNwP7hCk8G
+deer decoration,,8,softwood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3340,brown,FtrHuntingtrophy,482,378,BTF82ckDtSkknQmua
+deer scare,,3,bamboo piece,8,stone,3,clump of weeds,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Housewares,677,green,FtrShishiodoshi,2408,359,Tdhp7ADcciKJj7y3H
+destinations signpost,,4,hardwood,8,softwood,,,,,,,,,NFS,200,1500,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,4309,brown,FtrSignpostWorld,441,383,39ryJtTNCrokaosYW
+DIY workbench,,5,wood,5,hardwood,5,softwood,3,iron nugget,1,mini DIY workbench,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Housewares,1241,brown,FtrWorkbench,302,263,sjr8rh3ZujiLscc3C
+document stack,,1,scattered papers,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,1750,yellow,FtrOfficePapers,2120,462,rLvnyoEj48NFgsNpX
+doghouse,,10,wood,7,hardwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,1799,brown,FtrDoghouse,430,14,vMF3FP2steT4gaJ9u
+drinking fountain,,8,stone,2,iron nugget,,,,,,,,,NFS,200,800,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,2319,light gray,FtrDrinkingfountain,803,77,tsTxksskAQtbvJMWB
+earth-egg outfit,,3,earth egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting earth eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12449,yellow,TopsTexOnepieceRibNEggground0,8661,674,7Mt6bHNy79mjNGipa
+earth-egg shell,,2,earth egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting earth eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12439,yellow,CapHatEggground0,8660,673,C9wvFR7fBGccZDyWa
+earth-egg shoes,,2,earth egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting earth eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12455,yellow,ShoesLowcutEggground0,8662,675,usLoxmkjFnPhxs9nr
+egg party dress,,3,earth egg,3,stone egg,3,leaf egg,3,wood egg,3,sky egg,3,water egg,NFS,NA,NA,NA,Learning all egg outfit DIYs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12448,yellow,TopsTexOnepieceBalloonLEgg0,8679,692,zNdwTbYA7G3MRrqkE
+egg party hat,,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,NFS,NA,NA,NA,Learning all egg outfit DIYs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12446,yellow,CapHatEggparty0,8678,691,SCBtDqCaR7QLCprjw
+falling-snow wall,,3,snowflake,10,stone,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.6.0,Yes,0,Wallpaper,13603,blue,RoomSpWallSnowy00,7053,752,3Qhzt3AsgTfjoQ98s
+fancy lily wreath,,3,orange lilies,3,pink lilies,3,yellow lilies,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5677,green,FtrDoorOrnamentWreathYuriMix,7864,455,yj4Z2oGDi6Thvm89d
+fancy mum wreath,,3,pink mums,3,purple mums,3,red mums,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5749,green,FtrDoorOrnamentWreathMumMix,7844,443,qW3wgimoN7XhG5BvD
+fancy rose wreath,,3,orange roses,3,pink roses,3,yellow roses,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5747,green,FtrDoorOrnamentWreathRoseMix,7853,448,vr9dDrXLQuDSwfDdy
+festive rug,,5,red ornament,5,blue ornament,5,gold ornament,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.6.0,Yes,0,Rugs,7544,white,RugSquareChristmasL00,7470,746,MQuYCrEgrAwCpcByz
+festive top set,,2,gold ornament,1,hardwood,,,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Miscellaneous,12230,white,FtrFestivaltop,7400,650,tyq7gwEQhneN7ret4
+festive tree,,3,red ornament,3,blue ornament,2,gold ornament,5,wood,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,3991,white,FtrTreeXmasS,7403,274,vtwGE69N2Z3GppKwx
+festive wrapping paper,,1,red ornament,1,blue ornament,1,gold ornament,,,,,,,NFS,200,NA,NA,Jingle,,Toy Day,Yes,1.6.0,Yes,0,Other,13792,white,WPaperOrnament,7490,751,NLbsc7TY99g5MZR6t
+firewood,,8,wood,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,5970,brown,FtrFirewood,467,402,yDibbjkFgmEuJtdS6
+fish bait,,1,manila clam,,,,,,,,,,,NFS,NA,NA,NA,Digging up clams,,NA,NA,1.0.0,Yes,0,Other,4549,white,FishBait,131,191,XSQzMk4R5tzbPbToi
+fishing rod,,1,flimsy fishing rod,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,2377,beige,ToolAngling,106,282,FeccEGBoFMHyMM75Q
+flat garden rock,,20,stone,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,12206,light gray,FtrGardenrockLow,806,646,JFxaTW3m9gD8zWTyQ
+flimsy axe,,5,tree branch,1,stone,,,,,,,,,280,200,NA,NA,Tom Nook; Nook's Cranny,Obtained through Tom Nook's DIY Workshop at the beginning of the game and can also be purchased at Nook's Cranny,NA,NA,1.0.0,Yes,0,Tools,3068,beige,ToolAxeStone,100,10,6WFHd6r74ZDND9eCx
+flimsy fishing rod,,5,tree branch,,,,,,,,,,,280,200,NA,NA,Tom Nook,Obtained through Tom Nook's DIY Workshop at the beginning of the game,NA,NA,1.0.0,Yes,0,Tools,3084,beige,ToolFishingrodWood,105,21,9JboJHudaWqqbQxbZ
+flimsy net,,5,tree branch,,,,,,,,,,,280,200,NA,NA,Tom Nook,Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game,NA,NA,1.0.0,Yes,0,Tools,2376,beige,ToolNet,107,22,jF9AD5TZekwWomWwJ
+flimsy shovel,,5,hardwood,,,,,,,,,,,280,200,NA,NA,Blathers; Nook's Cranny,,NA,NA,1.0.0,Yes,0,Tools,3082,beige,ToolShovelWood,103,19,bPp3TpiueJDRte9wT
+flimsy watering can,,5,softwood,,,,,,,,,,,280,200,NA,NA,Tom Nook; Nook's Cranny,,NA,NA,1.0.0,Yes,0,Tools,3083,beige,ToolWateringWood,109,20,FnnhLbn7KQdg2Xqey
+floral swag,,10,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4027,green,FtrFlowerSwag,1230,121,d2brTtEXPaFRfbcFh
+flower stand,,1,red roses,2,pink roses,2,orange roses,2,white lilies,1,yellow lilies,4,purple windflowers,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Housewares,7527,green,FtrStandflower,7808,608,faN686NpjrFkDricn
+flying saucer,,15,star fragment,10,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1447,silver,FtrUFO,2227,233,JDCn8zkKX2JwHBxBh
+forest flooring,,1,rare mushroom,2,round mushroom,2,skinny mushroom,2,flat mushroom,10,clump of weeds,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Floors,7186,orange,RoomTexFloorMushForest00,5460,488,Qb6n9omuBxypP7aje
+forest wall,,2,elegant mushroom,2,round mushroom,2,skinny mushroom,2,flat mushroom,10,wood,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Wallpaper,7187,orange,RoomTexWallMushForest00,5450,484,dtfYZqMNT9jsPDwTj
+fossil doorplate,,1,fossil,2,stone,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,5719,light gray,FtrDoorOrnamentFossil,840,464,eig2yBncaDeGLkfKP
+fountain,,1,drinking fountain,20,stone,8,iron nugget,,,,,,,NFS,200,3000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,8031,light gray,FtrFountain,804,599,LWAeuHiDEv25pHRQx
+frozen arch,,1,large snowflake,10,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3499,blue,FtrIceGate,6606,140,FqCNQ69DMLvgxruE9
+frozen bed,,1,large snowflake,10,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3502,blue,FtrIceBedW,6604,149,zBcsrLsdydLH3xHNE
+frozen chair,,1,large snowflake,3,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3503,blue,FtrIceChairS,6601,142,jJq4Bjw6SaE7S8mnT
+frozen counter,,1,large snowflake,5,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3505,blue,FtrIceCounter,6602,143,p76DgzdnhT9SCNipu
+frozen partition,,1,large snowflake,6,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3498,blue,FtrIceScreen,6605,147,8MAAQxYSHaQBQ6A2t
+frozen pillar,,1,large snowflake,3,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3500,blue,FtrIcePillar,6607,148,NLsTNAekFvRenddKs
+frozen sculpture,,1,large snowflake,4,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3501,blue,FtrIceArt,6608,141,GGrDCvwPHpbzRnhzi
+frozen table,,1,large snowflake,8,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3497,blue,FtrIceTableL,6603,146,ERiC3P6oPfo8EgJcb
+frozen tree,,1,large snowflake,8,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,3504,blue,FtrIceTree,6609,145,CiiuZA9ZJhtjTrD8C
+frozen-treat set,,1,large snowflake,1,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Miscellaneous,4279,blue,FtrIceCandy,6600,194,ygrBuPoB8ZKRjnXXD
+fruit basket,,1,apple,1,pear,1,cherry,1,orange,1,peach,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,975,white,FtrFruitbasket,1900,56,sAtJ8kdcam2FX5MJb
+fruit wreath,,2,apple,1,pear,3,cherry,3,orange,1,peach,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,4378,white,FtrDoorOrnamentWreathFruit,1940,223,FPCNEvg2aBDZZkjxu
+frying pan,,2,iron nugget,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Miscellaneous,4104,dark gray,FtrPan,908,199,bgMKMNGmxjKPXaDNp
+galaxy flooring,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Floors,5269,silver,RoomSpFloorGalaxy00,2260,482,e3XyJ7j4bQYXSRDBW
+garbage-heap flooring,,2,empty can,2,boot,2,old tire,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 15 trash,NA,NA,1.0.0,Yes,0,Floors,5236,dark gray,RoomTexFloorGarbage00,660,486,Ksn3xwxp4aqcty4Z6
+garbage-heap wall,,2,empty can,2,boot,2,old tire,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 15 trash,NA,NA,1.0.0,Yes,0,Wallpaper,5229,dark gray,RoomTexWallGarbage00,650,301,pmFETBqn6JQFmXnA3
+garden bench,,12,wood,4,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,3509,blue,FtrParkbenche,1009,124,AToP4B59FCDjcpbHj
+garden rock,,15,stone,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,729,light gray,FtrGardenrock,805,48,gH69947Ybie3us6SB
+garden wagon,,3,white hyacinths,3,red cosmos,3,yellow roses,8,wood,2,iron nugget,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,8419,brown,FtrGardenwagon,436,571,4g5iFxN9TFG7KwndZ
+Gemini closet,,3,star fragment,2,Gemini fragment,2,gold nugget,6,stone,,,,,NFS,200,NA,NA,Celeste,,Gemini,Yes,1.0.0,Yes,0,Housewares,5960,silver,FtrZodiacGemini,2302,377,jD3cfJDgrgBozKYnz
+giant teddy bear,,1,Papa bear,1,Mama bear,1,Baby bear,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Housewares,1504,yellow,FtrBearXL,2160,577,jPYidbBoH7RNB4jRQ
+gift pile,,3,red wrapping paper,1,wooden-block toy,1,cardboard box,,,,,,,NFS,200,NA,NA,Jingle,Reward from Jingle after delivering more than half the gifts on Toy Day,Toy Day,Yes,1.6.0,Yes,0,Housewares,13244,white,FtrCrsPresents,7411,750,w5mSW9qzTeyEypXTh
+gold armor,,8,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Equipment,4590,gold,TopsTexOnepieceOverallLPlatearmorGold,1181,566,9ThvdcF6fyMHcpzx2
+gold bars,,3,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,3065,gold,FtrGoldbar,1100,81,3DtQMaiAHW8XDdX4c
+gold helmet,,5,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,200,Equipment,5346,gold,CapFullfaceKnightGold,1180,644,ihpryTYADPJmMyH3G
+gold rose crown,,6,gold roses,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,7378,green,CapOrnamentRose5,8216,460,RAj5rwhgZgfNLzsTh
+gold rose wreath,,10,gold roses,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5820,green,FtrDoorOrnamentWreathRoseGold,7856,449,fYHqu9bGpt2ivTWRt
+gold-armor shoes,,4,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,200,Equipment,5524,gold,ShoesKneeKnightGold,1182,643,4nY6xoTSqFMjzsTLp
+gold-screen wall,,2,gold nugget,1,screen wall,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4820,gold,RoomTexWallFusumaGorgeous00,1151,298,oCeLPYajbm2MHZyGn
+golden arowana model,,3,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,11260,gold,FtrFishArowanaGold,1132,602,TG3z4Bf2ju3Wo5tRK
+golden axe,,1,axe,1,gold nugget,,,,,,,,,NFS,NA,NA,NA,Breaking 100 axes,,NA,NA,1.0.0,Yes,0,Tools,9617,gold,ToolAxeGold,112,663,M67DJhFjbWusf3xXk
+golden candlestick,,2,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3772,gold,FtrGoldCandlestand,1102,130,F78p9Pkj6X2TRfpDT
+golden casket,,8,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,200,Housewares,8825,gold,FtrGoldCoffin,1105,569,erQLwMgyX6NwbpNmG
+golden dishes,,1,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3810,gold,FtrGoldDishes,1101,131,NX2ZZ8qZnEqqWtSGH
+golden dung beetle,,3,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,5941,gold,FtrInsectKabutomushiGold,1131,601,XhKhDoMTgc8eAoJna
+golden flooring,,4,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Floors,5021,gold,RoomTexFloorGold00,1160,475,Xju8kS2TB7B9EXbDG
+golden gears,,1,gold nugget,3,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,11261,gold,FtrGearWallGold,1130,595,5JDaCQoYazbP4QkGN
+golden net,,1,net,1,gold nugget,,,,,,,,,NFS,200,NA,NA,Completing bug Critterpedia,,NA,NA,1.0.0,Yes,0,Tools,8179,gold,ToolNetGold,115,658,cnQ4qLNgFDK7F4NQJ
+golden rod,,1,fishing rod,1,gold nugget,,,,,,,,,NFS,200,NA,NA,Completing fish Critterpedia,,NA,NA,1.0.0,Yes,0,Tools,8660,gold,ToolFishingrodGold,114,662,FTWgTtoCgm3jNGhM4
+golden seat,,5,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,200,Housewares,3473,gold,FtrGoldbench,1103,133,EgGa9re6PRbpcCESz
+golden shovel,,1,shovel,1,gold nugget,,,,,,,,,NFS,200,NA,NA,Helping Gulliver 30 times,,NA,NA,1.0.0,Yes,0,Tools,8574,gold,ToolScoopGold,113,660,aEtPEYkwgj9BJ48Et
+golden slingshot,,1,slingshot,1,gold nugget,,,,,,,,,NFS,200,NA,NA,Gold balloon,Balloon appears after shooting 300 balloons,NA,NA,1.0.0,Yes,0,Tools,8578,gold,ToolSlingshotGold,117,661,W7WY5fpjB4Lc36YYs
+golden toilet,,6,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,200,Housewares,3472,gold,FtrGoldWC,1106,262,LExLS6QXyLuhewyZm
+golden wall,,4,gold nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4894,gold,RoomTexWallGold00,1150,299,u7gdHaAk5nbB4p5Ru
+golden wand,,2,gold nugget,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,7591,gold,ToolStickGolden,1190,539,RgNWgCdnAK2qjJTmo
+golden watering can,,1,watering can,1,gold nugget,,,,,,,,,NFS,NA,NA,NA,Isabelle,Obtained after the 5-star island evaluation,NA,NA,1.0.0,Yes,0,Tools,8533,gold,ToolWateringGold,116,659,HShnyCLB3cPL5xNTx
+gong,,6,iron nugget,5,wood,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,4075,dark gray,FtrTamtam,910,393,sLG4MSw3ReWmoBQNf
+grass skirt,,7,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Equipment,4333,green,BottomsTexSkirtBoxGrass0,1286,603,zuxKqmoD6WAAzheNq
+grass standee,,2,wood,2,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,530,brown,FtrHariboteGrass,378,582,Q7M9H8k9C9iTsWafA
+green grass skirt,,7,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Equipment,8907,green,BottomsTexSkirtBoxGrass1,1287,605,mzQREt22Mh8reP5WY
+green-leaf pile,,1,young spring bamboo,10,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Housewares,4269,green,FtrFallenleavesGreen,3001,587,yN7Ly9tsMKDvKqHu8
+hanging terrarium,,12,clump of weeds,4,iron nugget,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3775,green,FtrTerrariumWall,1232,396,GNtJWEuH8EoLwwi2a
+hay bed,,20,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,3675,green,FtrHaybed,1200,167,7TFmXPG98wdcvvQe6
+hearth,,2,bamboo piece,5,iron nugget,4,clay,5,hardwood,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,722,green,FtrIrori,2407,217,HwZwNAuYqaBbwS2YL
+hedge,,10,clump of weeds,5,tree branch,2,stone,,,,,,,NFS,200,NA,NA,Tom Nook; Leif,Obtained from Tom Nook after completing one Nature Day Nook Miles+ task; Obtained from Leif after buying anything from him on three different days,Nature Day,No,1.2.0,Yes,0,Other,12758,green,ItemFenceIkegaki,1291,713,m9LpprrQ6sP6EnArD
+hedge standee,,2,wood,3,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,531,brown,FtrHariboteHedge,379,583,6Gq4PMmcJqzJySt7G
+holiday candle,,5,red ornament,5,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Miscellaneous,891,white,FtrCandleXmas,7401,372,5f7xR7Kvm2mMwpGjz
+honeycomb flooring,,5,wasp nest,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Floors,4999,orange,RoomTexFloorHoney00,2060,472,Yq6j7ppP9e4k6GuSz
+honeycomb wall,,6,wasp nest,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4865,orange,RoomTexWallHoney00,2050,296,XJZCow9k2yrtvYDSc
+hyacinth crown,,4,red hyacinths,2,yellow hyacinths,2,white hyacinths,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5096,green,CapOrnamentHyacinth1,8220,237,wChSX5vstYGQaWma7
+hyacinth lamp,,5,purple hyacinths,3,clay,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,7234,green,FtrFlowerLamp,7806,506,fBKmq2YprMreQQrYo
+hyacinth wand,,1,pink hyacinths,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5083,green,ToolStickHyacinth,8276,524,SfyT7DJYnMvjQmSRX
+hyacinth wreath,,3,white hyacinths,3,red hyacinths,3,yellow hyacinths,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is hyacinths,NA,NA,1.0.0,Yes,50,Wall-mounted,5468,green,FtrDoorOrnamentWreathHyacinth,7860,232,ysyo8kjy4NBvj929M
+ice flooring,,1,large snowflake,8,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Floors,5516,blue,RoomSpFloorIce00,6660,288,r4NnQCo7BTJX7QwLd
+ice wall,,1,large snowflake,8,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Wallpaper,5505,blue,RoomSpWallIce00,6650,293,An3uWvJLZrfNtdewM
+ice wand,,1,large snowflake,3,star fragment,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Tools,7585,blue,ToolStickSnow,6690,533,pfuLcy3eLoxPsFMQy
+iceberg flooring,,10,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Floors,5253,blue,RoomSpFloorIceFloe00,7061,289,hbGr49z9cKw5qeryp
+iceberg wall,,10,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Wallpaper,5662,blue,RoomTexWallIceFloe00,7051,302,89NQTyckGsnbPBcxX
+illuminated present,,3,red ornament,4,gold ornament,3,iron nugget,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,4108,white,FtrIllumiPresent,7408,401,ZC8ykvryfN44HMCiJ
+illuminated reindeer,,6,gold ornament,5,iron nugget,,,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,4074,white,FtrIllumiReindeer,7409,392,PWkTWdSn5n9DncHBJ
+illuminated snowflakes,,9,blue ornament,3,iron nugget,,,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,4131,white,FtrIllumiSnow,7407,406,R2G2JJGg5deoW7GxT
+illuminated tree,,6,gold ornament,6,iron nugget,8,red ornament,8,blue ornament,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Housewares,4066,white,FtrIllumiTree,7410,203,S8meymsrnGbZRN5XM
+imperial fence,,6,wood,4,softwood,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4354,brown,ItemFenceChinese,597,550,6xscDDXokkLGARAzw
+infused-water dispenser,,2,apple,2,pear,2,cherry,2,orange,2,peach,2,coconut,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,4107,white,FtrFruitswater,1901,400,t24vHrtE8fyRkzyWK
+iron armor,,8,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Equipment,4588,dark gray,TopsTexOnepieceOverallLPlatearmorIron,981,640,qMDWWFfXPFTMpGTpQ
+iron closet,,12,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,9642,dark gray,FtrIronClosetLR,904,573,PamdzQi8BcNbAqHmL
+iron doorplate,,2,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4752,dark gray,FtrDoorOrnamentIron,940,468,ckD6nctsXhWjtaRmJ
+iron fence,,6,iron nugget,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4357,dark gray,ItemFenceSteel,991,267,6b9c3c3cRkfK3sqXu
+iron frame,,20,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,2553,dark gray,FtrIronframe,915,79,hzFGkyKC77m5kAHSA
+iron garden bench,,8,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,1625,dark gray,FtrIrongardenBench,902,63,oDze7K3AbxFpni27M
+iron garden chair,,3,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1626,dark gray,FtrIrongardenChair,900,64,GTMdcZkxvPs6tDdQZ
+iron garden table,,5,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1627,dark gray,FtrIrongardenTable,901,65,LfmT6j46no2RNRXDi
+iron hanger stand,,3,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,3561,dark gray,FtrIronHanger,906,365,sFNTL2NeXckRLskP7
+iron shelf,,14,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3563,dark gray,FtrIronShelf,905,128,McdRNpxXrk9xKkK4S
+iron wall lamp,,4,iron nugget,2,clay,,,,,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Wall-mounted,3559,dark gray,FtrIronLampW,930,122,b9KAgbNSetaJieTKp
+iron wall rack,,3,iron nugget,1,clay,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3562,dark gray,FtrIronShelfW,931,123,DYTTSvnJoQAtBqSpL
+iron wand,,3,iron nugget,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,7592,dark gray,ToolStickIron,999,540,MYYovLTdmLov8y2hL
+iron worktable,,10,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3560,dark gray,FtrIronTableM,903,126,yoWsZbmhYnfeXhTgr
+iron-and-stone fence,,6,stone,3,iron nugget,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,5206,light gray,ItemFenceIronAndStone,891,555,qe9qWWJB7wDbMLKTG
+ironwood bed,,20,wood,10,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,3200,blue,FtrIronwoodBedS,1005,87,Gs6r4jNYwqfyjcBAQ
+ironwood cart,,6,wood,4,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,3195,blue,FtrIronwoodServingcart,1001,85,MdPCQSxd8CnBRe9Ac
+ironwood chair,,3,wood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,3193,blue,FtrIronwoodChairS,1000,83,geDcbiFqc4L4eZojy
+ironwood clock,,2,wood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3275,blue,FtrIronwoodClockW,1040,94,vWYzQ9pTSBH5Wbmmk
+ironwood cupboard,,12,wood,6,iron nugget,1,ironwood dresser,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,100,Housewares,3271,blue,FtrIronwoodCupboard,1006,92,bFD87nMsrphrQcGhi
+ironwood DIY workbench,,12,wood,6,iron nugget,1,mini DIY workbench,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Housewares,3943,blue,FtrWorkbenchIronwood,1008,125,qfemQxWGxbseGW4pR
+ironwood dresser,,7,wood,4,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,3196,blue,FtrIronwoodChest,1002,86,zHZA38BSSukQPvfAx
+ironwood kitchenette,,4,wood,3,iron nugget,1,ironwood dresser,1,cutting board,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,3270,blue,FtrIronwoodKitchen,1007,91,Aws83WvmsMbK8mamt
+ironwood low table,,6,wood,4,iron nugget,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,3194,blue,FtrIronwoodTableM,1004,84,hZCJc27R4RDJwNj6y
+ironwood table,,12,wood,6,iron nugget,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,3191,blue,FtrIronwoodTableL,1003,35,kWp7B34ACYfXs4HEk
+jail bars,,5,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,5931,dark gray,FtrScreenCage,912,435,cQRevEHviBPSXaDRz
+Jingle wall,,5,red ornament,5,blue ornament,5,gold ornament,5,clay,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Wallpaper,5230,white,RoomSpWallXmas00,7450,291,yHZv2YNkbKzqaCich
+juicy-apple TV,,10,apple,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Big Sister villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is apples,NA,NA,1.0.0,Yes,100,Housewares,2596,red,FtrFruitsTV,1701,6,gjc7Wju56JYDhkwvJ
+jungle flooring,,10,clump of weeds,10,clay,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Floors,5515,green,RoomTexFloorJungle00,1260,470,8Dg67mD5L3628ZfXP
+jungle wall,,15,clump of weeds,3,wood,3,hardwood,3,softwood,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,5457,green,RoomTexWallJungle00,1250,326,sKFxDKgEMLzZtPu7K
+kettle bathtub,,8,iron nugget,2,wood,1,campfire,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,4008,dark gray,FtrGoemonburo,916,490,WJQG9QKBGGGyAiGxk
+kettlebell,,5,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,7535,dark gray,FtrKettlebell,913,600,Mmspyi3WpibXgBh2u
+key holder,,3,wood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3992,brown,FtrKeyhanger,480,437,cXTKSu7vAHz2c3tmD
+King Tut mask,,5,gold nugget,,,,,,,,,,,NFS,NA,NA,NA,Hitting a rock,Picking up gold nuggets knocked out of rocks,NA,NA,1.4.0,Yes,0,Equipment,5607,gold,CapFullfaceKingtut0,1183,716,dYrMmg7tsBvSwarEc
+knight's helmet,,5,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Equipment,5334,dark gray,CapFullfaceKnightIron,980,641,3u8tk4SyAemkHTRzz
+knitted-grass backpack,,20,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Equipment,7511,green,BagBackpackGrass0,1288,636,CoEssbnPs7xhuMbTF
+ladder,,4,wood,4,hardwood,4,softwood,,,,,,,500,200,NA,NA,Tom Nook; Nook's Cranny,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Tools,2615,beige,ToolLadder,122,107,QHAFqRRLE65RSvmQh
+large cardboard boxes,,5,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3412,yellow,FtrMovingboxL,2136,611,6eBT8zf9Fv2GWbZRk
+lattice fence,,8,softwood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,11712,brown,ItemFenceLatiiceNatural,592,657,LRSdBoRQia8MgkGRg
+leaf,,5,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Equipment,4682,green,AccessoryMouthLeafGreen,1280,261,cJ9rqxsr9oZKrjHXJ
+leaf campfire,,3,pine cone,5,clump of weeds,3,tree branch,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Housewares,7788,brown,FtrFallenleavesfire,4603,509,ziEwyR6mTntmTaKfX
+leaf mask,,10,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Equipment,7291,green,CapMaskLeaf0,1281,635,ng67WBZo7rRfQSWDa
+leaf stool,,3,maple leaf,3,wood,,,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Housewares,7390,brown,FtrFallenleavesChairS,4604,519,u2hwyRwKoRYdCHrHY
+leaf umbrella,,15,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Equipment,6840,green,UmbrellaLeaf0,1282,456,DyPomQRjemr3vjDQt
+leaf-egg outfit,,3,leaf egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting leaf eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12451,yellow,TopsTexOnepieceRibNEggleaf0,8667,680,iJeXo3dJrybEpPEHw
+leaf-egg shell,,2,leaf egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting leaf eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12441,yellow,CapHatEggleaf0,8666,679,9Bf5xhQJQHvW8n8Jc
+leaf-egg shoes,,2,leaf egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting leaf eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12457,yellow,ShoesLowcutEggleaf0,8668,681,wKxwrd3MDWZDidSGp
+Leo sculpture,,3,star fragment,2,Leo fragment,2,gold nugget,3,stone,,,,,NFS,200,NA,NA,Celeste,,Leo,Yes,1.0.0,Yes,0,Wall-mounted,5964,silver,FtrZodiacLeo,2304,407,5QHREHAwKLPzLmmDi
+Libra scale,,3,star fragment,2,Libra fragment,2,gold nugget,,,,,,,NFS,200,NA,NA,Celeste,,Libra,Yes,1.0.0,Yes,0,Miscellaneous,3774,silver,FtrZodiacLibra,2306,132,td7wJhwym4yZKy6tQ
+light bamboo rug,,6,young spring bamboo,,,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Rugs,11113,green,RugRectBambooM00,3070,671,QfT9N8GGPr4x3u9hH
+lily crown,,2,red lilies,2,yellow lilies,2,white lilies,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5114,green,CapOrnamentYuri1,8223,255,kAqnCE6oFFAeZvYXN
+lily record player,,5,white lilies,3,iron nugget,3,wood,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Housewares,7236,green,FtrFlowerRecordplayer,7807,515,Y9NXrLeRe8XHPFRDN
+lily wand,,1,white lilies,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5094,green,ToolStickYuri,8277,530,sKXdSX9eDXe7mEpxG
+lily wreath,,3,white lilies,3,red lilies,3,yellow lilies,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is lilies,NA,NA,1.0.0,Yes,50,Wall-mounted,5641,green,FtrDoorOrnamentWreathYuri,7863,438,T79DghfmPpWspJ9Eq
+log bed,,30,hardwood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,4041,brown,FtrLogBedW,338,119,kCWnjzgmGXnkRY4Ww
+log bench,,5,hardwood,,,,,,,,,,,NFS,200,NA,NA,Normal villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,4042,brown,FtrLogStoolL,331,112,AQwJbwnFqY9yQ2XJ4
+log chair,,8,hardwood,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,4039,brown,FtrLogSofaS,336,117,JiLieKMNcaY7QF8Zb
+log decorative shelves,,2,log bench,3,hardwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Housewares,4036,brown,FtrLogShelf,339,114,fKdr6A8t6WiZxXqco
+log dining table,,15,hardwood,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,4040,brown,FtrLogTableL,333,118,TeyLyttsCPPGxsfgu
+log extra-long sofa,,2,log chair,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Housewares,4044,brown,FtrLogSofaL,337,110,LbsREdAkxGBWWFja2
+log garden lounge,,12,hardwood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,4035,brown,FtrLogBedS,335,113,PDwJZtp2PN93N3NfZ
+log pack,,3,wood,5,hardwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Equipment,7498,brown,BagBackpackWood0,570,638,fGoNxEDmgeZRehXXj
+log round table,,15,hardwood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,4043,brown,FtrLogTableLRound,334,111,aveZx5Dz7zLGfBiS7
+log stakes,,3,wood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers; Tom Nook,,NA,NA,1.0.0,Yes,0,Housewares,5973,brown,FtrWoodPile,341,412,Wwp2YdfmcWaY9LdHK
+log stool,,4,hardwood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,4038,brown,FtrLogStoolS,330,116,KCkvMzSKZoAGpFFvX
+log wall-mounted clock,,2,hardwood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4037,brown,FtrLogClockWall,340,115,qAiYovJGN6oxwXWqY
+lovely cosmos crown,,4,pink cosmos,3,orange cosmos,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Equipment,5109,green,CapOrnamentCosmos2,8207,250,ud57HYkDcb9fpS3jN
+lucky gold cat,,2,gold nugget,1,lucky cat,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,9814,gold,FtrManekinekoGold,1107,578,bKrB5YcmewKR5AWot
+lunar lander,,10,star fragment,15,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1440,silver,FtrModule,2225,386,jsL7MwKFFov5eWgcg
+lunar rover,,10,star fragment,10,iron nugget,4,old tire,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1442,silver,FtrMoonrover,2226,373,bu2WXQC6ajuQYYejk
+lunar surface,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Floors,4968,silver,RoomTexFloorLunar00,2261,478,AbKXzqwJaJDmWnB9o
+magazine rack,,2,magazine,4,wood,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,1032,yellow,FtrMagazinerack,2110,413,8xG78nXxXkRwPuhqX
+manga-library wall,,10,magazine,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4838,yellow,RoomTexWallLibrary01,2112,316,8JLp8kSxRMRChTXaT
+manhole cover,,3,iron nugget,,,,,,,,,,,NFS,200,800,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,144,dark gray,FtrManhole,917,277,6Zi8pyz29evu2n464
+maple-leaf pochette,,6,maple leaf,,,,,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Equipment,7491,brown,BagShoulderMaple0,4681,631,7uFqbJaQoW2doC3B3
+maple-leaf pond stone,,10,stone,3,maple leaf,,,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Housewares,7408,light gray,FtrStonewaterbowlAutumun,821,512,eJQMX98oYAmryvgps
+maple-leaf umbrella,,7,maple leaf,,,,,,,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Equipment,7169,brown,UmbrellaAutumn0,4680,541,MWAN27apJPewSFHiR
+matryoshka,,5,softwood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,1652,brown,FtrMatryoshka,461,403,ogWXGmNDThxbXqgMG
+medicine,,1,wasp nest,3,clump of weeds,,,,,,,,,NFS,200,NA,NA,All villagers (while stung),,NA,NA,1.0.0,Yes,0,Other,2777,white,ItemMedicine,130,567,WLudgvjM44qWLprre
+medium cardboard boxes,,4,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3411,yellow,FtrMovingboxM,2135,610,Q9uBnt9n4okWbCgvg
+mermaid bed,,2,pearl,2,giant clam,5,sand dollar,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12558,white,FtrMermaidBedS,3814,723,ALFTq4KukvjmL4fb5
+mermaid chair,,1,pearl,1,giant clam,2,sand dollar,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12562,white,FtrMermaidChairS,3818,727,pxAiAq33Mhuwn4Hkt
+mermaid closet,,2,pearl,1,giant clam,2,coral,5,sand dollar,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12559,white,FtrMermaidClosetLR,3815,724,MEWXBzYjapeoEe2gB
+mermaid dresser,,2,pearl,1,giant clam,3,coral,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12561,white,FtrMermaidChest,3817,726,Cw5hY5Rw3H3Dbj8Qm
+mermaid flooring,,2,pearl,5,sand dollar,5,stone,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Floors,12568,white,RoomSpFloorMermaid00,3861,730,x4MaMfyCjjfCbzaeX
+mermaid lamp,,1,pearl,3,conch,2,coral,2,iron nugget,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12556,white,FtrMermaidLamp,3813,721,uSZ9gNznb8Muv7m5N
+mermaid rug,,1,pearl,3,sand dollar,,,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Rugs,12563,white,RugOtherMermaidM00,3871,728,RzoH6PAen4tofG5r4
+mermaid screen,,2,pearl,3,giant clam,5,sand dollar,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12555,white,FtrMermaidScreen,3812,720,SpWcH5ZkBLmmPPhkh
+mermaid shelf,,1,pearl,1,giant clam,4,coral,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12553,white,FtrMermaidShelf,3810,718,BefPY5x6qmfpw6LYR
+mermaid sofa,,1,pearl,10,sand dollar,,,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12560,white,FtrMermaidChairL,3816,725,ZAkqmq4rpvqx8Yjsh
+mermaid table,,1,pearl,4,sand dollar,,,,,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12552,white,FtrMermaidTableM,3809,717,28F4e6Qn9Ljk9bujY
+mermaid vanity,,1,pearl,1,giant clam,2,coral,2,iron nugget,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Housewares,12554,white,FtrMermaidDresser,3811,719,Ratk45mkyzj3MamAL
+mermaid wall,,2,pearl,2,sea snail,2,sand dollar,2,coral,2,giant clam,2,cowrie,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Wallpaper,12566,white,RoomSpWallMermaid00,3850,729,iWw2Le7AvBey6icHL
+mermaid wall clock,,1,pearl,3,sea snail,2,coral,2,iron nugget,,,,,NFS,200,NA,NA,Pascal,,NA,NA,1.3.0,Yes,0,Wall-mounted,12557,white,FtrMermaidclockWall,3830,722,5ofhYTXth4c5AKdau
+mini DIY workbench,,3,wood,3,hardwood,3,softwood,2,iron nugget,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,3122,brown,FtrWorkbenchS,301,82,sLGJoXrKyqJ4bdhxb
+modeling clay,,2,clay,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,7258,brick,FtrClaytoy,700,574,Z7ycbJwgAh8HWaaSm
+modern wood wall,,5,wood,5,softwood,5,hardwood,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4904,brown,RoomTexWallMixwood00,520,320,LqPaTaPEXdwvFhGKC
+money flooring,,50000,bells,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,100,Floors,4986,yellow,RoomTexFloorBill00,2190,473,6HtNgH3LKjQA5kxtg
+moon,,15,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1054,silver,FtrMoon,2202,234,5GevvAMTu6Lf7ueyE
+mossy garden rock,,15,stone,15,clump of weeds,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,12208,light gray,FtrGardenrockMoss,807,647,Fn45YxZCtsHx5u3t2
+mountain standee,,4,wood,5,softwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,532,brown,FtrHariboteMountain,380,584,zAFMi693PuR7nPnMs
+mum crown,,2,red mums,2,yellow mums,2,white mums,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5117,green,CapOrnamentMum1,8203,258,dm3bTGBfDYLSzWDHR
+mum cushion,,3,yellow mums,10,clump of weeds,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,50,Housewares,7232,green,FtrFlowerStoolS,7801,505,fEBdSdvEG86vXefum
+mum wreath,,3,white mums,3,yellow mums,3,red mums,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is mums,NA,NA,1.0.0,Yes,50,Wall-mounted,5467,green,FtrDoorOrnamentWreathMum,7843,231,LS93qbKCcMQLExqMG
+mums wand,,1,yellow mums,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5095,green,ToolStickChrysanthemum,8271,531,jbWRPr9kP6jXS3SLW
+mush lamp,,1,skinny mushroom,5,clay,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,805,orange,FtrMushroomLamp,5406,51,vTR3yJt55jtNGdprm
+mush log,,2,skinny mushroom,1,log stool,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,3808,orange,FtrMushroomPulpwood,5401,136,FMN3xak2uqjTCo47s
+mush low stool,,2,round mushroom,,,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,4708,orange,FtrMushroomChairS,5400,220,RZwmANPWaM7jntL5R
+mush parasol,,3,flat mushroom,,,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,3805,orange,FtrMushroomParasol,5407,139,WwaYiBvDKvBJzD3Bg
+mush partition,,3,skinny mushroom,,,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,3806,orange,FtrMushroomScreen,5408,138,J89MsT5JKW43XJ4r8
+mush table,,2,flat mushroom,6,wood,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Housewares,808,orange,FtrMushroomTableL,5403,32,cECL9PSx9yNfPWNvW
+mush umbrella,,3,flat mushroom,,,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Equipment,7174,orange,UmbrellaMushroom0,5480,648,PT3wRG87hdFbt8kgG
+mush wall,,1,elegant mushroom,1,round mushroom,1,skinny mushroom,1,flat mushroom,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Wallpaper,5164,orange,RoomTexWallMush00,5451,308,6HKBjFrzRdfY5PArn
+mushroom wand,,3,skinny mushroom,3,star fragment,,,,,,,,,NFS,200,NA,NA,Balloons,,mushrooms,Yes,1.0.0,Yes,0,Tools,7588,orange,ToolStickMushroom,5490,536,N9He3qRD3RjrqQeGG
+mushroom wreath,,10,tree branch,1,round mushroom,1,skinny mushroom,1,flat mushroom,,,,,NFS,200,NA,NA,Balloons; Isabelle,,mushrooms,Yes,1.0.0,Yes,0,Wall-mounted,4726,orange,FtrDoorOrnamentWreathMushroom,5440,221,5XfaKLorByDHGp9pi
+music stand,,8,hardwood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,1058,brown,FtrMusicstand,405,215,ZxTX2kZjDvZA3aT95
+natural garden chair,,6,hardwood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Peppy villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,2586,brown,FtrGardenChairNatural,373,80,jaDD9msGTLXHRu2cB
+natural garden table,,9,hardwood,3,iron nugget,,,,,,,,,NFS,200,NA,NA,Normal villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,3396,brown,FtrGardenTableNatural,375,224,gRf7qMpExewtthEWH
+natural mum wreath,,10,green mums,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5768,green,FtrDoorOrnamentWreathMumRare,7845,442,p7kG7qim9jPGSwxtz
+natural square table,,4,hardwood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,12332,brown,FtrGardenTableSNatural,374,670,4nASdZyjax8qv3B8T
+net,,1,flimsy net,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,5784,beige,ToolNetNormal,108,283,FZBFrFQRtepzzWPFp
+nova light,,5,star fragment,,,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Miscellaneous,6826,silver,FtrStarLamp,2200,429,5RHPeNZ2mgin65Ny5
+ocarina,,5,clay,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Other,5320,brick,ToolOcarina,133,218,QzhL3j8Tgv2cNDZQe
+oil-barrel bathtub,,1,oil barrel,1,campfire,2,stone,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Housewares,3819,yellow,FtrDrumcanbath,2150,394,kvTajEX5oeZ2DDyjt
+old-fashioned washtub,,3,softwood,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Miscellaneous,4393,brown,FtrWashtub,464,195,ebzFXSHFr3vGLoDSb
+orange dress,,8,orange,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Equipment,3288,orange,TopsTexOnepieceAlineNOrange,1382,626,kdDWtuakgMkxF8ohK
+orange end table,,10,orange,4,wood,,,,,,,,,NFS,200,NA,NA,Lazy villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is oranges,NA,NA,1.0.0,Yes,100,Housewares,3975,orange,FtrFruitsTableS,1300,185,XsnyjhPAFhghBQj7r
+orange hat,,5,orange,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Equipment,5275,orange,CapHatOrange,1381,624,yqpHcrzwzywbANi6S
+orange rug,,6,orange,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Rugs,7330,orange,RugOtherOrangeM00,1370,544,ACfErxWo9j2zKTe47
+orange umbrella,,7,orange,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Equipment,6912,orange,UmbrellaOrange0,1380,625,ZFxY5TXjBeThpDkjy
+orange wall,,20,orange,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4915,orange,RoomTexWallOrange00,1350,303,8rnfwGyLMaw5FTMQb
+orange wall-mounted clock,,10,orange,2,wood,,,,,,,,,NFS,200,NA,NA,Lazy villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is oranges,NA,NA,1.0.0,Yes,100,Wall-mounted,3976,orange,FtrFruitsClockW,1330,184,rJaAL5N8CQQ5dPd9y
+ornament mobile,,1,red ornament,1,blue ornament,1,gold ornament,4,tree branch,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Wall-mounted,6818,white,FtrOrnamentMobile,7430,433,RaotMSgnPsgG6PKLu
+ornament wreath,,6,blue ornament,2,gold ornament,,,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,ornaments,Yes,1.0.0,Yes,0,Wall-mounted,4377,white,FtrDoorOrnamentWreathOrnament,7440,226,rLcgugWkG2sntC7Lh
+outdoor bath,,20,stone,1,shovel,,,,,,,,,NFS,200,3000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,1111,light gray,FtrOpenairbath,812,410,9odpMYcPqYJvqQ9qs
+outdoor picnic set,,10,cherry-blossom petal,,,,,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,cherry-blossom petals,Yes,1.0.0,Yes,0,Housewares,6033,pink,FtrSakuraPicnicset,3403,422,uG5LkajvrX63DoMwC
+palm-tree lamp,,4,coconut,4,wood,4,clay,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,7259,green,FtrPalmtreelamp,1801,575,FcvtqX5qPrfTkDm7Z
+pan flute,,7,young spring bamboo,,,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Other,5517,green,ToolPanpipe,134,398,oEeGqoaMP9XdQE3NF
+pansy crown,,2,red pansies,2,yellow pansies,2,white pansies,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5105,green,CapOrnamentPansy1,8217,246,X8taQdT4nzX6wvY3S
+pansy table,,5,yellow pansies,3,hardwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,50,Housewares,7237,green,FtrFlowerTableS,7805,516,7iYZ6YuJGjETcGF8A
+pansy wand,,1,yellow pansies,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5091,green,ToolStickPansy,8275,527,5NPaTGzE9ZCAryFmE
+pansy wreath,,3,yellow pansies,3,white pansies,3,red pansies,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is pansies,NA,NA,1.0.0,Yes,50,Wall-mounted,5466,green,FtrDoorOrnamentWreathPansy,7857,230,qPZnLEKoAZbQxXQiG
+paw-print doorplate,,3,wood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,5716,brown,FtrDoorOrnamentPaw,501,466,S3f74cedig2pCxFHu
+peach chair,,10,peach,5,wood,,,,,,,,,NFS,200,NA,NA,Normal villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is peaches,NA,NA,1.0.0,Yes,100,Housewares,4127,pink,FtrFruitsChairPeach,1500,187,nCJGnLxvqbshrxxxD
+peach dress,,8,peach,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Equipment,9839,pink,TopsTexOnepieceAlineNPeach0,1582,618,zmPZEvBG6yYGmeFBx
+peach hat,,5,peach,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Equipment,9874,pink,CapHatPeach0,1581,619,iSQTJwDAeiFowjbt5
+peach rug,,6,peach,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Rugs,7331,pink,RugOtherPeachM00,1570,545,qYQTQktpoWBckW63d
+peach surprise box,,10,peach,4,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is peaches,NA,NA,1.0.0,Yes,100,Miscellaneous,4128,pink,FtrFruitsBox,1501,188,47GdZP9FTse2XqXCv
+peach umbrella,,7,peach,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Equipment,9947,pink,UmbrellaPeach0,1580,620,bpoAgczMK3d6dmtte
+peach wall,,20,peach,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4918,pink,RoomTexWallPeach00,1550,306,EtpBMH46crTvLrLrn
+pear bed,,10,pear,6,softwood,,,,,,,,,NFS,200,NA,NA,Jock villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is pears,NA,NA,1.0.0,Yes,100,Housewares,4546,green,FtrFruitsBedS,1601,186,cGN8QeEJjgtfZJnqv
+pear dress,,8,pear,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Equipment,9837,green,TopsTexOnepieceAlineNPear0,1682,615,Gc8pnkWgCZcMbeJnk
+pear hat,,5,pear,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Equipment,9872,green,CapHatPear0,1681,616,u6hqbCNXEpdwk5TyW
+pear rug,,6,pear,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Rugs,7332,green,RugOtherPearM00,1670,546,eEcepcMqPiijQzjta
+pear umbrella,,7,pear,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Equipment,9950,green,UmbrellaPear0,1680,617,Z4yN2HWQNGM9HYBZo
+pear wall,,20,pear,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Wallpaper,4917,green,RoomTexWallPear00,1650,305,es6hFYQ5DneXyj8od
+pear wardrobe,,10,pear,5,wood,,,,,,,,,NFS,200,NA,NA,Jock villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native fruit is pears,NA,NA,1.0.0,Yes,100,Housewares,1263,green,FtrFruitsClosetLR,1600,9,ruECmxoLmFHpjeKau
+pile of leaves,,3,pine cone,5,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Housewares,1023,brown,FtrFallenleaves,4602,586,4DfamX3gvgQKPaGYi
+pile of zen cushions,,3,zen cushion,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,100,Housewares,7048,yellow,FtrCushionJapanPile,2140,521,2CGSv5apJjzb9AZS5
+pine bonsai tree,,8,pine cone,5,clay,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Miscellaneous,3802,brown,FtrBonsaiPine,4610,592,ifZ8RQ4kxXgJawABR
+Pisces lamp,,3,star fragment,2,Pisces fragment,2,gold nugget,4,stone,,,,,NFS,200,NA,NA,Celeste,,Pisces,Yes,1.0.0,Yes,0,Housewares,5963,silver,FtrZodiacPisces,2311,399,WkqrKtCEaK8GTwQ6L
+pitfall seed,,4,clump of weeds,6,tree branch,,,,,,,,,NFS,200,NA,NA,Jock villagers,Also obtained from digging up an existing pitfall,NA,NA,1.0.0,Yes,100,Other,2578,green,PitfallSeed,135,264,QB33ur4L2mq5CvL4X
+plain sink,,6,wood,4,clay,1,iron nugget,,,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,3683,brown,FtrWashstandBowl,371,174,2ep7S8GmDoqMHTzTo
+plain wooden shop sign,,6,wood,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,3692,brown,FtrSignWood,372,166,q5Gq6yTqh25mfP83A
+pond stone,,10,stone,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,7393,light gray,FtrStonewaterbowl,819,513,LqSfpSHJgQyAJDHkJ
+pot,,5,clay,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Miscellaneous,2559,brick,FtrKame,703,37,4kNto6azXBJEzDZvA
+potted ivy,,5,clump of weeds,5,clay,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Wall-mounted,3785,green,FtrLeafWall,1231,214,PRZpskqoyoPoT6g3c
+pretty cosmos wreath,,3,orange cosmos,3,pink cosmos,3,red cosmos,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5745,green,FtrDoorOrnamentWreathCosmosMix,7847,445,sSXrhgXnaQfP53KFk
+pretty tulip wreath,,3,orange tulips,3,pink tulips,3,purple tulips,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5751,green,FtrDoorOrnamentWreathTulipMix,7850,361,z4k9YXZrLp9x6TXXF
+purple hyacinth crown,,6,purple hyacinths,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5098,green,CapOrnamentHyacinth3,8222,239,aHwaJQnuBTPrrjRtM
+purple hyacinth wreath,,10,purple hyacinths,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Wall-mounted,5769,green,FtrDoorOrnamentWreathHyacinthRare,7862,452,QXWyxbAncQeicP3xY
+purple pansy crown,,6,purple pansies,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5107,green,CapOrnamentPansy3,8219,248,NJ8nZjXNYWmYkzzGA
+purple windflower crown,,6,purple windflowers,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5101,green,CapOrnamentAnemone3,8202,242,kz9eW99mbZKy5QZSA
+raccoon figurine,,6,clay,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,7452,brick,FtrOrnamentTanuki,705,520,c3iADXgcRcQv3cTF3
+recycled boots,,2,boot,,,,,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 1 boot,NA,NA,1.0.0,Yes,0,Equipment,12326,dark gray,ShoesKneeRecyclingboots0,690,664,yqYz3fPAdv4nDcv9X
+recycled-can thumb piano,,1,empty can,1,wood,1,iron nugget,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 3 empty cans,NA,NA,1.0.0,Yes,0,Miscellaneous,7045,dark gray,FtrKalimbaCan,600,504,Wg8fZ2B2HqkvzvHDP
+red-leaf pile,,3,maple leaf,4,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,maple leaves,Yes,1.0.0,Yes,0,Housewares,4271,brown,FtrFallenleavesRed,4601,589,mLrdRGTNsXKuekHhN
+ringtoss,,2,wood,2,softwood,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Miscellaneous,88,brown,FtrQuoits,460,43,oADtSa2zmTwZ9NMQz
+robot hero,,1,rocket,1,gold armor,30,rusted part,90,iron nugget,10,gold nugget,,,NFS,200,5000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,1509,silver,FtrHerorobot,2228,594,4AjeuiarF5T2AAKSG
+rocket,,10,star fragment,20,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1441,silver,FtrRocket,2221,409,xMbimsjjXPKdPSXxF
+rocking chair,,3,wood,5,softwood,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,1103,brown,FtrRockingchair,376,57,8iX4opSXHjcJBorzj
+rocking horse,,5,softwood,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,83,brown,FtrRockinghorse,403,102,mYp7N7KfrH4GprNif
+rope fence,,4,iron nugget,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4352,dark gray,ItemFencePegRope,990,549,376NtDBZyAE9mDtSo
+rose bed,,10,red roses,5,wood,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,50,Housewares,7235,green,FtrFlowerBedW,7804,507,7JwEWxhn5RhmvkgpS
+rose crown,,2,red roses,2,yellow roses,2,white roses,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5111,green,CapOrnamentRose1,8212,252,nn5Ax694CmD7dzkDZ
+rose wand,,1,red roses,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5093,green,ToolStickRose,8274,529,hH9qJNGJpxbY2TYTt
+rose wreath,,3,red roses,3,white roses,3,yellow roses,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is roses,NA,NA,1.0.0,Yes,50,Wall-mounted,5437,green,FtrDoorOrnamentWreathRose,7852,229,Swx6c6NHk94Htn86t
+rustic-stone wall,,5,stone,5,clay,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4813,light gray,RoomTexWallStone00,851,324,MmjudYWMYWwucKrMG
+Sagittarius arrow,,3,star fragment,2,Sagittarius fragment,2,gold nugget,,,,,,,NFS,200,NA,NA,Celeste,,Sagittarius,Yes,1.0.0,Yes,0,Wall-mounted,5958,silver,FtrZodiacSagittarius,2308,376,E3TJjo97BMNgHWPAH
+sakura-wood flooring,,5,cherry-blossom petal,10,wood,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Floors,5056,pink,RoomTexFloorSolidWood00,3461,649,fPZCc3qyHmip4YE4o
+sakura-wood wall,,5,cherry-blossom petal,10,wood,,,,,,,,,NFS,200,NA,NA,Balloons,,cherry-blossom petals,Yes,1.0.0,Yes,0,Wallpaper,4947,pink,RoomTexWallSolidWood00,3451,321,qweZmh7LNTLp9FDiY
+sandy-beach flooring,,1,sea snail,1,venus comb,1,sand dollar,1,coral,1,giant clam,1,cowrie,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Floors,4970,white,RoomTexFloorSand00,3860,669,39nh7pMHJthnDFjYE
+satellite,,10,star fragment,15,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1443,silver,FtrSatellite,2222,379,LZgRMaLeBJvSmGPGu
+sauna heater,,6,stone,3,iron nugget,3,wood,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3689,light gray,FtrStoveSauna,810,374,LmA3DipMGKZb35bBf
+scarecrow,,3,tree branch,5,clump of weeds,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,1120,brown,FtrScarecrow,204,655,MWhpvNPWowwPKTPb3
+scattered papers,,1,document stack,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Housewares,4034,yellow,FtrFloorpapers,2121,463,inzHEDTLeK6KZoiqa
+sci-fi flooring,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Floors,5270,silver,RoomSpFloorSF00,2262,477,HYS6oTgQ85xyP8cuv
+sci-fi wall,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Wallpaper,5510,silver,RoomSpWallSF00,2252,292,e4h5PiReE4wkz2mvY
+Scorpio lamp,,3,star fragment,2,Scorpius fragment,2,gold nugget,5,stone,,,,,NFS,200,NA,NA,Celeste,,Scorpio,Yes,1.0.0,Yes,0,Miscellaneous,5962,silver,FtrZodiacScorpio,2307,380,nJbz3cz3Adu75WTG4
+shell arch,,3,sea snail,3,venus comb,3,sand dollar,3,coral,3,giant clam,3,cowrie,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Housewares,3977,white,FtrShellArch,3805,175,o6M2coQ6bLoDQsWBm
+shell bed,,5,giant clam,3,clay,4,stone,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3983,white,FtrShellBedW,3803,181,PQaCd4ohLujJeKoLQ
+shell fountain,,5,giant clam,3,stone,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3982,white,FtrShellFountain,3801,180,FQcXcbtASXK7kdQ9Q
+shell lamp,,2,giant clam,3,clay,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3984,white,FtrShellLamp,3806,182,27oeQoY4DhhmPaEWS
+shell partition,,4,venus comb,4,conch,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3978,white,FtrShellScreen,3804,176,JnmHHHWXPk99xRkwD
+shell rug,,3,giant clam,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Rugs,7362,white,RugOtherShellM00,3870,668,pJJzEZ9zTJQvgRdLu
+shell speaker,,3,conch,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,5150,white,FtrShellMusic,3807,200,WdK7LJ8fbgXe9kfBv
+shell stool,,5,cowrie,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3979,white,FtrShellStoolS,3800,177,f4wdMHhuARgmQfdnB
+shell table,,7,sand dollar,3,clay,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3980,white,FtrShellTableL,3802,178,RXY6M4BmsWFJNqHAt
+shell wand,,3,summer shell,3,star fragment,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Tools,7586,white,ToolStickShell,4290,534,ZTaYhxtmS2F575QLd
+shell wreath,,1,summer shell,1,sea snail,1,sand dollar,1,coral,1,giant clam,1,cowrie,NFS,200,NA,NA,Balloons; Isabelle,,summer shells,Yes,1.0.0,Yes,0,Wall-mounted,4376,white,FtrDoorOrnamentWreathShell,4240,219,k7dondWtbpmYBYHaX
+shellfish pochette,,2,giant clam,6,summer shell,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Equipment,7494,white,BagShoulderShell0,4280,634,yArwqRFy5soMedxMk
+shovel,,1,flimsy shovel,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,2099,beige,ToolScoop,104,281,M3RrgtikixGSNWq24
+signpost,,2,hardwood,3,softwood,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Housewares,3588,brown,FtrSignpost,439,213,Z6H8xP4vNMznirGDX
+silo,,12,iron nugget,6,hardwood,12,clay,12,stone,,,,,NFS,200,3000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,7247,brick,FtrSilo,708,598,6czwDvwNcJ6aLqsPm
+simple DIY workbench,,5,hardwood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,7142,brown,FtrWorkbenchStump,300,494,BBHuZzdLe6H7GEw2R
+simple mum crown,,6,green mums,,,,,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,200,Equipment,5119,green,CapOrnamentMum3,8205,260,Pib8R6Z4czejLxJK3
+simple well,,15,stone,1,flimsy shovel,,,,,,,,,NFS,200,2000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,2754,light gray,FtrWell,811,36,bFSWqMEdNJZBRALME
+simple wooden fence,,6,softwood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,11711,brown,ItemFenceNatural,588,656,ZGyfJBiFPk58dPFfn
+ski-slope flooring,,8,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Floors,4989,blue,RoomTexFloorGelande00,7060,483,obRJkb8TbaWbaBxAt
+ski-slope wall,,8,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Wallpaper,5498,blue,RoomSpWallGelande00,7050,295,GpPrFGQc3wjpPYh2C
+sky-egg outfit,,3,sky egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting sky eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12453,yellow,TopsTexOnepieceRibNEggsky0,8673,686,weRPdpf2rNKk5M6To
+sky-egg shell,,2,sky egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting sky eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12443,yellow,CapHatEggsky0,8672,685,dvaSzuxBdqGoQsQtn
+sky-egg shoes,,2,sky egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting sky eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12459,yellow,ShoesLowcutEggsky0,8674,687,EHXPk3QeW6EZy7pF9
+sleigh,,8,wood,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,7281,brown,FtrSled,442,580,vQCpvpCFNYENPhuKK
+slingshot,,5,hardwood,,,,,,,,,,,300,200,NA,NA,Nook's Cranny,,NA,NA,1.0.0,Yes,0,Tools,2822,beige,ToolSlingshot,111,29,Bbew7NAtvtH9wLJrD
+small cardboard boxes,,2,cardboard box,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3410,yellow,FtrMovingboxS,2134,609,5dYMgBRhSgGpHNRcW
+snazzy pansy wreath,,3,orange pansies,3,blue pansies,3,yellow pansies,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,100,Wall-mounted,5748,green,FtrDoorOrnamentWreathPansyMix,7858,451,vyxRpZbkGm3iZo9FG
+snowflake pochette,,6,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Equipment,7493,blue,BagShoulderSnow0,7080,633,8b7zapAg4LJDda6Tk
+snowflake wall,,12,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons,,snowflakes,Yes,1.0.0,Yes,0,Wallpaper,4855,blue,RoomTexWallSnowCrystal00,7052,323,m8fufjb9uRvsqguGC
+snowflake wreath,,4,snowflake,,,,,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,snowflakes,Yes,1.0.0,Yes,0,Wall-mounted,4375,blue,FtrDoorOrnamentWreathIce,7040,222,syeDkgGnge76zBJ5y
+snowperson head,,1,large snowflake,5,snowflake,,,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Equipment,8609,blue,CapCostumeSnowball0,6680,637,6TuttvHpXz8cBQAqa
+space shuttle,,5,star fragment,10,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Housewares,1444,silver,FtrShuttle,2223,381,rh4nYL67r9Cy33pxj
+spiky fence,,8,hardwood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4358,brown,ItemFenceSharply,584,553,KwQDAafZxyPRLtYFn
+spooky arch,,10,orange pumpkin,10,hardwood,3,clay,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4083,purple,FtrHwnArch,5809,205,RBhByrwzg8nnqsJfZ
+spooky candy set,,1,orange pumpkin,3,candy,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Miscellaneous,12951,purple,FtrHwnSweets,5805,732,dyC4hLvys8un93KRX
+spooky carriage,,30,orange pumpkin,20,hardwood,20,wood,20,softwood,10,iron nugget,,,NFS,200,NA,NA,Jack,Reward for gifting lollipop on Halloween,Halloween,Yes,1.5.0,Yes,0,Housewares,4087,purple,FtrHwnCarriage,5810,208,n6TrytnSYHGe9bASH
+spooky chair,,3,orange pumpkin,3,softwood,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4089,purple,FtrHwnChairS,5800,210,d2EFid4QeEKToKPTC
+spooky fence,,3,orange pumpkin,5,iron nugget,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Other,13275,purple,ItemFenceHalloween,5890,737,CeZmnyqJzePbykYgb
+spooky garland,,1,orange pumpkin,1,iron nugget,1,clay,,,,,,,NFS,200,NA,NA,All villagers,Reward for gifting candy on Halloween,Halloween,Yes,1.5.0,Yes,0,Wall-mounted,13222,purple,FtrHwnDecorationWall,5830,734,ujn6dXq5em2zphcob
+spooky lantern,,4,orange pumpkin,,,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Miscellaneous,4088,purple,FtrHwnLantern,5803,209,vnyxqjfAdq4QzGzou
+spooky lantern set,,4,orange pumpkin,4,clump of weeds,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4092,purple,FtrHwnLanternset,5804,212,9g3bAjrNQaArPsJHg
+spooky scarecrow,,3,orange pumpkin,4,wood,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4084,purple,FtrHwnScarecrow,5807,206,4s5ztCbM9yLi9Pby9
+spooky standing lamp,,3,orange pumpkin,5,hardwood,1,clay,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,12949,purple,FtrHwnStand,5802,733,jZS8vhJwagkJP5v6q
+spooky table,,14,orange pumpkin,10,softwood,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4090,purple,FtrHwnTableL,5801,202,uPRm5RYiDS6oeiS3c
+spooky table setting,,1,orange pumpkin,1,iron nugget,1,clay,,,,,,,NFS,200,NA,NA,All villagers,Reward for gifting candy on Halloween,Halloween,Yes,1.5.0,Yes,0,Miscellaneous,13223,purple,FtrHwnTablesetting,5806,735,7HGH5jC589CDhb5JG
+spooky tower,,7,orange pumpkin,,,,,,,,,,,NFS,200,NA,NA,All villagers; Balloons,Obtained from crafting villagers during October or as a reward for gifting candy on Halloween,Halloween (ready days); Halloween,Yes,1.5.0,Yes,0,Housewares,4086,purple,FtrHwnTower,5808,207,wcPdQconPscGvPiyi
+spooky wand,,1,spooky lantern,3,star fragment,,,,,,,,,NFS,200,NA,NA,Jack,Reward for gifting lollipop on Halloween,Halloween,Yes,1.5.0,Yes,0,Tools,13237,purple,ToolStickHalloween,5891,736,NezqnbME9DWhuM88n
+stack of books,,5,book,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,1759,yellow,FtrBooks,2100,196,wRs5mmgErDd3guzAD
+stacked magazines,,6,magazine,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,100,Miscellaneous,1861,yellow,FtrMagagine,2111,197,3gMLM9p6vJS37zTZe
+stacked-wood wall,,15,hardwood,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4844,brown,RoomTexWallFireWood00,528,314,NNmn5yJHFnwDWkcRN
+stall,,12,wood,,,,,,,,,,,NFS,200,2000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,3617,brown,FtrFloat,438,596,Et4TyaGdqojFhBPej
+standard umbrella stand,,3,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,3445,dark gray,FtrUmbrellastand,907,169,vXFQZrMwx56imYidt
+star clock,,3,star fragment,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Miscellaneous,7253,silver,FtrStarClock,2230,514,2svknEfP5LbMe6Qur
+star head,,5,star fragment,,,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Equipment,9862,silver,CapCostumeStar0,2280,628,ruy96poyPqtxc5K4Y
+star pochette,,6,star fragment,,,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Equipment,7489,silver,BagShoulderStar0,2281,627,4fJpnNtzwpyCgJcNg
+star wand,,1,large star fragment,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,2544,silver,ToolChangeStick,2291,523,yv5a3yQPS9tmBjhaP
+starry garland,,10,star fragment,,,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Wall-mounted,6827,silver,FtrStarDecorationWall,2231,430,9LShEjECc39Sdyxzt
+starry wall,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Wallpaper,5528,silver,RoomSpWallStarPrint00,2251,286,dZ74auFDK9GYNkEnK
+starry-sands flooring,,3,summer shell,1,sandy-beach flooring,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Floors,7239,white,RoomTexFloorSandStar00,4261,667,eR5A2YsGKuygX85s2
+starry-sky wall,,5,star fragment,1,large star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Wallpaper,5500,silver,RoomSpWallStarSky00,2250,294,k4Fuy56j7X2gnPbhq
+steamer-basket set,,6,young spring bamboo,,,,,,,,,,,NFS,200,NA,NA,Balloons,,young spring bamboo,Yes,1.0.0,Yes,0,Miscellaneous,3344,green,FtrBasketsteamer,3003,382,Z7Bb4ApKb6B8pNne2
+steel flooring,,7,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Floors,4960,dark gray,RoomTexFloorSteel00,960,489,9ey59kSpvYXFaFzLz
+steel-frame wall,,8,iron nugget,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4801,dark gray,RoomTexWallSteel00,950,325,zStKcz96GL8oDdLW9
+stone arch,,90,stone,,,,,,,,,,,NFS,200,2000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,11941,light gray,FtrRockArch,809,652,6nZpvNEdHwxMgNtYC
+stone axe,,1,flimsy axe,3,wood,,,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,5856,beige,ToolAxeStoneNormal,101,285,RYD96qHETZn2ex3EP
+stone fence,,4,stone,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,5212,light gray,ItemFenceStone,890,266,SeyEuJLjP22oEeN2x
+stone lion-dog,,24,stone,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Housewares,7795,light gray,FtrSekishishi,816,570,qLZ2ZtquCBHWMF9Ke
+stone stool,,3,stone,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,3398,light gray,FtrStoneChair,800,104,zAdsd8FZE7z3BzvJz
+stone table,,8,stone,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,3397,light gray,FtrStoneTable,801,105,4ieu6E9Qf95NaSJGc
+stone tablet,,12,stone,,,,,,,,,,,NFS,200,800,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,11943,light gray,FtrRockMonument,817,651,DoFhuq2qKsiTHz6T6
+stone wall,,10,stone,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,5216,light gray,RoomTexWallBasement00,850,318,jkx7FkcrQdSWPqno2
+stone-egg outfit,,3,stone egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting stone eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12450,yellow,TopsTexOnepieceRibNEggrock0,8664,677,xrQW5CeTyHda2fcut
+stone-egg shell,,2,stone egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting stone eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12440,yellow,CapHatEggrock0,8663,676,bC74Ws22wnGThm6Mh
+stone-egg shoes,,2,stone egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting stone eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12456,yellow,ShoesLowcutEggrock0,8665,678,qjuG3PA8rJWbnu5Qp
+straw fence,,10,clump of weeds,3,wood,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,4356,green,ItemFenceDriedStraw,1290,552,WpBzuYymcgmxSCn2m
+straw umbrella hat,,10,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Equipment,7254,green,CapHatSandogasa0,1283,606,ADu83C55zHi4DfoFp
+street piano,,1,upright piano,1,painting set,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,100,Housewares,11942,yellow,FtrPianoStreet,2161,654,fXE4EShKRk3pRX58g
+succulent plant,,10,clump of weeds,1,empty can,,,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 1 empty can,NA,NA,1.0.0,Yes,0,Miscellaneous,132,green,FtrPlantSucculents,1201,190,YyxnntEPTDukJaRfY
+summer-shell rug,,6,summer shell,,,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.6.0,Yes,0,Rugs,12217,white,RugOtherShellSnailM00,4270,757,G5P9xnup3Aps3skQX
+swinging bench,,5,wood,7,softwood,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills; Tom Nook,Purchase Test Your DIY Skills from Nook's Cranny; 50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1170,brown,FtrSwingWood,377,59,8PYT8EbpS8exL2Px8
+tabletop festive tree,,5,gold ornament,3,tree branch,2,clay,,,,,,,NFS,200,NA,NA,Balloons,,ornaments,Yes,1.0.0,Yes,0,Miscellaneous,4067,white,FtrTreeXmasMini,7402,388,kNa25SiznwzDANzYb
+tall garden rock,,60,stone,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,730,light gray,FtrGardenrockTall,808,49,MqsHscjkCtGhwnPXc
+tall lantern,,18,stone,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,100,Housewares,676,light gray,FtrStonelantern,818,653,5LkbaD7PpwzSvzERR
+Taurus bathtub,,3,star fragment,2,Taurus fragment,1,gold nugget,8,stone,,,,,NFS,200,NA,NA,Celeste,,Taurus,Yes,1.0.0,Yes,0,Housewares,5961,silver,FtrZodiacTaurus,2301,384,tCQiMeCmYy7QeEP2K
+tea table,,12,hardwood,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Housewares,739,brown,FtrDiningtableJapan,400,33,k7Auf6dj296Eyu2QP
+terrarium,,12,clump of weeds,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,3773,green,FtrTerrarium,1202,391,d7WN5879xto3Q7egY
+three-tiered snowperson,,1,large snowflake,6,snowflake,2,tree branch,,,,,,,NFS,200,NA,NA,Snowboy,Reward for making a perfect Snowboy,snowflakes,Yes,1.0.0,Yes,0,Housewares,5337,blue,FtrSnowman,6610,364,XhwGfK9fy9iaq8qwt
+tiki torch,,5,tree branch,5,wood,,,,,,,,,NFS,200,NA,NA,Cranky villagers; Tom Nook,,NA,NA,1.0.0,Yes,0,Housewares,343,brown,FtrTorch,202,103,cLXnJ7cnYZc8Pbh2T
+timber doorplate,,2,wood,1,pink roses,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,5718,brown,FtrDoorOrnamentLog,502,465,bk8JqAgdSKtw6EdC8
+tiny library,,3,book,5,wood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Housewares,5635,yellow,FtrMicrolibrary,2101,278,rMWDf7X5P5jp8TnjK
+tire stack,,3,old tire,,,,,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 3 old tires,NA,NA,1.0.0,Yes,0,Housewares,1189,dark gray,FtrTyres,602,60,tNsxG387ihB4YLsx6
+tire toy,,1,old tire,,,,,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 1 old tire,NA,NA,1.0.0,Yes,0,Housewares,2329,dark gray,FtrPlayingtire,601,78,2bNpWkbwsHyXGCGb5
+traditional balancing toy,,4,acorn,2,hardwood,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Miscellaneous,5975,brown,FtrBalancingtoy,4605,411,8jd6NZ7MD7hJjAgbw
+traditional straw coat,,8,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Equipment,5291,green,TopsTexTopCoatLStrawBeige,1285,604,ofx4zP9Qj2tovbm3G
+trash bags,,1,empty can,1,boot,1,old tire,,,,,,,NFS,NA,NA,NA,Fishing,Fish up 15 trash,NA,NA,1.0.0,Yes,0,Miscellaneous,1823,dark gray,FtrGarbagebag,603,66,yofDbWxuR2q36otG4
+tree branch wreath,,10,tree branch,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,4727,brown,FtrDoorOrnamentWreathBranch,240,225,JnbW5panqjR2iWknX
+tree standee,,5,wood,8,softwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,533,brown,FtrHariboteTree,381,585,QnPjCxDRTXoQDHYqZ
+tree-branch wand,,5,tree branch,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,7587,brown,ToolStickTree,290,535,8WNAJXXX3Dn4Ggv5T
+tree's bounty arch,,4,pine cone,5,acorn,5,maple leaf,15,tree branch,,,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Housewares,6081,brown,FtrNutArch,4609,423,WQSMn7PgNkGiLjJaT
+tree's bounty big tree,,5,pine cone,4,acorn,4,maple leaf,8,tree branch,4,clay,,,NFS,200,NA,NA,Balloons,,maple leaves,Yes,1.0.0,Yes,0,Housewares,6080,brown,FtrNutTreeL,4608,417,WruuvjyZLeuYLkpca
+tree's bounty lamp,,6,acorn,4,clay,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Miscellaneous,6078,brown,FtrNutLamp,4606,415,fSYJ4F4BMefmKNXLT
+tree's bounty little tree,,6,pine cone,4,acorn,1,hardwood,,,,,,,NFS,200,NA,NA,Balloons; Isabelle,,acorns and pine cones,Yes,1.0.0,Yes,0,Miscellaneous,6079,brown,FtrNutTreeS,4607,416,RgkwpSJpTC2nEc6vB
+tree's bounty mobile,,2,pine cone,3,acorn,3,tree branch,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Wall-mounted,6075,brown,FtrNutMobile,4630,414,F6WehkKZG7sSwRLBo
+trophy case,,24,hardwood,3,gold nugget,6,iron nugget,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,100,Housewares,7261,brown,FtrTrophycase,401,576,jtaKPkvSoNZGcDrNt
+tropical vista,,5,summer shell,,,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Wallpaper,5661,white,RoomSpWallTropical00,4250,666,5mypRC2jBZnq6ywTT
+tulip crown,,2,red tulips,2,yellow tulips,1,white tulips,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5102,green,CapOrnamentTulip1,8209,243,Ltt8w4xYy5Qfp9R9b
+tulip surprise box,,5,red tulips,3,softwood,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,50,Housewares,7231,green,FtrFlowerSurprisedbox,7803,495,vn4G8vMx3426p84wv
+tulip wand,,1,red tulips,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5085,green,ToolStickTulip,8273,526,Hzq4v5JtEKASys3vY
+tulip wreath,,3,red tulips,3,yellow tulips,3,white tulips,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is tulips,NA,NA,1.0.0,Yes,50,Wall-mounted,5670,green,FtrDoorOrnamentWreathTulip,7849,360,jpfWEEc78PXeP26Js
+Turkey Day casserole,,5,iron nugget,1,clay,,,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Miscellaneous,13818,cream,FtrHarvestEnamelpod,6204,747,csETDXbGxaku9eYZp
+Turkey Day chair,,5,wood,2,hardwood,2,softwood,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Housewares,13450,cream,FtrHarvestChairS,6200,743,hMsMNszkB2zfwBdJ3
+Turkey Day decorations,,2,softwood,5,clump of weeds,2,clay,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Miscellaneous,13449,cream,FtrHarvestDecoration,6207,742,WhWnFXxxkade9uQ8B
+Turkey Day garden stand,,8,stone,3,clay,,,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Housewares,13447,cream,FtrHarvestStand,6202,740,G6LcqS35yv4qQstyZ
+Turkey Day hearth,,1,campfire,30,stone,10,clay,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Housewares,13448,cream,FtrHarvestFireplace,6203,741,q7nDduaLmuDHZHt3f
+Turkey Day table,,10,hardwood,5,softwood,,,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Housewares,13453,cream,FtrHarvestTableL,6201,745,HMADfttdyWWxAREWu
+Turkey Day table setting,,4,clay,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Miscellaneous,13820,cream,FtrHarvestTablesetting,6205,749,YEMmpdZnBCP24fZwE
+Turkey Day wheat decor,,10,clump of weeds,,,,,,,,,,,NFS,200,NA,NA,Cozy Turkey Day DIY,Obtain Cozy Turkey Day DIY from Franklin or buy it from Nook's Cranny,Turkey Day; Turkey Day (shopping days),Yes,1.6.0,Yes,0,Miscellaneous,13819,cream,FtrHarvestWheat,6206,748,ig7ceeRcMBchstrLo
+ukulele,,5,hardwood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,669,brown,FtrUkulele,462,45,ERCKXc8shWWqxzNdA
+underwater flooring,,3,summer shell,3,coral,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Floors,5268,white,RoomSpFloorFishTank00,4260,564,LXFkgER59WZAvCPKn
+underwater wall,,3,summer shell,5,coral,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Wallpaper,5508,white,RoomSpWallFishTank00,4251,665,EXDyLjtfBny7Nfg2W
+unglazed dish set,,3,clay,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,4025,brick,FtrDishesUnglazed,701,120,sWuKis4QjZNYnPDXK
+vaulting pole,,5,softwood,,,,,,,,,,,500,200,NA,NA,Blathers; Nook's Cranny,,NA,NA,1.0.0,Yes,0,Tools,4703,beige,LongWoodenStick,121,183,osL5JbW5XpPxQZR6b
+vertical-board fence,,8,wood,,,,,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,3402,brown,ItemFenceVerticalWood,581,100,gJHaHfwkn4dANzaTt
+Virgo harp,,3,star fragment,2,Virgo fragment,2,gold nugget,4,stone,,,,,NFS,200,NA,NA,Celeste,,Virgo,Yes,1.0.0,Yes,0,Housewares,5955,silver,FtrZodiacVirgo,2305,368,kWfYtKDBGdFbzayNq
+wand,,2,star fragment,,,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,7584,beige,ToolStickWood,123,532,8vcfcHLWY7MLbb9Hn
+water flooring,,6,summer shell,,,,,,,,,,,NFS,200,NA,NA,Balloons,,summer shells,Yes,1.0.0,Yes,0,Floors,5030,white,RoomSpFloorWater00,4262,565,pQvujBn8X2sq6j5FS
+water pump,,2,iron nugget,6,clay,,,,,,,,,NFS,200,NA,NA,Lazy villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,2326,dark gray,FtrHandpump,911,389,2T8NEjxqcfXPGLYby
+water-egg outfit,,3,water egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting water eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12454,yellow,TopsTexOnepieceRibNEggfish0,8676,689,7iGNX78irzAu3Z5rw
+water-egg shell,,2,water egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting water eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12444,yellow,CapHatEggfish0,8675,688,YqZedKTDWgjDWcTR4
+water-egg shoes,,2,water egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting water eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12460,yellow,ShoesLowcutEggfish0,8677,690,Bg9geKwGApyACyXEx
+watering can,,1,flimsy watering can,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Pretty Good Tools Recipes,Purchase Pretty Good Tools Recipes via Nook Miles Redemption,NA,NA,1.0.0,Yes,0,Tools,2379,beige,ToolWatering,110,280,2AGD3mCFzDSDNNZoK
+wave breaker,,10,stone,10,clay,,,,,,,,,NFS,200,1500,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Housewares,665,light gray,FtrTetrapod,813,55,CruEkwMoLo3LcnyG4
+wedding fence,,5,iron nugget,3,softwood,,,,,,,,,NFS,200,NA,NA,Harvey,,Wedding Season,Yes,1.2.0,Yes,0,Other,12894,dark gray,ItemFenceJuneBride,992,714,yZNfKe6dESLFFQ8J4
+wedding wand,,1,wedding flower stand,3,star fragment,,,,,,,,,NFS,200,NA,NA,Cyrus,,Wedding Season,Yes,1.2.0,Yes,0,Tools,12695,green,ToolStickJune,8278,715,LokHc5XaxADprKGWJ
+western-style stone,,30,stone,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,100,Housewares,3446,light gray,FtrGravestoneEuropean,814,518,5BDsJhPKYRpxFjyvz
+wild log bench,,8,hardwood,,,,,,,,,,,NFS,200,NA,NA,Jock villagers,,NA,NA,1.0.0,Yes,0,Housewares,5972,brown,FtrWoodBench,332,436,ZGWN8wsv7hgjbLvdM
+wild-wood wall,,15,wood,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4858,brown,RoomTexWallWildWood00,523,309,RQL2msCcNbX2Nyvqg
+windflower crown,,2,red windflowers,2,orange windflowers,2,white windflowers,,,,,,,NFS,200,NA,NA,All villagers,,NA,NA,1.0.0,Yes,0,Equipment,5099,green,CapOrnamentAnemone1,8200,240,2bHpYXqeSKyRgCsHx
+windflower fan,,3,red windflowers,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,50,Miscellaneous,7233,green,FtrFlowerFan,7800,503,6Fz77bGPrTCrYNffT
+windflower wand,,1,orange windflowers,3,star fragment,,,,,,,,,NFS,200,NA,NA,Celeste,,NA,NA,1.0.0,Yes,0,Tools,5084,green,ToolStickAnemones,8270,525,GFM7MzdiDKiqhBb9X
+windflower wreath,,3,red windflowers,3,white windflowers,3,orange windflowers,,,,,,,NFS,200,NA,NA,All villagers; Tom Nook,Obtained during the main storyline during the villager house development quest if the native flower is windflowers,NA,NA,1.0.0,Yes,50,Wall-mounted,5436,green,FtrDoorOrnamentWreathAnemone,7840,228,xGTRnSEqPTzYGDwjT
+wobbling Zipper toy,,4,earth egg,4,stone egg,4,leaf egg,4,wood egg,4,sky egg,4,water egg,NFS,200,NA,NA,Zipper,Reward from Zipper after crafting all Bunny Day recipes,Bunny Day,Yes,1.1.0,Yes,0,Miscellaneous,12412,yellow,FtrDollPyn,8609,696,3HBkSreJ3Rz7689K7
+wood-egg outfit,,3,wood egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting wood eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12452,yellow,TopsTexOnepieceRibNEggforest0,8670,683,Cqe6TyaE38gnjAtmr
+wood-egg shell,,2,wood egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting wood eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12442,yellow,CapHatEggforest0,8669,682,Dokk8EnqpoFPBXD8R
+wood-egg shoes,,2,wood egg,,,,,,,,,,,NFS,NA,NA,NA,Collecting wood eggs,,Bunny Day (ready days); Bunny Day,Yes,1.1.0,Yes,0,Equipment,12458,yellow,ShoesLowcutEggforest0,8671,684,cEawPHH27B36anZsf
+wooden bookshelf,,5,book,10,wood,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Housewares,4125,yellow,FtrBookshelf,2102,404,XE27aTmxufH84fcWf
+wooden bucket,,3,wood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Smug villagers; Tom Nook,50% chance of being obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,880,brown,FtrBucketWood,432,16,8ckCy9CHdL6iXXptE
+wooden chair,,6,wood,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers; Tom Nook,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1913,brown,FtrWoodenChairS,311,15,e2Z5K68fA23E9FcdT
+wooden chest,,16,wood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,0,Housewares,2560,brown,FtrWoodenChest,317,17,hAgLHeuw7xfkbzjpu
+wooden double bed,,30,wood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,7132,brown,FtrWoodenBedW,319,493,z3TPTghmTbEFZE2mw
+wooden end table,,8,wood,,,,,,,,,,,NFS,200,NA,NA,Snooty villagers,,NA,NA,1.0.0,Yes,0,Housewares,3438,brown,FtrWoodenTableS,313,170,nJDFrN9LmyK3FN7ZT
+wooden fish,,3,wood,,,,,,,,,,,NFS,200,NA,NA,Wildest Dreams DIY,Purchase Wildest Dreams DIY from Nook's Cranny,NA,NA,1.0.0,Yes,0,Miscellaneous,4124,brown,FtrMokugyo,463,193,2ZuPfoHnSXBEwWfPL
+wooden full-length mirror,,5,wood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,7137,brown,FtrWoodenMirror,320,502,dn4EDHGArXPGhs2Mx
+wooden low table,,10,wood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Housewares,7134,brown,FtrWoodenTableM,314,491,xA3hY8ZZd3qm9SqmP
+wooden mini table,,6,wood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,7133,brown,FtrWoodenTableMini,312,492,qt5zRMx9nJShGjxyY
+wooden simple bed,,18,wood,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers; Tom Nook,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,2605,brown,FtrWoodenBedS,318,18,ayWFNoe5BBmR5JDde
+wooden stool,,4,wood,,,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,3449,brown,FtrWoodenStoolS,310,168,tCZg7fdKsKoJ2Ca6y
+wooden table,,15,wood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3439,brown,FtrWoodenTableL,315,201,vXEY4HbrHoAoiQn9s
+wooden table mirror,,3,wood,1,iron nugget,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,8826,brown,FtrWoodenMirrorS,321,572,7QmfhABkJayiuyPTt
+wooden toolbox,,4,softwood,2,iron nugget,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Miscellaneous,7454,brown,FtrToolboxWood,468,579,qaHmYYCti572DQqW8
+wooden wardrobe,,12,wood,,,,,,,,,,,NFS,200,NA,NA,Tom Nook,Obtained during the main storyline during the customization workshop,NA,NA,1.0.0,Yes,0,Housewares,3436,brown,FtrWoodenCloset,316,172,ZnX2CrjCz5F2be4Ke
+wooden waste bin,,4,wood,,,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,3490,brown,FtrTrashboxWood,322,173,kJHkBWB2YyDQwJWDN
+wooden-block bed,,1,wooden-block toy,17,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,1557,brown,FtrBlockBedS,356,61,jojeuDRs9dnhhtrNE
+wooden-block bench,,1,wooden-block toy,4,softwood,,,,,,,,,NFS,200,NA,NA,Big Sister villagers,,NA,NA,1.0.0,Yes,0,Housewares,1559,brown,FtrBlockChairL,353,23,6X3d6utgMWpykB6cp
+wooden-block bookshelf,,1,wooden-block toy,3,softwood,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,1558,brown,FtrBlockShelf,357,62,ncMTEpvQfe9SGvipJ
+wooden-block chair,,1,wooden-block toy,3,softwood,,,,,,,,,NFS,200,NA,NA,Test Your DIY Skills,Purchase Test Your DIY Skills from Nook's Cranny,NA,NA,1.0.0,Yes,0,Housewares,2558,brown,FtrBlockChairS,352,160,NxDA47H5aq9g6Ssty
+wooden-block chest,,1,wooden-block toy,12,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Housewares,1561,brown,FtrBlockChest,355,24,9cAfAFEhqMFHTefLC
+wooden-block stereo,,1,wooden-block toy,5,softwood,2,iron nugget,,,,,,,NFS,200,NA,NA,Test Your DIY Skills; Tom Nook,Purchase Test Your DIY Skills from Nook's Cranny; Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,3205,brown,FtrBlockCompo,358,89,xC4riKsFQjbPpK8Ty
+wooden-block stool,,1,wooden-block toy,2,softwood,,,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,0,Housewares,5543,brown,FtrBlockStoolS,351,387,ZWWM3P5WD6kPS7JNK
+wooden-block table,,1,wooden-block toy,8,softwood,,,,,,,,,NFS,200,NA,NA,Big Sister villagers; Tom Nook,Obtained during the main storyline during the villager house development quest,NA,NA,1.0.0,Yes,0,Housewares,1565,brown,FtrBlockTableL,354,26,XT35v4Sb4K3QH2dWC
+wooden-block toy,,3,softwood,,,,,,,,,,,NFS,200,NA,NA,DIY for Beginners,Purchase DIY for Beginners at Nook's Cranny,NA,NA,1.0.0,Yes,0,Miscellaneous,3206,brown,FtrBlockBrick,350,38,uKX4pS9YuAJPSqAGX
+wooden-block wall clock,,1,wooden-block toy,2,softwood,1,iron nugget,,,,,,,NFS,200,NA,NA,Peppy villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,3208,brown,FtrBlockClock,359,90,g9N9eFwC48vsPWz5e
+wooden-knot wall,,15,hardwood,,,,,,,,,,,NFS,200,NA,NA,Smug villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4911,brown,RoomTexWallCedar00,526,319,6aNph3fACbZjxyaWp
+wooden-mosaic wall,,15,wood,,,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,4859,brown,RoomTexWallMixPlankWood00,521,310,TYGjpCGthu9jgA5ty
+wooden-plank sign,,5,hardwood,,,,,,,,,,,NFS,200,NA,NA,Cranky villagers,,NA,NA,1.0.0,Yes,50,Wall-mounted,5636,brown,FtrSignboardWood,483,279,EbrmatJDLMcc2oexh
+woodland wall,,15,clump of weeds,9,softwood,,,,,,,,,NFS,200,NA,NA,Normal villagers,,NA,NA,1.0.0,Yes,0,Wallpaper,5223,green,RoomTexWallJukai00,1251,471,JaqMjuzXa8t426jeT
+yellow-leaf pile,,3,acorn,5,clump of weeds,,,,,,,,,NFS,200,NA,NA,Balloons,,acorns and pine cones,Yes,1.0.0,Yes,0,Housewares,4270,brown,FtrFallenleavesYellow,4600,588,tFckEAxEjrgkrc3ga
+zen fence,,3,iron nugget,3,clay,3,stone,,,,,,,NFS,200,1000,Nook Miles,Nook Miles Redemption,,NA,NA,1.0.0,Yes,0,Other,5207,light gray,ItemFenceJapanese,893,556,i3NJEKs5tNY9dJSCX
+zen-style stone,,30,stone,,,,,,,,,,,NFS,200,NA,NA,Lazy villagers,,NA,NA,1.0.0,Yes,100,Housewares,7317,light gray,FtrGravestoneJapan,815,568,236xGcHiXbpCRfWba

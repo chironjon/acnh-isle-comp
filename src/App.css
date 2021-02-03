@@ -18,12 +18,3 @@ h1 {
  div {
   border: red dotted 1px;
 } 
-
-.header {
-  height: auto;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 25px; /*from video*/
-
-}
