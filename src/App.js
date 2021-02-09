@@ -7,6 +7,7 @@ import './App.css';
 
 import StartPage from './pages/StartPage/startpage.component';
 import CatalogPage from './pages/CatalogPage/catalogpage.component';
+import LoginPage from './pages/LoginPage/loginpage.component';
 import Header from './components/header/header.component';
 import Footer from './components/footer/footer.component';
 
@@ -30,7 +31,8 @@ class App extends React.Component {
         {/*pages*/}
         <Switch>
           <Route exact path='/' component={StartPage} />
-          <Route exact path='/catalogs' component={CatalogPage} />
+          <Route path='/catalogs' component={CatalogPage} />
+          <Route path='/login' component={LoginPage} /> 
         </Switch>
         {/*footer*/}
         <Footer />

@@ -1,7 +1,7 @@
-import critterpedia from '../../assets/DeviceIconBook.png'
-import catalogs from '../../assets/DeviceIconCatalog.png'
-import journal from '../../assets/DeviceIconProfile.png'
-import villagers from '../../assets/DeviceIconBestFriend.png'
+import utilities from '../../assets/icons/utilities.svg'
+import catalogs from '../../assets/icons/catalogcart.svg'
+import journal from '../../assets/icons/journal.svg'
+import villagers from '../../assets/icons/friendsicon.svg'
 
 const titleArray = [
   'catalogs',
@@ -23,7 +23,7 @@ const INITIAL_STATE = {
     {
       title: titleArray[1],
       subtitle: 'coming soon',
-      imageUrl: critterpedia,
+      imageUrl: utilities,
       id: 2,
       size: 'box',
       linkUrl: titleArray[1]

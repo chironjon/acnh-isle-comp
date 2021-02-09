@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
@@ -8,24 +8,37 @@ import { selectCollections } from '../../redux/collection/collection.selectors'
 
 import './catalogpage.styles.scss';
 
-const CatalogPage = ({collections}) => (
+const CatalogPage = ({collections}) => {
+  const [categories, setCategory] = useState([]);
+  let choices = [];
+
+  // useEffect(() => {
+  //   Object.values(collections).forEach(({category}) => {
+  //     choices.push(category)
+  //   })
+  //   console.log(choices)
+  //   setCategory(choices)
+  // })
+
+  return (
   <div>
     <div className='catalog'>
+    
       <Scroll>
         <div>
-          {
+          {/*
             Object.values(collections).forEach(({id, category, subcategory, items}) => {
               console.log(id, category, subcategory)
               items.forEach(item => {
                 console.log(item)
               })
-            })}
+            })*/}
         
         </div>
       </Scroll>
     </div>
   </div>
-);
+);}
 
 const mapStateToProps = createStructuredSelector({
   collections: selectCollections

@@ -1,3 +1,10 @@
+/* html {
+  background-image: url('assets/backgrounds/lightshore.svg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: auto 100%;
+} */
+
 body {
   font-family: 'Short Stack', cursive;
   padding: 5px 10px;
