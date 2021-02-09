@@ -30,7 +30,7 @@ class App extends React.Component {
         <Header />
         {/*pages*/}
         <Switch>
-          <Route exact path='/' component={StartPage} />
+          <Route exact path='/acnh-isle-comp' component={StartPage} />
           <Route path='/catalogs' component={CatalogPage} />
           <Route path='/login' component={LoginPage} /> 
         </Switch>
