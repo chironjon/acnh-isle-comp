@@ -11,7 +11,7 @@ const Header = () => (
       <Logo className='logo' />
       <label className='home-label'>Home</label>
     </Link>
-    <div className='sitetitle'><h1>Isle Compendium</h1></div>
+    <div className='sitetitle'><h1>My Isle Compendium</h1></div>
     <Link className='options' to='/login'>Login/Logout</Link>
   </div>
 );
