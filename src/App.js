@@ -31,8 +31,8 @@ class App extends React.Component {
         {/*pages*/}
         <Switch>
           <Route exact path='/acnh-isle-comp' component={StartPage} />
-          <Route path='/catalogs' component={CatalogPage} />
-          <Route path='/login' component={LoginPage} /> 
+          <Route path='/acnh-isle-comp/catalogs' component={CatalogPage} />
+          <Route path='/acnh-isle-comp/login' component={LoginPage} /> 
         </Switch>
         {/*footer*/}
         <Footer />

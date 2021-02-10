@@ -12,7 +12,9 @@ const Header = () => (
       <label className='home-label'>Home</label>
     </Link>
     <div className='sitetitle'><h1>My Isle Compendium</h1></div>
-    <Link className='options' to='/login'>Login/Logout</Link>
+    <div className='options' >
+      <Link className='option' to='/acnh-isle-comp/login'>Login/Logout</Link>
+    </div>
   </div>
 );
 

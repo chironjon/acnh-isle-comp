@@ -18,7 +18,7 @@ const INITIAL_STATE = {
       imageUrl: catalogs,
       id: 1,
       size: 'box',
-      linkUrl: titleArray[0]
+      linkUrl: "/" + titleArray[0]
     },
     {
       title: titleArray[1],
@@ -26,7 +26,7 @@ const INITIAL_STATE = {
       imageUrl: utilities,
       id: 2,
       size: 'box',
-      linkUrl: titleArray[1]
+      linkUrl: "/" + titleArray[1]
     },
     {
       title: titleArray[2],
@@ -34,7 +34,7 @@ const INITIAL_STATE = {
       imageUrl: villagers,
       id: 3,
       size: 'box',
-      linkUrl: titleArray[2]
+      linkUrl: "/" + titleArray[2]
     },
     {
       title: titleArray[3],
@@ -42,7 +42,7 @@ const INITIAL_STATE = {
       imageUrl: journal,
       id: 4,
       size: 'box',
-      linkUrl: titleArray[3]
+      linkUrl: "/" + titleArray[3]
     }
   ]
 };
