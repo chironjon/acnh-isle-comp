@@ -24,11 +24,14 @@ $main-color: black;
     border-bottom: 1px solid $sub-color;
     margin: 25px 0;
 
+    &:focus {
+      outline: none;
+    }
+
     &:focus ~ .form-input-label {
       @include shrinkLabel();
     }
   }
-
 
   input[type='password'] {
     letter-spacing: 0.3em;
@@ -38,7 +41,7 @@ $main-color: black;
     color: $sub-color;
     font-size: 16px;
     font-weight: normal;
-    position: absolut;
+    position: absolute;
     pointer-events: none;
     left: 5px;
     top: 10px;

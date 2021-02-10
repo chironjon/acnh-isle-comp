@@ -10,24 +10,36 @@ import CatalogPage from './pages/CatalogPage/catalogpage.component';
 import LoginPage from './pages/LoginPage/loginpage.component';
 import Header from './components/header/header.component';
 import Footer from './components/footer/footer.component';
+import { auth } from './firebase/firebase.utils';
+
 
 class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      test: 'test'
+      currentUser: null
     };
   }
 
+  unsubscribeFromAuth = null
+
   componentDidMount() {
-    console.log('did mount')
+    auth.onAuthStateChanged(user => {
+      this.setState({ currentUser: user });
+
+      console.log(user);
+    });
+  }
+
+  componentWillUnmount() {
+    this.unsubscribeFromAuth();
   }
 
   render() {
     return (
       <div className='App'>
         {/*header*/}
-        <Header />
+        <Header currentUser={this.state.currentUser}/>
         {/*pages*/}
         <Switch>
           <Route exact path='/acnh-isle-comp' component={StartPage} />

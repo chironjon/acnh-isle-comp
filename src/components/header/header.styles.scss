@@ -49,8 +49,9 @@
     align-items: center;
     // justify-content: flex-end;
     
-    // .option {
+    .option {
       padding: 10px 15px;
-    // }
+      cursor: pointer;
+    }
   }
 }
