@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/acnh-isle-comp/static/css/main.5b701411.chunk.css",
+    "main.js": "/acnh-isle-comp/static/js/main.574c0ed0.chunk.js",
+    "main.js.map": "/acnh-isle-comp/static/js/main.574c0ed0.chunk.js.map",
+    "runtime-main.js": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js",
+    "runtime-main.js.map": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js.map",
+    "static/js/2.4b323f2b.chunk.js": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js",
+    "static/js/2.4b323f2b.chunk.js.map": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js.map",
+    "index.html": "/acnh-isle-comp/index.html",
+    "static/css/main.5b701411.chunk.css.map": "/acnh-isle-comp/static/css/main.5b701411.chunk.css.map",
+    "static/js/2.4b323f2b.chunk.js.LICENSE.txt": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js.LICENSE.txt",
+    "static/media/catalogcart.d193f546.svg": "/acnh-isle-comp/static/media/catalogcart.d193f546.svg",
+    "static/media/friendsicon.0d9ee6b0.svg": "/acnh-isle-comp/static/media/friendsicon.0d9ee6b0.svg",
+    "static/media/islandlogo.8a7ce723.svg": "/acnh-isle-comp/static/media/islandlogo.8a7ce723.svg",
+    "static/media/journal.3b36e2f7.svg": "/acnh-isle-comp/static/media/journal.3b36e2f7.svg",
+    "static/media/index.css": "/acnh-isle-comp/static/media/lightshore.2bc4f267.svg",
+    "static/media/utilities.f4c0ac01.svg": "/acnh-isle-comp/static/media/utilities.f4c0ac01.svg",
+    "static/media/menu-item.styles.scss": "/acnh-isle-comp/static/media/woodgrain.495a25c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195bcd0d.js",
+    "static/js/2.4b323f2b.chunk.js",
+    "static/css/main.5b701411.chunk.css",
+    "static/js/main.574c0ed0.chunk.js"
+  ]
+}
