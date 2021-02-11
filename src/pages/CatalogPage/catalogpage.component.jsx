@@ -15,14 +15,10 @@ const CatalogPage = ({collections}) => {
   console.log(categories, 'start')
   useEffect(() => {
     Object.values(collections).forEach(({id, category, subcategory}) => {
-      
-      if(category === "catalog") {
-              // console.log(id, subcategory)
-                if(!choices.includes(subcategory)){
-                  choices.push(subcategory)
-                  // console.log(subcategory, 'new')
-                }
-              }
+      if(!choices.includes(category)){
+        choices.push(category)
+        // console.log(subcategory, 'new')
+      }
     })
     setCategory(choices)
     // console.log('categories', categories)
