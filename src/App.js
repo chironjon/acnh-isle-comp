@@ -5,10 +5,10 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 
 import './App.css';
 
+import Header from './components/header/header.component';
 import StartPage from './pages/StartPage/startpage.component';
 import CatalogPage from './pages/CatalogPage/catalogpage.component';
 import LoginPage from './pages/LoginPage/loginpage.component';
-import Header from './components/header/header.component';
 import Footer from './components/footer/footer.component';
 import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 

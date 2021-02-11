@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
 import Scroll from '../../components/scroll/scroll.component'
+import ItemDisplay from '../../components/item-display/item-display.component';
 
 import { selectCollections } from '../../redux/collection/collection.selectors'
 
@@ -11,30 +12,43 @@ import './catalogpage.styles.scss';
 const CatalogPage = ({collections}) => {
   const [categories, setCategory] = useState([]);
   let choices = [];
-
-  // useEffect(() => {
-  //   Object.values(collections).forEach(({category}) => {
-  //     choices.push(category)
-  //   })
-  //   console.log(choices)
-  //   setCategory(choices)
-  // })
+  console.log(categories, 'start')
+  useEffect(() => {
+    Object.values(collections).forEach(({id, category, subcategory}) => {
+      
+      if(category === "catalog") {
+              // console.log(id, subcategory)
+                if(!choices.includes(subcategory)){
+                  choices.push(subcategory)
+                  // console.log(subcategory, 'new')
+                }
+              }
+    })
+    setCategory(choices)
+    // console.log('categories', categories)
+  }, [])
 
   return (
   <div>
     <div className='catalog'>
     
       <Scroll>
-        <div>
-          {/*
+      {/*
+        <ItemDisplay />
             Object.values(collections).forEach(({id, category, subcategory, items}) => {
-              console.log(id, category, subcategory)
-              items.forEach(item => {
-                console.log(item)
-              })
-            })*/}
-        
-        </div>
+              if(category === "catalog") {
+              console.log(id, subcategory)
+                if(!choices.includes(subcategory)){
+                  choices.push(subcategory)
+                  console.log(subcategory, 'new')
+                }
+              }
+              // items.forEach(item => {
+              //   console.log(item)
+              // })
+            console.log(choices)
+            })
+            */}
       </Scroll>
     </div>
   </div>

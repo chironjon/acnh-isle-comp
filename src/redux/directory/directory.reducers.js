@@ -2,11 +2,13 @@ import utilities from '../../assets/icons/utilities.svg'
 import catalogs from '../../assets/icons/catalogcart.svg'
 import journal from '../../assets/icons/journal.svg'
 import villagers from '../../assets/icons/friendsicon.svg'
+import home from '../../assets/icons/islandlogo.svg';
 
 const titleArray = [
+  'home',
   'catalogs',
-  'utilities',
   'villagers',
+  'utilities',
   'journal'
 ]
 
@@ -15,15 +17,15 @@ const INITIAL_STATE = {
     {
       title: titleArray[0],
       subtitle: 'coming soon',
-      imageUrl: catalogs,
+      imageUrl: home,
       id: 1,
       size: 'box',
-      linkUrl: "/" + titleArray[0]
+      linkUrl: ""
     },
     {
       title: titleArray[1],
       subtitle: 'coming soon',
-      imageUrl: utilities,
+      imageUrl: catalogs,
       id: 2,
       size: 'box',
       linkUrl: "/" + titleArray[1]
@@ -39,10 +41,18 @@ const INITIAL_STATE = {
     {
       title: titleArray[3],
       subtitle: 'coming soon',
-      imageUrl: journal,
+      imageUrl: utilities,
       id: 4,
       size: 'box',
       linkUrl: "/" + titleArray[3]
+    },
+    {
+      title: titleArray[4],
+      subtitle: 'coming soon',
+      imageUrl: journal,
+      id: 5,
+      size: 'box',
+      linkUrl: "/" + titleArray[4]
     }
   ]
 };

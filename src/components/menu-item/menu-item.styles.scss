@@ -1,13 +1,13 @@
 .menu-item {
-  min-width: 250px;
-  height: 240px;
-  flex: 1 0 auto;
+  width: 200px;
+  height: fit-content;
+  // flex: 1 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 2px solid brown;
-  border-radius: 90px;
+  border: 2.5px solid brown;
+  border-radius: 25px;
   background-image: url('../../assets/icons/woodgrain.svg');
   background-repeat: no-repeat;
   // background-attachment: scroll;
@@ -37,7 +37,6 @@
 
   .menu-item-content {
     height: 90px;
-    padding: 0 25px;
     color: var(--text);
     text-shadow: 1.5px 2px black;
     display: flex;
@@ -48,7 +47,7 @@
 
     .title {
       font-weight: bold;
-      margin-bottom: 6px;
+      margin-bottom: 0px;
       font-size: 30px;
     }
 
