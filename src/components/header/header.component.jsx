@@ -15,7 +15,7 @@ const Header = ({ currentUser }) => (
         <label className='home-label'>Home</label>
 </Link>*/}
       <Switch>
-        <Route path='/acnh-isle-comp' component={HeaderMenu} />
+        <Route path='/acnh-isle-comp/' component={HeaderMenu} />
       </Switch>
     <div className='sitetitle'><h1>My Isle Compendium</h1></div>
     <div className='account' >
