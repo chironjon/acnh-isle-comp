@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/acnh-isle-comp/static/css/main.08ac0f4e.chunk.css",
-    "main.js": "/acnh-isle-comp/static/js/main.574c0ed0.chunk.js",
-    "main.js.map": "/acnh-isle-comp/static/js/main.574c0ed0.chunk.js.map",
+    "main.js": "/acnh-isle-comp/static/js/main.055968c8.chunk.js",
+    "main.js.map": "/acnh-isle-comp/static/js/main.055968c8.chunk.js.map",
     "runtime-main.js": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js",
     "runtime-main.js.map": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js.map",
     "static/js/2.4b323f2b.chunk.js": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.195bcd0d.js",
     "static/js/2.4b323f2b.chunk.js",
     "static/css/main.08ac0f4e.chunk.css",
-    "static/js/main.574c0ed0.chunk.js"
+    "static/js/main.055968c8.chunk.js"
   ]
 }
