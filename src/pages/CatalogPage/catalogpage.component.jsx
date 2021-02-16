@@ -12,16 +12,16 @@ import './catalogpage.styles.scss';
 const CatalogPage = ({collections}) => {
   const [categories, setCategory] = useState([]);
   let choices = [];
-  console.log(categories, 'start')
+  console.log(collections)
   useEffect(() => {
-    Object.values(collections).forEach(({id, category, subcategory}) => {
-      if(!choices.includes(category)){
-        choices.push(category)
-        // console.log(subcategory, 'new')
+    Object.values(collections['catalog']).forEach(({category, subcategory}) => {
+      if(!choices.includes(subcategory)){
+        choices.push(subcategory)
+        console.log(category, subcategory)
       }
     })
     setCategory(choices)
-    // console.log('categories', categories)
+    console.log('categories', categories)
   }, [])
 
   return (

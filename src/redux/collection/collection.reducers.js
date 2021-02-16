@@ -1,7 +1,15 @@
-import COLLECTION_DATA from './collection.data'
+import CATALOG_DATA from './catalog.data.js'
+import VILLAGERS_DATA from './villagers.data.js'
+import JOURNAL_DATA from './journal.data.js'
+import UTILITIES_DATA from './utilities.data.js'
 
 const INITIAL_STATE = {
-  collections: COLLECTION_DATA
+  'collections': {
+    'catalog': CATALOG_DATA,
+    'villagers': VILLAGERS_DATA,
+    'journal': JOURNAL_DATA,
+    'utilities': UTILITIES_DATA
+  }
 };
 
 const collectionReducer = (state = INITIAL_STATE, action) => {
