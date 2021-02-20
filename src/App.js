@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 
 import './App.css';
 
+import InfoModal from './components/info-modal/info-modal.component';
 import Header from './components/header/header.component';
 import StartPage from './pages/StartPage/startpage.component';
 import CatalogPage from './pages/CatalogPage/catalogpage.component';
@@ -45,7 +46,8 @@ class App extends React.Component {
   render() {
     return (
       <div className='App'>
-        {/*header*/}
+        {/*Info Modal for all pop up info*/}
+        <InfoModal />
         <Header />
         {/*pages*/}
         <Switch>
@@ -53,7 +55,6 @@ class App extends React.Component {
           <Route path='/acnh-isle-comp/catalog' component={CatalogPage} />
           <Route exact path='/acnh-isle-comp/login' render={() => this.props.currentUser ? (<Redirect to='/acnh-isle-comp' />) : (<LoginPage />)} /> 
         </Switch>
-        {/*footer*/}
         <Footer />
       </div>
     );
