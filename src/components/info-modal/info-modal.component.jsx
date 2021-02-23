@@ -10,7 +10,9 @@ const InfoModal = ({item, hidden}) => (
     {
       hidden ? null :
       <div className='info-modal-container'>
-        <ItemCard item={item}/>
+        <div className='info-container'>
+          <ItemCard item={item}/>
+        </div>
       </div>
     }
   </>

@@ -17,9 +17,9 @@ const CatalogPage = ({collections}) => {
   let subcategoryArray = [];
   for (const [key, value] of Object.entries(collections.catalog)) {
     // console.log(`entries ${key}: `);
-    // if(!subcategoryArray.includes(key)){
-      // subcategoryArray.push(key)
-    // }
+    if(!subcategoryArray.includes(key)){
+      subcategoryArray.push(key)
+    }
     for (const [subKey, subValue] of Object.entries(value)) {
       if(subKey === 'subcategory'){
         console.log(`${subKey}, ${subValue}`)

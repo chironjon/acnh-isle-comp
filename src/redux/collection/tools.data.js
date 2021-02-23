@@ -1,4 +1,4 @@
-const UTILITIES_DATA = {
+const TOOLS_DATA = {
   "construction": {
     "items": [{
       "Name": "brick bridge",
@@ -1653,7 +1653,7 @@ const UTILITIES_DATA = {
       "Filename": "HouseWallPA04StuccoF",
       "Unique Entry ID": "78XQwM8DMwK8YsJig"
     }],
-    "category": "utilities",
+    "category": "tools",
     "subcategory": "planning"
   },
   "fencing": {
@@ -1953,9 +1953,9 @@ const UTILITIES_DATA = {
       "Internal ID": "5207",
       "Unique Entry ID": "yZeqREzefxeSiLAaP"
     }],
-    "category": "utilities",
+    "category": "tools",
     "subcategory": "planning"
   }
 };
 
-export default UTILITIES_DATA;
+export default TOOLS_DATA;

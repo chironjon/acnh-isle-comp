@@ -1,28 +1,9 @@
-/* html {
-  background-image: url('assets/backgrounds/lightshore.svg');
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: auto 100%;
-} */
-
 body {
   font-family: 'Source Code Pro', monospace;
   padding: 5px 10px;
   text-align: center;
-  /* color: var(--secondary-two-dark); */
 }
-h1 {
-  font-family: 'Delius Swash Caps', cursive;
-  text-shadow: 1.5px 2px black;
-  
-}
-/* a {
-  text-decoration: none;
-  color: rgba(218,243,251,1);
-} */
-* {
-  box-sizing: border-box;
-}
- div {
+
+/* div {
   border: red dotted 1px;
-} 
+}  */

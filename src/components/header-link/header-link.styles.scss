@@ -1,12 +1,12 @@
 .header-link {
   display: flex;
-  width: 50px;
-  height: 50px;
   flex-direction: column;
   align-items: center;
+  width: 50px;
+  height: 50px;
   border: 5px solid brown;
-  border-radius: 50%;
-  margin: 0 10px;
+  border-radius: 100%;
+  margin: 0 8px;
 
   &:hover {
     cursor: pointer;
@@ -25,19 +25,16 @@
 
   .label-container {
     display: flex;
-    align-items: center;
-    border: .5px solid brown;
-    border-radius: 90px;
     text-shadow: 1.5px 2px black;
     height: fit-content;
     width: fit-content;
     padding: 2px;
     margin-top: 3px;
-    // position: relative;
-    // top: 0;
+    position: relative;
+    top: 0;
 
     .header-link-label {
-      font-size: 9px;
+      font-size: var(--smText);
     }
   }
 }
