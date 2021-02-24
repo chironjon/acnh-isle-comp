@@ -58,7 +58,7 @@ body {
   --secondary-two-darker: rgba(  0, 79, 27,1);
 
   /* text sizes */
-  --smText: 0.64rem;
+  --smText: 0.59rem;
   --mdText: 0.8rem;
   --lgText: 1rem;
   --xlText: 1.25rem;
@@ -68,6 +68,7 @@ body {
   --xlHeading: 3.052rem;
 
   /* spacing */
+  --xsPadding: 0.03rem;
   --smPadding: 0.5rem;
   --mdPadding: 1rem;
   --lgPadding: 1.5rem;

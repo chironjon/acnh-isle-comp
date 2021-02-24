@@ -1,10 +1,10 @@
 .header {
   width: 100%;
-  display: grid;
-  grid-template-rows: 1.5fr 1fr;
-  grid-template-columns: 2fr 1fr;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 17px;
   margin-bottom: 25px; /*from video*/
-  border: 2.5px solid brown;
+  // border: 2.5px solid brown;
   border-radius: 25px;
   background-image: url('../../assets/icons/woodgrain.svg');
   background-repeat: no-repeat;
@@ -13,25 +13,8 @@
   background-size: cover;
 
   .sitetitle {
-    
-    margin: 0 10px;
     h1 {
       font-size: var(--lgHeading);
-    }
-  }
-
-  .menu {
-    grid-column-start: span 2;
-  }
-
-  .account {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-shadow: 1.5px 2px black;
-    
-    .login {
-      cursor: pointer;
     }
   }
 }

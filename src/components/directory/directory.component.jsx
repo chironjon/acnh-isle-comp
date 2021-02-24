@@ -11,7 +11,7 @@ import './directory.styles.scss';
 const Directory = ({ sections }) => (
   <div className='directory-menu'>
     {sections.map(({ id, ...otherSectionProps }) => (
-      id > 1 ? <MenuItem key={id} {...otherSectionProps} /> : null
+      (id > 1 && id < sections.length) ? <MenuItem key={id} {...otherSectionProps} /> : null
     ))}
   </div>
 );

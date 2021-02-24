@@ -1,15 +1,17 @@
-import tools from '../../assets/icons/tools.svg'
-import catalog from '../../assets/icons/catalogcart.svg'
-import journal from '../../assets/icons/journal.svg'
-import villagers from '../../assets/icons/friendsicon.svg'
+import tools from '../../assets/icons/tools.svg';
+import catalog from '../../assets/icons/catalogcart.svg';
+import journal from '../../assets/icons/journal.svg';
+import villagers from '../../assets/icons/friendsicon.svg';
 import home from '../../assets/icons/islandlogo.svg';
+import login from '../../assets/icons/22_Profile.svg';
 
 const titleArray = [
   'home',
   'catalog',
   'villagers',
   'tools',
-  'journal'
+  'journal',
+  'login'
 ]
 
 const INITIAL_STATE = {
@@ -53,6 +55,14 @@ const INITIAL_STATE = {
       id: 5,
       size: 'box',
       linkUrl: "/" + titleArray[4]
+    },
+    {
+      title: titleArray[5],
+      subtitle: '',
+      imageUrl: login,
+      id: 6,
+      size: 'box',
+      linkUrl: "/" + titleArray[5]
     }
   ]
 };

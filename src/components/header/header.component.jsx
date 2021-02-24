@@ -1,37 +1,15 @@
 import React from 'react';
-import { Link, Route } from 'react-router-dom';
-import { connect } from 'react-redux';
-import { auth } from '../../firebase/firebase.utils';
+import { Route } from 'react-router-dom';
 
 import HeaderMenu from '../header-menu/header-menu.component';
 
 import './header.styles.scss';
 
-const Header = ({ currentUser }) => (
+const Header = () => (
   <div className='header'>
     <div className='sitetitle'><h1>My Isle Compendium</h1></div>
-    <div className='account' >
-      {
-        currentUser ?
-        <div className='login' onClick={() => auth.signOut()}>Logout</div>
-        :
-        <Link className='login' to='/acnh-isle-comp/login'>Login</Link>
-      }
-    </div>
-    <div className='menu'>
-      <Route path='/acnh-isle-comp' component={HeaderMenu} />
-    </div>
-    {/*<Link className='logo-container' to='/acnh-isle-comp'>
-      <Logo className='logo' />
-      <label className='home-label'>Home</label>
-      <Switch>
-      </Switch>
-      </Link>*/}
+    <Route path='/acnh-isle-comp' component={HeaderMenu} />
   </div>
 );
 
-const mapStateToProps = ({ user : { currentUser }}) => ({
-  currentUser
-})
-
-export default connect(mapStateToProps)(Header);
+export default (Header);
