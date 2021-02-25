@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  margin-top: 10px;
+  .footer-content{
+    margin: auto;
+    padding: 5px;
+    border: 3px dashed var(--leather-02);
+    border-radius: 25px;
+    background-color: var(--ocean-green-03);
+    width: 50ch;
+  }
+}

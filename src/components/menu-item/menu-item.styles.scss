@@ -1,24 +1,19 @@
 .menu-item {
   display: flex;
-  // position: relative;
-  // right: 0px;
   width: fit-content;
-  // flex-direction: column;
-  // align-items: center;
   justify-content: center;
-  border: 2.5px solid brown;
+  border: 3.5px solid var(--leather-04);
   border-radius: 100%;
+  background-color: var(--leather-00);
   // background-image: url('../../assets/icons/woodgrain.svg');
   // background-repeat: no-repeat;
   // background-attachment: scroll;
   // background-position: center;
   // background-size: cover;
-  margin: 0 7.5px 20px;
+  margin: 0 7.5px 40px;
   // overflow: hidden;
   &:nth-last-child(-n + 2) {
     justify-self: flex-end;
-    // position: relative;
-    // left: 0px;
   }
 
   &:hover {
@@ -42,8 +37,8 @@
 
   .menu-item-content {
     height: 90px;
-    color: var(--text);
-    text-shadow: 1.5px 2px black;
+    // color: var(--text);
+    text-shadow: 1.5px 2px var(--stratospheric-blue-04);
     display: flex;
     flex-direction: column;
     align-items: center;

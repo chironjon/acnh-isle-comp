@@ -36,26 +36,80 @@ body {
   --gap: 1rem;
 
   /* colors */
-  --text: rgb(186, 253, 237);
-  --opaque-dark: rgba(2, 52, 68, 0.75);
+  --text: var(--yellow-00);
 
-  --primary-norm: rgba( 16,164,127,1);	/* Main Primary color */
+  --primary-light-opaque: rgba( 57,186,154,0.5);
+  /*--primary-norm: rgba( 16,164,127,1);	 Main Primary color 
   --primary-lighter: rgba( 116,220,194,1);
   --primary-light: rgba( 57,186,154,1);
   --primary-dark: rgba(  2,120, 91,1);
   --primary-darker: rgba(  0, 70, 53,1);
 
-  --secondary-one-norm: rgba( 21,124,158,1); /* Main Secondary color (1) */
+  --secondary-one-norm: rgba( 21,124,158,1);  Main Secondary color (1) 
   --secondary-one-lighter: rgba( 118,193,217,1);
   --secondary-one-light: rgba( 60,151,181,1);
   --secondary-one-dark: rgba(  7, 88,115,1);
   --secondary-one-darker: rgba(  2, 51, 68,1);
 
-  --secondary-two-norm: rgba( 18,185, 74,1);	/* Main Secondary color (2) */
+  --secondary-two-norm: rgba( 18,185, 74,1);	 Main Secondary color (2) 
   --secondary-two-lighter: rgba( 120,228,157,1);
   --secondary-two-light: rgba( 62,202,110,1);
   --secondary-two-dark: rgba(  3,135, 48,1);
-  --secondary-two-darker: rgba(  0, 79, 27,1);
+  --secondary-two-darker: rgba(  0, 79, 27,1);*/
+
+/* color scheme colors */
+
+  --stratospheric-blue-00: rgba(3, 98, 160, 1);
+  --stratospheric-blue-00-opaque: rgba(3, 98, 160, 0.75);
+  --stratospheric-blue-01: rgba(35,144,214,1);
+  --stratospheric-blue-02: rgba(6,136,221,1);
+  --stratospheric-blue-03: rgba(2, 79,129,1);
+  --stratospheric-blue-04: rgba(1, 60, 98,1);
+  --petroleum-blue-00: rgba(81, 182, 205, 1);
+  --petroleum-blue-01: rgba(174,229,241,1);
+  --petroleum-blue-02: rgba(121,205,224,1);
+  --petroleum-blue-03: rgba(49,158,183,1);
+  --petroleum-blue-04: rgba(18,134,161,1);
+  --tahitian-blue-00: rgba(97, 197, 220, 1);
+  --tahitian-blue-01: rgba(195,238,249,1);
+  --tahitian-blue-02: rgba(140,218,236,1);
+  --tahitian-blue-03: rgba(62,174,200,1);
+  --tahitian-blue-04: rgba(31,148,175, 1);
+  --cobalt-green-00: rgba(118, 247, 191, 1);
+  --cobalt-green-01: rgba(227,255,243, 1);
+  --cobalt-green-02: rgba(165,252,215, 1);
+  --cobalt-green-03: rgba(78,239,170, 1);
+  --cobalt-green-04: rgba(41,225,146, 1);
+  --emerald-green-00: rgba(95, 221, 157, 1);
+  --emerald-green-01: rgba(191,248,219, 1);
+  --emerald-green-02: rgba(138,236,186, 1);
+  --emerald-green-03: rgba(61,203,131, 1);
+  --emerald-green-04: rgba(30,183,105, 1);
+  --ocean-green-00: rgba(73, 145, 103, 1);
+  --ocean-green-01: rgba(165,206,181, 1);
+  --ocean-green-02: rgba(115,174,139, 1);
+  --ocean-green-03: rgba(42,118, 73, 1);
+  --ocean-green-04: rgba(18, 90, 47, 1);
+  --warm-grey-00: rgba(63, 69, 49, 1);
+  --warm-grey-01: rgba(156,167,130, 1);
+  --warm-grey-02: rgba(115,125, 91, 1);
+  --warm-grey-03: rgba(55, 65, 31, 1);
+  --warm-grey-04: rgba(43, 54, 16, 1);
+  --caramel-00: rgba(255, 202, 2, 1);
+  --caramel-01: rgba(255,223,101, 1);
+  --caramel-02: rgba(255, 214, 58, 1);
+  --caramel-03: rgba(199,157,  0, 1);
+  --caramel-04: rgba(156,124,  0, 1);
+  --yellow-00: rgba(255, 255, 123, 1);
+  --yellow-01: rgba(255, 255, 201, 1);
+  --yellow-02: rgba(255, 255, 161, 1);
+  --yellow-03: rgba(221,221, 78, 1);
+  --yellow-04: rgba(190,190, 41, 1);
+  --leather-00: rgba(175, 109, 52, 1);
+  --leather-01: rgba(253,200,154, 1);
+  --leather-02: rgba(211,147, 93, 1);
+  --leather-03: rgba(138, 75, 21, 1);
+  --leather-04: rgba(95, 44,  0, 1);
 
   /* text sizes */
   --smText: 0.59rem;
@@ -100,13 +154,14 @@ body {
 }
 
 html {
-  background-image: url('assets/backgrounds/lightshore.svg');
+  /* background-image: url('assets/backgrounds/lightshore.svg');
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: scroll; */
 }
 
 body {
   color: var(--text);
+  background-color: var(--stratospheric-blue-01);
   font-size: clamp(100%, 1rem + 0.25vw, 2rem);
   display: grid;
   grid-template-rows: auto 1fr auto;
@@ -119,7 +174,6 @@ code {
 
 footer {
 	font-size: var(--smText);
-	color: white;
 	text-align: center;
 }
 
@@ -129,7 +183,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading);
+  color: var(--caramel-02);
   font-weight: 500;
   line-height: 1.2;
 }
@@ -194,7 +248,7 @@ li {
 }
 
 a {
-  color: var(--text);
+  color: var(--yellow-01);
   text-decoration: none;
   border-bottom: 2px solid transparent;
   transition: var(--transition);

@@ -2,11 +2,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 50px;
-  height: 50px;
-  // border: 5px solid brown;
+  width: 3rem;
+  height: 3rem;
+  border: 3.5px solid var(--leather-02);
   border-radius: 100%;
   margin: 0 var(--xsPadding);
+  background-color: var(---ocean-green-00);
 
   &:hover {
     cursor: pointer;
@@ -25,7 +26,7 @@
 
   .label-container {
     display: flex;
-    text-shadow: 1.5px 2px black;
+    text-shadow: 1.5px 2px var(--stratospheric-blue-04);
     height: fit-content;
     width: fit-content;
     padding: 2px;
@@ -34,6 +35,7 @@
     top: 0;
 
     .header-link-label {
+      color: var(--yellow-00);
       font-size: var(--smText);
     }
   }

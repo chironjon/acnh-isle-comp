@@ -5,8 +5,8 @@ import { Provider } from 'react-redux';
 
 import store from './redux/store';
 
-import './global.css';
 import './remedy.css';
+import './global.css';
 
 import App from './App';
 
