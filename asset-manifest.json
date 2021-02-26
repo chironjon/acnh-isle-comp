@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/acnh-isle-comp/static/css/main.08ac0f4e.chunk.css",
-    "main.js": "/acnh-isle-comp/static/js/main.7b1824e6.chunk.js",
-    "main.js.map": "/acnh-isle-comp/static/js/main.7b1824e6.chunk.js.map",
+    "main.css": "/acnh-isle-comp/static/css/main.c1a5f2df.chunk.css",
+    "main.js": "/acnh-isle-comp/static/js/main.3e917c53.chunk.js",
+    "main.js.map": "/acnh-isle-comp/static/js/main.3e917c53.chunk.js.map",
     "runtime-main.js": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js",
     "runtime-main.js.map": "/acnh-isle-comp/static/js/runtime-main.195bcd0d.js.map",
-    "static/js/2.4b323f2b.chunk.js": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js",
-    "static/js/2.4b323f2b.chunk.js.map": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js.map",
+    "static/js/2.d56e28b8.chunk.js": "/acnh-isle-comp/static/js/2.d56e28b8.chunk.js",
+    "static/js/2.d56e28b8.chunk.js.map": "/acnh-isle-comp/static/js/2.d56e28b8.chunk.js.map",
     "index.html": "/acnh-isle-comp/index.html",
-    "static/css/main.08ac0f4e.chunk.css.map": "/acnh-isle-comp/static/css/main.08ac0f4e.chunk.css.map",
-    "static/js/2.4b323f2b.chunk.js.LICENSE.txt": "/acnh-isle-comp/static/js/2.4b323f2b.chunk.js.LICENSE.txt",
+    "static/css/main.c1a5f2df.chunk.css.map": "/acnh-isle-comp/static/css/main.c1a5f2df.chunk.css.map",
+    "static/js/2.d56e28b8.chunk.js.LICENSE.txt": "/acnh-isle-comp/static/js/2.d56e28b8.chunk.js.LICENSE.txt",
+    "static/media/22_Profile.0e9309b9.svg": "/acnh-isle-comp/static/media/22_Profile.0e9309b9.svg",
     "static/media/catalogcart.d193f546.svg": "/acnh-isle-comp/static/media/catalogcart.d193f546.svg",
     "static/media/friendsicon.0d9ee6b0.svg": "/acnh-isle-comp/static/media/friendsicon.0d9ee6b0.svg",
     "static/media/islandlogo.8a7ce723.svg": "/acnh-isle-comp/static/media/islandlogo.8a7ce723.svg",
     "static/media/journal.3b36e2f7.svg": "/acnh-isle-comp/static/media/journal.3b36e2f7.svg",
-    "static/media/index.css": "/acnh-isle-comp/static/media/lightshore.2bc4f267.svg",
-    "static/media/utilities.f4c0ac01.svg": "/acnh-isle-comp/static/media/utilities.f4c0ac01.svg",
-    "static/media/menu-item.styles.scss": "/acnh-isle-comp/static/media/woodgrain.495a25c6.svg"
+    "static/media/searchglass.2b5d45ec.svg": "/acnh-isle-comp/static/media/searchglass.2b5d45ec.svg",
+    "static/media/tools.f4c0ac01.svg": "/acnh-isle-comp/static/media/tools.f4c0ac01.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.195bcd0d.js",
-    "static/js/2.4b323f2b.chunk.js",
-    "static/css/main.08ac0f4e.chunk.css",
-    "static/js/main.7b1824e6.chunk.js"
+    "static/js/2.d56e28b8.chunk.js",
+    "static/css/main.c1a5f2df.chunk.css",
+    "static/js/main.3e917c53.chunk.js"
   ]
 }
