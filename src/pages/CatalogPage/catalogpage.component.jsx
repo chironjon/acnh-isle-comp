@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
+import SortAndFilter from '../../components/sort-and-filter/sort-and-filter.component';
 import Scroll from '../../components/scroll/scroll.component'
 import ItemList from '../../components/item-list/item-list.component';
-import SortAndFilter from '../../components/sort-and-filter/sort-and-filter.component';
 
 import { selectCollections } from '../../redux/collection/collection.selectors'
 

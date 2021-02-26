@@ -46,8 +46,6 @@ class App extends React.Component {
   render() {
     return (
       <div className='App'>
-        {/*Info Modal for all pop up info*/}
-        <InfoModal />
         <Header />
         {/*pages*/}
         <Switch>
@@ -56,6 +54,8 @@ class App extends React.Component {
           <Route exact path='/acnh-isle-comp/login' render={() => this.props.currentUser ? (<Redirect to='/acnh-isle-comp' />) : (<LoginPage />)} /> 
         </Switch>
         <Footer />
+        {/*Info Modal for all pop up info*/}
+        <InfoModal />
       </div>
     );
   }

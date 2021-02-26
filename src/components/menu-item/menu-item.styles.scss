@@ -5,12 +5,12 @@
   border: 3.5px solid var(--leather-04);
   border-radius: 100%;
   background-color: var(--leather-00);
+  margin: 0 7.5px 40px;
   // background-image: url('../../assets/icons/woodgrain.svg');
   // background-repeat: no-repeat;
   // background-attachment: scroll;
   // background-position: center;
   // background-size: cover;
-  margin: 0 7.5px 40px;
   // overflow: hidden;
   &:nth-last-child(-n + 2) {
     justify-self: flex-end;
