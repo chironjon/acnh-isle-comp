@@ -27,133 +27,133 @@ import wallpaper from "./json/Wallpaper";
 
 const CATALOG_DATA = [
   {
-    'category': 'accessories',
-    'subcategory': 'clothing',
+    'subcategory': 'accessories',
+    'category': 'clothing',
     'items': accessories
   },
   {
-    'category': 'art',
-    'subcategory': 'museum',
+    'subcategory': 'art',
+    'category': 'museum',
     'items': art
   },
   {
-    'category': 'bags',
-    'subcategory': 'clothing',
+    'subcategory': 'bags',
+    'category': 'clothing',
     'items': bags
   },
   {
-    'category': 'bottoms',
-    'subcategory': 'clothing',
+    'subcategory': 'bottoms',
+    'category': 'clothing',
     'items': bottoms
   },
   {
-    'category': 'clothingOther',
-    'subcategory': 'clothing',
+    'subcategory': 'clothingOther',
+    'category': 'clothing',
     'items': clothingOther
   },
   {
-    'category': 'dressUp',
-    'subcategory': 'clothing',
+    'subcategory': 'dressUp',
+    'category': 'clothing',
     'items': dressUp
   },
   {
-    'category': 'fish',
-    'subcategory': 'museum',
+    'subcategory': 'fish',
+    'category': 'museum',
     'items': fish
   },
   {
-    'category': 'floors',
-    'subcategory': 'decor',
+    'subcategory': 'floors',
+    'category': 'decor',
     'items': floors
   },
   {
-    'category': 'fossils',
-    'subcategory': 'museum',
+    'subcategory': 'fossils',
+    'category': 'museum',
     'items': fossils
   },
   {
-    'category': 'headwear',
-    'subcategory': 'clothing',
+    'subcategory': 'headwear',
+    'category': 'clothing',
     'items': headwear
   },
   {
-    'category': 'housewares',
-    'subcategory': 'furniture',
+    'subcategory': 'housewares',
+    'category': 'items',
     'items': housewares
   },
   {
-    'category': 'insects',
-    'subcategory': 'museum',
+    'subcategory': 'insects',
+    'category': 'museum',
     'items': insects
   },
   {
-    'category': 'messageCards',
     'subcategory': 'messageCards',
+    'category': 'other',
     'items': messageCards
   },
   {
-    'category': 'misc',
-    'subcategory': 'furniture',
+    'subcategory': 'misc',
+    'category': 'items',
     'items': misc
   },
   {
-    'category': 'music',
     'subcategory': 'music',
+    'category': 'music',
     'items': music
   },
   {
-    'category': 'other',
     'subcategory': 'other',
+    'category': 'other',
     'items': other
   },
   {
-    'category': 'recipes',
     'subcategory': 'recipes',
+    'category': 'recipes',
     'items': recipes
   },
   {
-    'category': 'rugs',
-    'subcategory': 'decor',
+    'subcategory': 'rugs',
+    'category': 'decor',
     'items': rugs
   },
   {
-    'category': 'seaCreatures',
-    'subcategory': 'museum',
+    'subcategory': 'seaCreatures',
+    'category': 'museum',
     'items': seaCreatures
   },
   {
-    'category': 'shoes',
-    'subcategory': 'clothing',
+    'subcategory': 'shoes',
+    'category': 'clothing',
     'items': shoes
   },
   {
-    'category': 'socks',
-    'subcategory': 'clothing',
+    'subcategory': 'socks',
+    'category': 'clothing',
     'items': socks
   },
   {
+    'subcategory': 'tools',
     'category': 'tools',
-    'subcategory': 'equipable',
     'items': tools
   },
   {
-    'category': 'tops',
-    'subcategory': 'clothing',
+    'subcategory': 'tops',
+    'category': 'clothing',
     'items': tops
   },
   {
-    'category': 'umbrellas',
-    'subcategory': 'equipable',
+    'subcategory': 'umbrellas',
+    'category': 'clothing',
     'items': umbrellas
   },
   {
-    'category': 'wallMounted',
-    'subcategory': 'furniture',
+    'subcategory': 'wallMounted',
+    'category': 'items',
     'items': wallMounted
   },
   {
-    'category': 'wallpaper',
-    'subcategory': 'decor',
+    'subcategory': 'wallpaper',
+    'category': 'decor',
     'items': wallpaper
   }
 ];

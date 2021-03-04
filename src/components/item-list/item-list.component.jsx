@@ -4,11 +4,17 @@ import ItemCard from '../item-card/item-card.component';
 
 import './item-list.styles.scss';
 
-const ItemList = ({ collection, choice }) => {
+const ItemList = ({ collection, category, subcategory }) => {
   console.log('item list collection', collection)
   return (
-  <div>
-    <ItemCard item={collection[choice]}/>
+  <div className='item-list-container'>
+    {/*
+      collection.map(x => {
+        if(x['category'] === category) {
+          console.log(subcategory, category)
+        }
+      })
+    */}
   </div>
 );}
 

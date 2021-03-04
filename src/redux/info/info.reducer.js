@@ -1,7 +1,8 @@
 import InfoActionTypes from './info.types'
 
 const INITIAL_STATE = {
-  hidden: true
+  hidden: true,
+  selectedItemInfo: []
 };
 
 const infoReducer = (state = INITIAL_STATE, action) => {
@@ -11,7 +12,12 @@ const infoReducer = (state = INITIAL_STATE, action) => {
         ...state,
         hidden: !state.hidden
       }
-      default:
+    case InfoActionTypes.SELECT_INFO:
+      return {
+        ...state,
+        selectedItemInfo: [action.payload]
+      } 
+    default:
         return state;
   }
 }

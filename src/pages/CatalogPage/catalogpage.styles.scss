@@ -1,0 +1,32 @@
+.categories {
+  width: 100%;
+  border: 3px dashed var(--leather-02);
+  border-radius: 25px;
+  margin: 10px 0;
+  background-color: var(--ocean-green-03);
+
+  .category-button-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0.64rem;
+    place-items: center;
+  }
+  
+  .subcategory-button-container {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
+    margin: 0.64rem;
+  }
+}
+
+.scroll-container {
+  width: 100%;
+  border: 3px dashed var(--leather-02);
+  border-radius: 25px;
+  background-color: var(--ocean-green-03);
+  height: 60vh;
+  overflow-y: scroll;
+}
+
