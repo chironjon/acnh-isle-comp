@@ -4,20 +4,20 @@
   // height: 50px;
   letter-spacing: 0.5px;
   // line-height: 50px;
-  padding: 3px 5px 3px 5px;
+  padding: 3px 5px;
   font-size: var(--smText);
   background-color: var(--ocean-green-00);
   color: var(--text);
   text-transform: uppercase;
-  font-family: 'Open Sans Condensed';
+  // font-family: 'Open Sans Condensed';
   font-weight: bolder;
-  border: 2px solid var(--leather-02);
+  border: 1px solid var(--leather-02);
   cursor: pointer;
 
   &:hover {
     background-color: var(--ocean-green-04);
     color: var(--text);
-    border: 2px solid var(--leather-02);
+    border: 1px solid var(--leather-02);
   }
 
   &.google-sign-in {

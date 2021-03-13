@@ -4,7 +4,7 @@ const construction = [
 		"Buy": "198000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeBricks",
+		"Filename": "NewCanvas1wqearthyjuk,",
 		"Unique Entry ID": "Rvkrg9tcubTMakcBS"
 	},
 	{
@@ -12,7 +12,7 @@ const construction = [
 		"Buy": "228000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeIron",
+		"Filename": "NewCanvas1wdaeteyhrjtuy",
 		"Unique Entry ID": "RmQ6iiKkFf3Sy4iSQ"
 	},
 	{
@@ -20,7 +20,7 @@ const construction = [
 		"Buy": "98000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeLog",
+		"Filename": "NewCanvas1adsvfbgnhjh",
 		"Unique Entry ID": "Px55sTfjKSbbMtjAK"
 	},
 	{
@@ -28,7 +28,7 @@ const construction = [
 		"Buy": "228000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeRed",
+		"Filename": "NewCanvas1wdqfegrhtryjmm",
 		"Unique Entry ID": "jTziEHXkeYaugKDQQ"
 	},
 	{
@@ -36,7 +36,7 @@ const construction = [
 		"Buy": "168000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeStone",
+		"Filename": "NewCanvas1adwfesgrdthfgmj",
 		"Unique Entry ID": "JmrwC2tRRCCgbZnrp"
 	},
 	{
@@ -44,7 +44,7 @@ const construction = [
 		"Buy": "129800",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeSuspension",
+		"Filename": "NewCanvas1sxdaefwrge5yhyjum",
 		"Unique Entry ID": "q52JebMTHDqHJKBba"
 	},
 	{
@@ -52,7 +52,7 @@ const construction = [
 		"Buy": "168000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeWood",
+		"Filename": "NewCanvas1adsfhngm",
 		"Unique Entry ID": "7oZ7FMrJEpBLZzsmw"
 	},
 	{
@@ -60,7 +60,7 @@ const construction = [
 		"Buy": "228000",
 		"Category": "Bridge",
 		"Source": "Resident Services Upgrade",
-		"Filename": "BridgeJapanese",
+		"Filename": "NewCanvas1w",
 		"Unique Entry ID": "TbKbHzJM8j8ezmAEF"
 	},
 	{
@@ -1052,7 +1052,7 @@ const construction = [
 		"Buy": "228000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeIronStairBlue",
+		"Filename": "NewCanvas1wdqferbgf%20%20",
 		"Unique Entry ID": "wEC52Lc5cf8TcamMB"
 	},
 	{
@@ -1060,7 +1060,7 @@ const construction = [
 		"Buy": "128000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeWoodBlue",
+		"Filename": "NewCanvas1wr3t453y46ujyk%2Cj",
 		"Unique Entry ID": "gHnYrhHS9A7MrPdpr"
 	},
 	{
@@ -1068,7 +1068,7 @@ const construction = [
 		"Buy": "198000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeBrickStair",
+		"Filename": "NewCanvas1dafsgdb",
 		"Unique Entry ID": "A8AfTzxqpvzfcMeC5"
 	},
 	{
@@ -1076,7 +1076,7 @@ const construction = [
 		"Buy": "168000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeWoodStair",
+		"Filename": "NewCanvas1awr3t45y6u5jky",
 		"Unique Entry ID": "wk6oQREwMmRAmkTWJ"
 	},
 	{
@@ -1084,7 +1084,7 @@ const construction = [
 		"Buy": "98000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeNatural",
+		"Filename": "NewCanvas1qewt453yw46ujyk",
 		"Unique Entry ID": "m7jAPxsGCRgSWo6Ng"
 	},
 	{
@@ -1092,7 +1092,7 @@ const construction = [
 		"Buy": "228000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeIronStair",
+		"Filename": "NewCanvas1wretehryjm",
 		"Unique Entry ID": "2nygbmutbmBfuzEXp"
 	},
 	{
@@ -1100,7 +1100,7 @@ const construction = [
 		"Buy": "168000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeStoneStair",
+		"Filename": "NewCanvas1ewfweaf",
 		"Unique Entry ID": "4zszj8KsBNe2XgeGq"
 	},
 	{
@@ -1108,7 +1108,7 @@ const construction = [
 		"Buy": "128000",
 		"Category": "Incline",
 		"Source": "Resident Services Upgrade",
-		"Filename": "SlopeWood",
+		"Filename": "NewCanvas1qwr3t4y56ujj",
 		"Unique Entry ID": "aR8pTDNtanxDQt7MY"
 	},
 	{

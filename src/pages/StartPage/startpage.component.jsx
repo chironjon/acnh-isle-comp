@@ -1,12 +1,13 @@
 import React from 'react';
 
-import Directory from '../../components/directory/directory.component';
-
 import './startpage.styles.scss';
 
 const StartPage = () => (
   <div className='startpage'>
-    <Directory />
+  <div>
+    <h2>Welcome!</h2>
+    <h3>News and updates</h3>
+  </div>
   </div>
 )
 

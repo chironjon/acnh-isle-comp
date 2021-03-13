@@ -1,5 +1,5 @@
-const JOURNAL_DATA = {
-  "achievements": {
+const JOURNAL_DATA = [
+  {
     "items": [{
       "Name": "(island name) Miles!",
       "Achievement Description": "You traveled a long way just to move to our little island, and you enrolled in the Nook Mileage Program. So you earned your first miles! There are lots of ways to earn miles by just enjoying island life!",
@@ -3133,10 +3133,9 @@ const JOURNAL_DATA = {
       "Version Added": "1.0.0",
       "Unique Entry ID": "QgGe5XTYJhjfgbMHW"
     }],
-    "category": "journal",
     "subcategory": "achievements"
   },
-  "reactions": {
+  {
     "items": [{
       "#": "40",
       "Name": "Aggravation",
@@ -3736,10 +3735,9 @@ const JOURNAL_DATA = {
       "Internal ID": "802",
       "Unique Entry ID": "yeh2FF6fzMn3BdAi6"
     }],
-    "category": "journal",
     "subcategory": "character"
   },
-  "seasonsAndEvents": {
+  {
     "items": [{
       "Name": "young spring bamboo",
       "Type": "Crafting season",
@@ -4831,9 +4829,8 @@ const JOURNAL_DATA = {
       "Unlock Method": "NTP",
       "Unique Entry ID": "i36Hq5eemLtYtg8x4"
     }],
-    "category": "journal",
     "subcategory": "seasonsAndEvents"
   }
-};
+];
 
 export default JOURNAL_DATA;

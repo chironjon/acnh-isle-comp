@@ -65,7 +65,7 @@ const other = [
 		"Version Added": "1.0.0",
 		"Unlocked?": "Yes",
 		"Filename": "PltApple4",
-		"Inventory Filename": "PltApple4",
+		"Inventory Filename": "PltApple",
 		"Storage Filename": "NA",
 		"Internal ID": "3360",
 		"Unique Entry ID": "4BFZn59FMC5eyCKXS"
@@ -675,7 +675,7 @@ const other = [
 		"Version Added": "1.0.0",
 		"Unlocked?": "Yes",
 		"Filename": "PltHyacinthBlue3",
-		"Inventory Filename": "PltHyacinthBlue6",
+		"Inventory Filename": "PltHyacinth6",
 		"Storage Filename": "NA",
 		"Internal ID": "3920",
 		"Unique Entry ID": "MNT54SyQWEWfaQAc6"

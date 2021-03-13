@@ -76,7 +76,7 @@ const music = [
 		"Unique Entry ID": "ZgwCoTem6x9efZAnD"
 	},
 	{
-		"Name": "CafÃ© K.K.",
+		"Name": "Cafe K.K.",
 		"Buy": "3200",
 		"Sell": "800",
 		"HHA Base Points": "103",
