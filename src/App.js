@@ -9,6 +9,7 @@ import InfoModal from './components/info-modal/info-modal.component';
 import Header from './components/header/header.component';
 import StartPage from './pages/StartPage/startpage.component';
 import CatalogPage from './pages/CatalogPage/catalogpage.component';
+import VillagerPage from './pages/VillagerPage/villagerpage.component';
 import LoginPage from './pages/LoginPage/loginpage.component';
 import Footer from './components/footer/footer.component';
 import { auth, createUserProfileDocument } from './firebase/firebase.utils';
@@ -51,6 +52,7 @@ class App extends React.Component {
         <Switch>
           <Route exact path='/acnh-isle-comp' component={StartPage} />
           <Route path='/acnh-isle-comp/catalog' component={CatalogPage} />
+          <Route path='/acnh-isle-comp/villagers' component={VillagerPage} />
           <Route exact path='/acnh-isle-comp/login' render={() => this.props.currentUser ? (<Redirect to='/acnh-isle-comp' />) : (<LoginPage />)} /> 
         </Switch>
         <Footer />

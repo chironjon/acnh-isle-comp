@@ -1,33 +1,33 @@
-import accessories from './json/Accessories';
-import art from './json/Art';
-import bags from './json/Bags';
-import bottoms from './json/Bottoms';
-import clothingOther from './json/Clothing Other';
-import construction from './json/Construction';
-import dressUp from './json/Dress-Up';
-import fencing from './json/Fencing';
-import fish from './json/Fish';
-import floors from './json/Floors';
-import fossils from './json/Fossils';
-import headwear from './json/Headwear';
-import housewares from './json/Housewares';
-import insects from './json/Insects';
-import messageCards from './json/Message Cards';
-import misc from './json/Miscellaneous';
-import music from './json/Music';
-import other from './json/Other';
-import photos from './json/Photos';
-import posters from './json/Posters';
-import recipes from './json/Recipes';
-import rugs from './json/Rugs';
-import seaCreatures from './json/Sea Creatures';
-import shoes from './json/Shoes';
-import socks from './json/Socks';
-import tools from './json/Tools';
-import tops from './json/Tops';
-import umbrellas from './json/Umbrellas';
-import wallMounted from './json/Wall-mounted';
-import wallpaper from "./json/Wallpaper";
+import accessories from './processedJSData/Accessories';
+import art from './processedJSData/Art';
+import bags from './processedJSData/Bags';
+import bottoms from './processedJSData/Bottoms';
+import clothingOther from './processedJSData/Clothing Other';
+import construction from './processedJSData/Construction';
+import dressUp from './processedJSData/Dress-Up';
+import fencing from './processedJSData/Fencing';
+import fish from './processedJSData/Fish';
+import floors from './processedJSData/Floors';
+import fossils from './processedJSData/Fossils';
+import headwear from './processedJSData/Headwear';
+import housewares from './processedJSData/Housewares';
+import insects from './processedJSData/Insects';
+import messageCards from './processedJSData/Message Cards';
+import misc from './processedJSData/Miscellaneous';
+import music from './processedJSData/Music';
+import other from './processedJSData/Other';
+import photos from './processedJSData/Photos';
+import posters from './processedJSData/Posters';
+import recipes from './processedJSData/Recipes';
+import rugs from './processedJSData/Rugs';
+import seaCreatures from './processedJSData/Sea Creatures';
+import shoes from './processedJSData/Shoes';
+import socks from './processedJSData/Socks';
+import tools from './processedJSData/Tools';
+import tops from './processedJSData/Tops';
+import umbrellas from './processedJSData/Umbrellas';
+import wallMounted from './processedJSData/Wall Mounted';
+import wallpaper from "./processedJSData/Wallpaper";
 
 const CATALOG_DATA = [
   {
@@ -57,7 +57,7 @@ const CATALOG_DATA = [
   },
   {
     'subcategory': 'construction',
-    'category': ['items', 'construction'],
+    'category': ['construction'],
     'items': construction
   },
   {

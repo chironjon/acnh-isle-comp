@@ -1,0 +1,8 @@
+const OptionsActionTypes = {
+  SET_CATEGORY: 'SET_CATEGORY',
+  SET_SUBCATEGORY: 'SET_SUBCATEGORY',
+  SET_CAT_ARRAY: 'SET_CAT_ARRAY',
+  SET_SUBCAT_ARRAY: 'SET_SUBCAT_ARRAY'
+}
+
+export default OptionsActionTypes;
