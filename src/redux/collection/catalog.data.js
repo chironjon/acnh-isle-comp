@@ -26,157 +26,157 @@ import socks from './processedJSData/Socks';
 import tools from './processedJSData/Tools';
 import tops from './processedJSData/Tops';
 import umbrellas from './processedJSData/Umbrellas';
-import wallMounted from './processedJSData/Wall Mounted';
+import wallMounted from './processedJSData/Wall-mounted';
 import wallpaper from "./processedJSData/Wallpaper";
 
 const CATALOG_DATA = [
   {
-    'subcategory': 'accessories',
+    'tags': 'accessories',
     'category': ['clothing'],
     'items': accessories
   },
   {
-    'subcategory': 'art',
-    'category': ['museum'],
+    'tags': 'art',
+    'category': ['museum', 'furniture'],
     'items': art
   },
   {
-    'subcategory': 'bags',
+    'tags': 'bags',
     'category': ['clothing'],
     'items': bags
   },
   {
-    'subcategory': 'bottoms',
+    'tags': 'bottoms',
     'category': ['clothing'],
     'items': bottoms
   },
   {
-    'subcategory': 'clothingOther',
+    'tags': 'clothingOther',
     'category': ['clothing'],
     'items': clothingOther
   },
   {
-    'subcategory': 'construction',
+    'tags': 'construction',
     'category': ['construction'],
     'items': construction
   },
   {
-    'subcategory': 'dressUp',
+    'tags': 'dressUp',
     'category': ['clothing'],
     'items': dressUp
   },
   {
-    'subcategory': 'fencing',
-    'category': ['items', 'construction'],
+    'tags': 'fencing',
+    'category': ['construction'],
     'items': fencing
   },
   {
-    'subcategory': 'fish',
+    'tags': 'fish',
     'category': ['museum'],
     'items': fish
   },
   {
-    'subcategory': 'floors',
+    'tags': 'floors',
     'category': ['house'],
     'items': floors
   },
   {
-    'subcategory': 'fossils',
+    'tags': 'fossils',
     'category': ['museum'],
     'items': fossils
   },
   {
-    'subcategory': 'headwear',
+    'tags': 'headwear',
     'category': ['clothing'],
     'items': headwear
   },
   {
-    'subcategory': 'housewares',
-    'category': ['items'],
+    'tags': 'housewares',
+    'category': ['furniture'],
     'items': housewares
   },
   {
-    'subcategory': 'insects',
+    'tags': 'insects',
     'category': ['museum'],
     'items': insects
   },
   {
-    'subcategory': 'messageCards',
-    'category': ['inventory'],
+    'tags': 'messageCards',
+    'category': ['other'],
     'items': messageCards
   },
   {
-    'subcategory': 'misc',
-    'category': ['items'],
+    'tags': 'misc',
+    'category': ['furniture'],
     'items': misc
   },
   {
-    'subcategory': 'music',
-    'category': ['items'],
+    'tags': 'music',
+    'category': ['music'],
     'items': music
   },
   {
-    'subcategory': 'other',
-    'category': ['inventory', 'construction'],
+    'tags': 'other',
+    'category': ['other'],
     'items': other
   },
   {
-    'subcategory': 'photos',
-    'category': ['items'],
+    'tags': 'photos',
+    'category': ['villagers'],
     'items': photos
   },
   {
-    'subcategory': 'posters',
-    'category': ['items'],
+    'tags': 'posters',
+    'category': ['villagers'],
     'items': posters
   },
   {
-    'subcategory': 'recipes',
-    'category': ['inventory'],
+    'tags': 'recipes',
+    'category': ['recipes'],
     'items': recipes
   },
   {
-    'subcategory': 'rugs',
+    'tags': 'rugs',
     'category': ['house'],
     'items': rugs
   },
   {
-    'subcategory': 'seaCreatures',
+    'tags': 'seaCreatures',
     'category': ['museum'],
     'items': seaCreatures
   },
   {
-    'subcategory': 'shoes',
+    'tags': 'shoes',
     'category': ['clothing'],
     'items': shoes
   },
   {
-    'subcategory': 'socks',
+    'tags': 'socks',
     'category': ['clothing'],
     'items': socks
   },
   {
-    'subcategory': 'tools',
-    'category': ['items', 'equippable'],
+    'tags': 'tools',
+    'category': ['tools'],
     'items': tools
   },
   {
-    'subcategory': 'tops',
+    'tags': 'tops',
     'category': ['clothing'],
     'items': tops
   },
   {
-    'subcategory': 'umbrellas',
-    'category': ['clothing', 'equippable'],
+    'tags': 'umbrellas',
+    'category': ['clothing'],
     'items': umbrellas
   },
   {
-    'subcategory': 'wallMounted',
-    'category': ['items'],
+    'tags': 'wallMounted',
+    'category': ['furniture'],
     'items': wallMounted
   },
   {
-    'subcategory': 'wallpaper',
+    'tags': 'wallpaper',
     'category': ['house'],
     'items': wallpaper
   }

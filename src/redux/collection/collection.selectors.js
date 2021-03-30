@@ -4,10 +4,15 @@ const selectCollection = state => state.collections;
 
 export const selectCatalog = createSelector(
   [selectCollection],
-  collections => collections.collections.catalog
+  collection => collection.collections.catalog
 );
 
 export const selectVillagers = createSelector(
   [selectCollection],
-  collections => collections.collections.villagers
+  collection => collection.collections.villagers
+);
+
+export const selectJournal = createSelector(
+  [selectCollection],
+  collection => collection.collections.journal
 );

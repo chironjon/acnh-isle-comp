@@ -2444,7 +2444,7 @@ const achievements = [
 	{
 		"Name": "Island Designer",
 		"Achievement Description": "At Nook Inc. we encourage the use of the Island Designer app to liven up the island. We're giving away miles the first time you use a permit for a path, river, or cliff!",
-		"Achievement Criteria": "Awarded the first time you use the Island Designer app to place a path, add/remove water, and build/destroy a cliff",
+		"Achievement Criteria": "Awarded the first time you use the Island Designer app to place a path, add-remove water, and build-destroy a cliff",
 		"#": "67",
 		"Internal ID": "88",
 		"Internal Name": "ModifyIsland",

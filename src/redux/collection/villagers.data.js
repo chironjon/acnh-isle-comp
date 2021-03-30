@@ -4,13 +4,13 @@ import specialNPCs from './processedJSData/Special NPCs';
 const VILLAGERS_DATA = [
   {
     "items": specialNPCs,
-    "subcategory": "NPCs",
+    "tags": "NPCs",
     "category": "villagerNPCs"
   },
   {
     "items": villagers,
     "category": "villagers",
-    "subcategory": "villagers"
+    "tags": "villagers"
   }
 ];
 

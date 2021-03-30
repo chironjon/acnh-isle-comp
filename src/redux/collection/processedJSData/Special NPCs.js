@@ -11,7 +11,7 @@ const specialNPCs = [
 		"Name Color": "#fe8885",
 		"Bubble Color": "#ffffff",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpMka",
+		"Photo Filename": "NpcPoster/NpcSpMka",
 		"Unique Entry ID": "Ndgae4bSokoBtb97u"
 	},
 	{
@@ -25,7 +25,7 @@ const specialNPCs = [
 		"Name Color": "#f7f0c2",
 		"Bubble Color": "#7d593c",
 		"Icon Filename": "owl",
-		"Photo Filename": "NpcSpOwl",
+		"Photo Filename": "NpcBromide/NpcSpOwl",
 		"Unique Entry ID": "LXqTqy94M9Yt7yaAb"
 	},
 	{
@@ -40,7 +40,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#c67022",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpDgb",
+		"Photo Filename": "NpcPoster/NpcSpDgb",
 		"Unique Entry ID": "ucw3urkmPQzYh6s9i"
 	},
 	{
@@ -55,7 +55,7 @@ const specialNPCs = [
 		"Name Color": "#333333",
 		"Bubble Color": "#689a8b",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPge",
+		"Photo Filename": "NpcPoster/NpcSpPge",
 		"Unique Entry ID": "RkbTSEruyBcEyMjDX"
 	},
 	{
@@ -85,7 +85,7 @@ const specialNPCs = [
 		"Name Color": "#f7f0c2",
 		"Bubble Color": "#81280a",
 		"Icon Filename": "ows",
-		"Photo Filename": "NpcSpOws",
+		"Photo Filename": "NpcBromide/NpcSpOws",
 		"Unique Entry ID": "7t6ZNPqsvE22CsyMw"
 	},
 	{
@@ -100,7 +100,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#77614c",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpBev",
+		"Photo Filename": "NpcPoster/NpcSpBev",
 		"Unique Entry ID": "XGGxy4Wx86EDDH57S"
 	},
 	{
@@ -115,7 +115,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#e69111",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpDga",
+		"Photo Filename": "NpcPoster/NpcSpDga",
 		"Unique Entry ID": "jdNK4NrvZmRC82yJ5"
 	},
 	{
@@ -129,7 +129,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#4ddcd9",
 		"Icon Filename": "alp",
-		"Photo Filename": "NpcSpAlp",
+		"Photo Filename": "NpcPoster/NpcSpAlp",
 		"Unique Entry ID": "yJQuzNGtgcSbWw47g"
 	},
 	{
@@ -160,7 +160,7 @@ const specialNPCs = [
 		"Name Color": "#664734",
 		"Bubble Color": "#c1a081",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpSzo",
+		"Photo Filename": "NpcPoster/NpcSpSzo",
 		"Unique Entry ID": "8Mwo7kmFeM9iRxXmb"
 	},
 	{
@@ -174,7 +174,7 @@ const specialNPCs = [
 		"Name Color": "#545259",
 		"Bubble Color": "#ffffff",
 		"Icon Filename": "tkkB",
-		"Photo Filename": "NpcSpTkkB",
+		"Photo Filename": "NpcPoster/NpcSpTkkB",
 		"Unique Entry ID": "eQgLgRTaBTQy6LQLS"
 	},
 	{
@@ -189,7 +189,7 @@ const specialNPCs = [
 		"Name Color": "#612f0a",
 		"Bubble Color": "#d97012",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpMob",
+		"Photo Filename": "NpcPoster/NpcSpMob",
 		"Unique Entry ID": "pE6as787paJEWhgbX"
 	},
 	{
@@ -219,7 +219,7 @@ const specialNPCs = [
 		"Name Color": "#4b4496",
 		"Bubble Color": "#ff97ca",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpTuk",
+		"Photo Filename": "NpcPoster/NpcSpTuk",
 		"Unique Entry ID": "dFbRDi2FGNmHZvuRM"
 	},
 	{
@@ -234,7 +234,7 @@ const specialNPCs = [
 		"Name Color": "#d254c7",
 		"Bubble Color": "#ffffc1",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpGrf",
+		"Photo Filename": "NpcPoster/NpcSpGrf",
 		"Unique Entry ID": "chZz2xBGZBy2g9L8e"
 	},
 	{
@@ -249,7 +249,7 @@ const specialNPCs = [
 		"Name Color": "#fff364",
 		"Bubble Color": "#7dcc00",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpKpg",
+		"Photo Filename": "NpcPoster/NpcSpKpg",
 		"Unique Entry ID": "6Cj4smgBhJ7moa4JN"
 	},
 	{
@@ -279,7 +279,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#0073ff",
 		"Icon Filename": "gul",
-		"Photo Filename": "NpcSpGul",
+		"Photo Filename": "NpcBromide/NpcSpGul",
 		"Unique Entry ID": "uf2Phk2T4fnoaqY2A"
 	},
 	{
@@ -294,7 +294,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#fc81d9",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPoo",
+		"Photo Filename": "NpcPoster/NpcSpPoo",
 		"Unique Entry ID": "bRAwDjRF3s5EifuXo"
 	},
 	{
@@ -309,7 +309,7 @@ const specialNPCs = [
 		"Name Color": "#714f31",
 		"Bubble Color": "#ebc83c",
 		"Icon Filename": "spn",
-		"Photo Filename": "NA",
+		"Photo Filename": "NpcIcon/spn",
 		"Unique Entry ID": "XHGYT3WfbiboMAQHE"
 	},
 	{
@@ -323,7 +323,7 @@ const specialNPCs = [
 		"Name Color": "#f4aa16",
 		"Bubble Color": "#fff98f",
 		"Icon Filename": "sza",
-		"Photo Filename": "NpcSpSza",
+		"Photo Filename": "NpcBromide/NpcSpSza",
 		"Unique Entry ID": "ZgSyBa8uRm7uupcQw"
 	},
 	{
@@ -337,7 +337,7 @@ const specialNPCs = [
 		"Name Color": "#080800",
 		"Bubble Color": "#ff6d00",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPkn",
+		"Photo Filename": "NpcPoster/NpcSpPkn",
 		"Unique Entry ID": "v8rBscHZN8BuL6vho"
 	},
 	{
@@ -351,7 +351,7 @@ const specialNPCs = [
 		"Name Color": "#fffe69",
 		"Bubble Color": "#d6781a",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpRei",
+		"Photo Filename": "NpcPoster/NpcSpRei",
 		"Unique Entry ID": "nnnCFTFp2CxKM8Kps"
 	},
 	{
@@ -366,7 +366,7 @@ const specialNPCs = [
 		"Name Color": "#f3af18",
 		"Bubble Color": "#a04c27",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpBoa",
+		"Photo Filename": "NpcPoster/NpcSpBoa",
 		"Unique Entry ID": "g489RXNAdbSB7Jdtf"
 	},
 	{
@@ -380,7 +380,7 @@ const specialNPCs = [
 		"Name Color": "#595757",
 		"Bubble Color": "#ffffff",
 		"Icon Filename": "tkkA",
-		"Photo Filename": "NpcSpTkkA",
+		"Photo Filename": "NpcBromide/NpcSpTkkA",
 		"Unique Entry ID": "8kgdqqyBHHe7Cq8jm"
 	},
 	{
@@ -395,7 +395,7 @@ const specialNPCs = [
 		"Name Color": "#fff364",
 		"Bubble Color": "#7dcc00",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpKpp",
+		"Photo Filename": "NpcPoster/NpcSpKpp",
 		"Unique Entry ID": "AKDnsnCJwk4Yj96ZR"
 	},
 	{
@@ -410,7 +410,7 @@ const specialNPCs = [
 		"Name Color": "#9c4e00",
 		"Bubble Color": "#feff4f",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpLom",
+		"Photo Filename": "NpcPoster/NpcSpLom",
 		"Unique Entry ID": "froBkd4rfuHvsgNuB"
 	},
 	{
@@ -425,7 +425,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#1c2f60",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpBpt",
+		"Photo Filename": "NpcPoster/NpcSpBpt",
 		"Unique Entry ID": "He3BpCnsFZo9yjTZc"
 	},
 	{
@@ -439,7 +439,7 @@ const specialNPCs = [
 		"Name Color": "#78b3c7",
 		"Bubble Color": "#2a4869",
 		"Icon Filename": "skk",
-		"Photo Filename": "NpcSpSkk",
+		"Photo Filename": "NpcBromide/NpcSpSkk",
 		"Unique Entry ID": "qmGXCtGtjukpiS8Fs"
 	},
 	{
@@ -453,7 +453,7 @@ const specialNPCs = [
 		"Name Color": "#fffee0",
 		"Bubble Color": "#7f5174",
 		"Icon Filename": "hgc",
-		"Photo Filename": "NpcSpHgc",
+		"Photo Filename": "NpcBromide/NpcSpHgc",
 		"Unique Entry ID": "ueB44Z45DNkoQSZnL"
 	},
 	{
@@ -467,7 +467,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#c0ab72",
 		"Icon Filename": "slo",
-		"Photo Filename": "NpcSpSlo",
+		"Photo Filename": "NpcPoster/NpcSpSlo",
 		"Unique Entry ID": "sK5zwmKLL8HNKZhYt"
 	},
 	{
@@ -482,7 +482,7 @@ const specialNPCs = [
 		"Name Color": "#fff364",
 		"Bubble Color": "#7dcc00",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpKps",
+		"Photo Filename": "NpcPoster/NpcSpKps",
 		"Unique Entry ID": "MkkTcwbmJmGXnGA6P"
 	},
 	{
@@ -497,7 +497,7 @@ const specialNPCs = [
 		"Name Color": "#fff364",
 		"Bubble Color": "#7dcc00",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpKpm",
+		"Photo Filename": "NpcPoster/NpcSpKpm",
 		"Unique Entry ID": "D9fj5XxQmDR7ABnws"
 	},
 	{
@@ -512,7 +512,7 @@ const specialNPCs = [
 		"Name Color": "#5e2818",
 		"Bubble Color": "#ffa6aa",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpOtg",
+		"Photo Filename": "NpcPoster/NpcSpOtg",
 		"Unique Entry ID": "Z2YMj6fmLnowD4XnN"
 	},
 	{
@@ -526,7 +526,7 @@ const specialNPCs = [
 		"Name Color": "#ffceff",
 		"Bubble Color": "#bc40a9",
 		"Icon Filename": "tap",
-		"Photo Filename": "NpcSpTap",
+		"Photo Filename": "NpcPoster/NpcSpTap",
 		"Unique Entry ID": "mTzz444C5LkcH4W9T"
 	},
 	{
@@ -541,7 +541,7 @@ const specialNPCs = [
 		"Name Color": "#fffad4",
 		"Bubble Color": "#506b94",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpOtt",
+		"Photo Filename": "NpcPoster/NpcSpOtt",
 		"Unique Entry ID": "R6sNbgmgSCgpyFYRf"
 	},
 	{
@@ -555,7 +555,7 @@ const specialNPCs = [
 		"Name Color": "#fffad4",
 		"Bubble Color": "#3c4c78",
 		"Icon Filename": "hgh",
-		"Photo Filename": "NpcSpHgh",
+		"Photo Filename": "NpcBromide/NpcSpHgh",
 		"Unique Entry ID": "swWzSCwrBNYkgTEWK"
 	},
 	{
@@ -570,7 +570,7 @@ const specialNPCs = [
 		"Name Color": "#f3f338",
 		"Bubble Color": "#72aa1c",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpChm",
+		"Photo Filename": "NpcPoster/NpcSpChm",
 		"Unique Entry ID": "KvScWdYZwL2e7kGNn"
 	},
 	{
@@ -600,7 +600,7 @@ const specialNPCs = [
 		"Name Color": "#fffd87",
 		"Bubble Color": "#f44957",
 		"Icon Filename": "seo",
-		"Photo Filename": "NpcSpSeo",
+		"Photo Filename": "NpcPoster/NpcSpSeo",
 		"Unique Entry ID": "MgTEFSvyfd2mQFefo"
 	},
 	{
@@ -614,7 +614,7 @@ const specialNPCs = [
 		"Name Color": "#edebd6",
 		"Bubble Color": "#0a96ae",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPck",
+		"Photo Filename": "NpcPoster/NpcSpPck",
 		"Unique Entry ID": "ddz6FRgy2kCp2TF6A"
 	},
 	{
@@ -629,7 +629,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#fe9ee0",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPlk",
+		"Photo Filename": "NpcPoster/NpcSpPlk",
 		"Unique Entry ID": "ydQXw58arpJoRxsao"
 	},
 	{
@@ -644,7 +644,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#44c04f",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPlo",
+		"Photo Filename": "NpcPoster/NpcSpPlo",
 		"Unique Entry ID": "iptnwW8oAu3bE5E3L"
 	},
 	{
@@ -659,7 +659,7 @@ const specialNPCs = [
 		"Name Color": "#feffca",
 		"Bubble Color": "#d38856",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpFsl",
+		"Photo Filename": "NpcPoster/NpcSpFsl",
 		"Unique Entry ID": "AQJEzmjGKShfyCyqX"
 	},
 	{
@@ -674,7 +674,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#dd8dfa",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpPlm",
+		"Photo Filename": "NpcPoster/NpcSpPlm",
 		"Unique Entry ID": "9WgCsffJgLsDTcs5Y"
 	},
 	{
@@ -689,7 +689,7 @@ const specialNPCs = [
 		"Name Color": "#efe956",
 		"Bubble Color": "#3e54cf",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpMnk",
+		"Photo Filename": "NpcPoster/NpcSpMnk",
 		"Unique Entry ID": "XhqSyrq7fjmcNe5N3"
 	},
 	{
@@ -703,7 +703,7 @@ const specialNPCs = [
 		"Name Color": "#4f1904",
 		"Bubble Color": "#ebb020",
 		"Icon Filename": "fox",
-		"Photo Filename": "NpcSpFox",
+		"Photo Filename": "NpcPoster/NpcSpFox",
 		"Unique Entry ID": "iRkXJeZqaWApHk92x"
 	},
 	{
@@ -717,7 +717,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#ffaad1",
 		"Icon Filename": "alw",
-		"Photo Filename": "NpcSpAlw",
+		"Photo Filename": "NpcPoster/NpcSpAlw",
 		"Unique Entry ID": "MKLPGvYfpDwWCEWQ7"
 	},
 	{
@@ -732,7 +732,7 @@ const specialNPCs = [
 		"Name Color": "#612f0a",
 		"Bubble Color": "#d97012",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpMol",
+		"Photo Filename": "NpcPoster/NpcSpMol",
 		"Unique Entry ID": "BMtksEYHbtBLC6aww"
 	},
 	{
@@ -746,7 +746,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#5a66d2",
 		"Icon Filename": "xct",
-		"Photo Filename": "NpcSpXct",
+		"Photo Filename": "NpcPoster/NpcSpXct",
 		"Unique Entry ID": "riMH36iDWKc3gQAkT"
 	},
 	{
@@ -760,7 +760,7 @@ const specialNPCs = [
 		"Name Color": "#fffee0",
 		"Bubble Color": "#895452",
 		"Icon Filename": "hgs",
-		"Photo Filename": "NpcSpHgs",
+		"Photo Filename": "NpcBromide/NpcSpHgs",
 		"Unique Entry ID": "WQnJq8BHMee2XKQ2i"
 	},
 	{
@@ -774,7 +774,7 @@ const specialNPCs = [
 		"Name Color": "#954f07",
 		"Bubble Color": "#fcbb3a",
 		"Icon Filename": "cml",
-		"Photo Filename": "NpcSpCml",
+		"Photo Filename": "NpcBromide/NpcSpCml",
 		"Unique Entry ID": "x753Z7JdmLFZRCwGr"
 	},
 	{
@@ -789,7 +789,7 @@ const specialNPCs = [
 		"Name Color": "#a90d0a",
 		"Bubble Color": "#ffb0b0",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpUpa",
+		"Photo Filename": "NpcPoster/NpcSpUpa",
 		"Unique Entry ID": "qvhSuN7wnc75GysSb"
 	},
 	{
@@ -803,7 +803,7 @@ const specialNPCs = [
 		"Name Color": "#4d2a20",
 		"Bubble Color": "#de8735",
 		"Icon Filename": "rcm",
-		"Photo Filename": "NpcSpRcm",
+		"Photo Filename": "NpcBromide/NpcSpRcm",
 		"Unique Entry ID": "XQGqJDnh2hRg4unt3"
 	},
 	{
@@ -817,7 +817,7 @@ const specialNPCs = [
 		"Name Color": "#4d2a20",
 		"Bubble Color": "#de8735",
 		"Icon Filename": "rco",
-		"Photo Filename": "NpcSpRco",
+		"Photo Filename": "NpcBromide/NpcSpRco",
 		"Unique Entry ID": "QNw2aQsR5dmgXCrhY"
 	},
 	{
@@ -831,7 +831,7 @@ const specialNPCs = [
 		"Name Color": "#4d2a20",
 		"Bubble Color": "#de8735",
 		"Icon Filename": "rct",
-		"Photo Filename": "NpcSpRct",
+		"Photo Filename": "NpcBromide/NpcSpRct",
 		"Unique Entry ID": "uCvDxaDCp8FnAnmce"
 	},
 	{
@@ -846,7 +846,7 @@ const specialNPCs = [
 		"Name Color": "#705800",
 		"Bubble Color": "#ffea6b",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpTtlA",
+		"Photo Filename": "NpcPoster/NpcSpTtlA",
 		"Unique Entry ID": "BPPkKQ5BYRSZhk6Bc"
 	},
 	{
@@ -861,7 +861,7 @@ const specialNPCs = [
 		"Name Color": "#fffce9",
 		"Bubble Color": "#8c99fd",
 		"Icon Filename": "NA",
-		"Photo Filename": "NpcSpWrl",
+		"Photo Filename": "NpcPoster/NpcSpWrl",
 		"Unique Entry ID": "LZAjSZiZWt9QQsE3n"
 	},
 	{
@@ -876,7 +876,7 @@ const specialNPCs = [
 		"Name Color": "#38889e",
 		"Bubble Color": "#ffdf50",
 		"Icon Filename": "doc",
-		"Photo Filename": "NA",
+		"Photo Filename": "NpcIcon/doc",
 		"Unique Entry ID": "ShygyMGDR4dAFDXN6"
 	},
 	{
@@ -922,9 +922,8 @@ const specialNPCs = [
 		"Name Color": "#0ea8c7",
 		"Bubble Color": "#ffe20b",
 		"Icon Filename": "pyn",
-		"Photo Filename": "NpcSpPyn",
+		"Photo Filename": "NpcPoster/NpcSpPyn",
 		"Unique Entry ID": "MxHc7P8664FtCcd2y"
 	}
 ]
-
 export default specialNPCs;

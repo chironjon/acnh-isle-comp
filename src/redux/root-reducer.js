@@ -1,15 +1,15 @@
 import { combineReducers } from 'redux';
 
-import directoryReducer from './directory/directory.reducers';
-import collectionReducer from './collection/collection.reducers';
-import userReducer from './user/user.reducers';
+import directoryReducer from './directory/directory.reducer';
+import collectionReducer from './collection/collection.reducer';
+import userReducer from './user/user.reducer';
 import infoReducer from './info/info.reducer';
-import optionsReducer from './options/options.reducers';
+import inputReducer from './input/input.reducer';
 
 export default combineReducers({
   directory: directoryReducer,
   collections: collectionReducer,
   user: userReducer,
   info: infoReducer,
-  options: optionsReducer
+  input: inputReducer
 })

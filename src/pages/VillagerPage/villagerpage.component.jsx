@@ -7,7 +7,7 @@ import ItemList from '../../components/item-list/item-list.component';
 
 import { selectVillagers } from '../../redux/collection/collection.selectors'
 
-import './villagerpage.styles.scss';
+// import './villagerpage.styles.scss';
 function capital_letter(str) 
 {
     str = str.split(" ");
@@ -23,13 +23,13 @@ const VillagerPage = ({villagers}) => {
   const [selectedCategory, setCategory] = useState('');
   const catArray = [];
   villagers.forEach(x => {
-    if(!catArray.includes(x.subcategory)) {
-      catArray.push(x.subcategory)
+    if(!catArray.includes(x.tags)) {
+      catArray.push(x.tags)
     }
   })
   
   const itemsToDisplay = villagers.filter(x => {
-    return x.subcategory === selectedCategory
+    return x.tags === selectedCategory
   })
   
   // useEffect(() => {
@@ -57,7 +57,8 @@ const VillagerPage = ({villagers}) => {
               <div key={i} className='catalog-item-card'>
               {
                 selectedCategory === 'villagers' ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/NpcIcon/${item["Filename"]}.png)`}}/>
-                : <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/NpcPoster/${item["Photo Filename"]}.png)`}}/>
+                : item["Photo Filename"] === "NA" ? <div className='image'>No IMG</div>
+                : <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/${item["Photo Filename"]}.png)`}}/>
               }
               <span className='name'>{item["Name"]}</span>
               </div>
@@ -65,8 +66,6 @@ const VillagerPage = ({villagers}) => {
             : null
           }
       </div>
-
-    
     </div>
   )
 }

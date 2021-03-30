@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
-
+//components
 import CustomButton from '../../components/custom-button/custom-button.component';
 import ItemList from '../../components/item-list/item-list.component';
-
+//selectors
 import { selectCatalog } from '../../redux/collection/collection.selectors'
-import { selectCategory, selectSubcategory, selectCatArray, selectSubcatArray } from '../../redux/options/options.selectors'
-import { setCategory, setSubcategory, setCatArray, setSubcatArray } from '../../redux/options/options.actions';
-
-import store from '../../redux/store';
+import { selectSearchfield, selectCategory, selectFilter, selectCatArray, selectFilterArray } from '../../redux/input/input.selectors';
+//actions
+import { searchfieldChange, setCategory, setFilter, setCatArray, setFilterArray } from '../../redux/input/input.actions';
 
 import './catalogpage.styles.scss';
+
 function capital_letter(str) 
 {
     str = str.split(" ");
@@ -22,145 +22,199 @@ function capital_letter(str)
 
     return str.join(" ");
 }
-// setting up catalog page before breaking down into components
-let count = 0;
 
-// const [category, subcategory] = catalog;
+// let initialRun = true;
 
-const CatalogPage = ({catalog, selectedCategory, selectedSubcategory, setCategory, setSubcategory, setCatArray, categoryArray, setSubcatArray, subcategoryArray}) => {
-  console.log(selectedCategory, selectedSubcategory, categoryArray, subcategoryArray)
-  catalog.forEach(({category}) => {
-    category.forEach(x => {
-      if(!categoryArray.includes(x)) {
-        categoryArray.push(x)
-      }
-    })
-  })
-  if(count<1){
-    setCategory(categoryArray[0])
-    count++;
-  }
+const CatalogPage = ({catalog, searchfield, searchfieldChange, selectedCategory, selectedFilter, setCategory, setFilter, setCatArray, categoryArray, setFilterArray, filterArray}) => {
+
+  //Variables/Hooks//
+
+  const [baseItemSet, setBaseItemSet] = useState({});
+
+  //Handlers//
+
+  // const handleCategoryPick = (event) => (setCategory(event.target.value));
+
+  // const handleFilterPick = (event) => (setFilter(event.target.value))
+
+  //effects//
   
-  const itemsToDisplay = catalog.filter(x => {
-    return x.subcategory === selectedSubcategory
-  })
-  
-  
+  //fill category dropdown
   useEffect(() => {
+    console.log('set category dropdown')
     let tempArray = [];
-    catalog.forEach(({category, subcategory}) => {
-      if(category.includes(selectedCategory) && !tempArray.includes(subcategory)) {
-        tempArray.push(subcategory)
+    catalog.forEach(({category}) => {
+      category.forEach(x => {
+        if(!tempArray.includes(x)) {
+          tempArray.push(x)
+        }
+      })
+    })
+    setCategory(tempArray[0])
+    setCatArray([...tempArray])
+  }, [])
+  //set tags array
+  useEffect(() => {
+    console.log('set filters')
+    let tempArray = [];
+    catalog.forEach(({category, tags, items}) => {
+      if(category.includes(selectedCategory) && !tempArray.includes(tags)) {
+        tempArray.push(tags)
       };
     })
-    setSubcatArray([...tempArray])
-  }, [selectedCategory, setSubcatArray, catalog])
+    setFilterArray([...tempArray])
+  }, [selectedCategory])
 
-  // if(itemsToDisplay[0].items){
-    console.log(itemsToDisplay)
-  // } else {
-    // console.log(itemsToDisplay[0]['items'] instanceof Array, itemsToDisplay[0]['items'])
+  //base item set to display
+  useEffect(() => {
+    let tempObj = {};
+    console.log('set items to display')
+    catalog.forEach(({category, tags, items}) => {
+      if(category.includes(selectedCategory)){
+        Object.assign(tempObj, items)
+      }
+    })
+    // Object.values(tempObj).forEach(x => (
+    //   console.log(x)
+    // ))
+    setBaseItemSet({...tempObj})
+    console.log(tempObj)
+  }, [selectedCategory])
+  
+  //apply filters to baseItemSet
+  // useEffect(() => {
+  //   console.log('apply filters')
+  //   baseItemSet.filter(x => {
+  //     return x.tags === selectedFilter
+  //   })
+  // }, [selectedFilter])
+
+  // if(Object.keys(baseItemSet) > 0){
+    // const searchfieldFilter = Object.entries(baseItemSet[0].items)
+    // .filter(({item}) =>
+    //   item["Name"]
+    //     .toLowerCase()
+    //     .includes(searchfield.toLowerCase())
+    // )
   // }
+
+
+  // const sortedItems = baseItemSet.sort((a, b) => {
+        // var nameA = a.item["Name"].toUpperCase();
+        // var nameB = b.item["Name"].toUpperCase();
+        // if (order === "desc") {
+        //   if (nameA < nameB) {
+        //     return -1;
+        //   }
+        //   if (nameA > nameB) {
+        //     return 1;
+        //   }
+        // } else if (order === "inc") {
+        //   if (nameA > nameB) {
+        //     return -1;
+        //   }
+        //   if (nameA < nameB) {
+        //     return 1;
+        //   }
+        // }
+  // }) 
+  // initialRun = false;
+
+
+  console.log(searchfield)
+  // console.log(Object.values(baseItemSet).length)
+  // Object.values(baseItemSet).forEach(x => (
+  //   console.log(x)
+  // ))
   return (
     <div className='catalog-container'>
-      <div className='categories'>
-        <div className='category-button-container'>
+      <div className='search-filter-sort'>
+        <div className='search-bar-container'>
+          <input className='searchfield' type='text' placeholder='search' onChange={searchfieldChange}></input>
+        </div>
+        <div className='category-container'>
+          <span>in:</span>
+          <select className='cat-dropdown' value={selectedCategory} onChange={(e) => setCategory(e.target.value)}>
+            {
+              categoryArray.sort().map(x => (
+                <option name={x} value={x}>{x}</option>
+              ))
+            }
+          </select>
+        </div>
+        <div className='filters-container'>
           {
-            categoryArray.map(x => (
-              <div className="cat-button">
-                <CustomButton value={x} onClick={() => {
-                  setCategory(x)
-                }}>{x}</CustomButton>
+            filterArray.length > 0
+            ? 
+              <div className='filter-button-container'>
+                {
+                  filterArray.sort().map(x => (
+                    <CustomButton value={x} onClick={() => {
+                      setFilter(x)
+                    }}>{x}</CustomButton>
+                  ))
+                }
               </div>
-            ))
+            : null
           }
         </div>
-        {
-          subcategoryArray.length > 0
-          ? 
-            <div className='subcategory-button-container'>
-              {
-                subcategoryArray.sort().map(x => (
-                  <div className="subcat-button">
-                    <CustomButton value={x} onClick={() => {
-                      setSubcategory(x)
-                    }}>{x}</CustomButton>
-                  </div>
-                ))
-              }
-            </div>
-          : null
-        }
       </div>
-
-      {/*<div className='filter-sort-container'>
-        <div className='filter'></div>
-        <div className='sort'></div>
-      </div>*/}
       
       <div className='scroll-container'>
+        
         {
-          itemsToDisplay.length === 0 ? <div>Make a selection</div>
-          : (itemsToDisplay[0].items instanceof Array) ?
-          itemsToDisplay[0].items.map((item, i) => (
-            <div key={i} className='catalog-item-card'>
+          Object.keys(baseItemSet).length > 0 ?
+            Object.entries(baseItemSet).map(([name, items], i) => (
+              <div key={i} className='catalog-item-card'>
+                {/*
+                  console.log(name, items[0])
+                */}
+                {
+                  //image display
+                  name === "magic bag" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/SantaSack.png)`}}/>
+                  : (name === "Hazure01" || name === "Hazure02" || name === "Hazure03") ? <div className='image'>no img</div>
+                  : selectedCategory === "recipes" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/DIYRecipeIcon/${items[0]["DIY Icon Filename"]}.png)`}}/>
+                  : items[0]["Back Color"] ?  <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MessageCard/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Source"] === "Leif" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/ShopPlant/${items[0]["Filename"]}.png)`}}/>
+                  : selectedCategory === "other" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/${items[0]["Inventory Filename"]}.png)`}}/>
+                  : items[0]["NH Jan"] ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/${items[0]["Icon Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Door" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseDoorIcon/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Mailbox" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HousePostIcon/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Incline" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/drivesync/bridgearamp/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Roofing" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseRoofIcon/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Siding" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseWallIcon/${items[0]["Filename"]}.png)`}}/>
+                  : items[0]["Category"] === "Bridge" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/drivesync/bridgearamp/${items[0]["Filename"]}.png)`}}/>
+                  : (items[0]["Source Notes"] !== "Played by K.K. if you request something he doesn't have (does not give take-home track)" && selectedCategory === 'music') ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/Audio/${items[0]["Filename"]}.png)`}}/>
+                  : <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/FtrIcon/${items[0]["Filename"]}.png)`}}/>
+                }
+              <span className='name'>{name}</span>
               {
-                //image display
-                (item["Name"] === "Hazure01" || item["Name"] === "Hazure02" || item["Name"] === "Hazure03") ? <div>no img</div>
-                : selectedSubcategory === "recipes" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/DIYRecipeIcon/${item["DIY Icon Filename"]}.png)`}}/>
-                : item["Back Color"] ?  <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MessageCard/${item["Filename"]}.png)`}}/>
-                : item["Source"] === "Leif" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/ShopPlant/${item["Filename"]}.png)`}}/>
-                : selectedSubcategory === "other" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/${item["Inventory Filename"]}.png)`}}/>
-                : item["NH Jan"] ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/${item["Icon Filename"]}.png)`}}/>
-                : item["Category"] === "Door" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseDoorIcon/${item["Filename"]}.png)`}}/>
-                : item["Category"] === "Mailbox" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HousePostIcon/${item["Filename"]}.png)`}}/>
-                : item["Category"] === "Incline" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/drivesync/bridgearamp/${item["Filename"]}.png)`}}/>
-                : item["Category"] === "Roofing" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseRoofIcon/${item["Filename"]}.png)`}}/>
-                : item["Category"] === "Siding" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/HouseWallIcon/${item["Filename"]}.png)`}}/>
-                : item["Category"] === "Bridge" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/drivesync/bridgearamp/${item["Filename"]}.png)`}}/>
-                : (item["Source Notes"] !== "Played by K.K. if you request something he doesn't have (does not give take-home track)" && selectedSubcategory === 'music') ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/Audio/${item["Filename"]}.png)`}}/>
-                : <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/FtrIcon/${item["Filename"]}.png)`}}/>
+                (items.length > 1 && items[0]["Variation"] !== "NA") ? 
+                  <div>
+                  <span>-  </span>
+                  <span>{items[0]["Variation"]}</span>
+                  <span>  +</span>
+                  </div> 
+                : null
               }
-              <span className='name'>{capital_letter(item["Name"])}</span>
-              <div className='info'>
-                <span id='buy'>buy: {item["Buy"]}</span>
-                <span id='sell'>sell: {item["Sell"]}</span>
-              </div>
+              <span className='info'>
+                <span id='buy'>buy: {items[0]["Buy"]}</span>
+                <span id='sell'>sell: {items[0]["Sell"]}</span>
+              </span>
               <div className='collection-footer'>
 
               </div>
-              {/*<div className='found'><Emoji symbol={"✔"} /></div>*/}
-              {/*<div className='info-mark' onClick={() => {toggleInfoHidden(); 
-                addItemInfo(
-                  {"item": item,"currentItemCurrentMonthAvail": currentItemCurrentMonthAvail}
-                );}}><Emoji symbol={"?"} /></div>*/}
-            </div>
-          ))
-          : (itemsToDisplay[0].items instanceof Object) ?
-            Object.entries(itemsToDisplay[0].items).map(([key, value]) => (
-              <div key={key} className='catalog-item-card'>
-              {
-                //image display
-                value[0]["Name"] === "magic bag" ? <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/MenuIcon/SantaSack.png)`}}/>
-                : <div className='image' style={{backgroundImage: `url(https://acnhcdn.com/latest/FtrIcon/${value[0]["Filename"]}.png)`}}/>
-              }
-              <span className='name'>{capital_letter(value[0]["Name"])}</span>
-              <div className='info'>
-                <span id='buy'>buy: {value[0]["Buy"]}</span>
-                <span id='sell'>sell: {value[0]["Sell"]}</span>
-              </div>
-              <div className='collection-footer'>
-
-              </div>
-              {/*<div className='found'><Emoji symbol={"✔"} /></div>*/}
-              {/*<div className='info-mark' onClick={() => {toggleInfoHidden(); 
-                addItemInfo(
-                  {"item": item,"currentItemCurrentMonthAvail": currentItemCurrentMonthAvail}
-                );}}><Emoji symbol={"?"} /></div>*/}
+              
             </div>
             ))
           : null
-        }
+              }
+        
+              {/*<div className='found'><Emoji symbol={"✔"} /></div>*/}
+              {/*<div className='info-mark' onClick={() => {toggleInfoHidden(); 
+                addItemInfo(
+                  {"item": item,"currentItemCurrentMonthAvail": currentItemCurrentMonthAvail}
+                );}}><Emoji symbol={"?"} /></div>*/}
       </div>
     </div>
   );
@@ -169,16 +223,18 @@ const CatalogPage = ({catalog, selectedCategory, selectedSubcategory, setCategor
 const mapStateToProps = createStructuredSelector({
   catalog: selectCatalog,
   selectedCategory: selectCategory,
-  selectedSubcategory: selectSubcategory,
+  selectedFilter: selectFilter,
   categoryArray: selectCatArray,
-  subcategoryArray: selectSubcatArray
+  filterArray: selectFilterArray,
+  searchfield: selectSearchfield
 })
 
 const mapDispatchToProps = dispatch => ({
-  setCategory: selectedCategory => dispatch(setCategory(selectedCategory)),
-  setSubcategory: selectedSubcategory => dispatch(setSubcategory(selectedSubcategory)),
+  searchfieldChange: text => dispatch(searchfieldChange(text.target.value)),
+  setCategory: categorySelected => dispatch(setCategory(categorySelected)),
+  setFilter: filterSelected => dispatch(setFilter(filterSelected)),
   setCatArray: catArray => dispatch(setCatArray(catArray)),
-  setSubcatArray: subcatArray => dispatch(setSubcatArray(subcatArray))
+  setFilterArray: filterArray => dispatch(setFilterArray(filterArray))
 })
 
 export default connect(mapStateToProps, mapDispatchToProps)(CatalogPage);

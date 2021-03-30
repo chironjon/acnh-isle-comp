@@ -10707,5 +10707,4 @@ const villagers = [
 		"Unique Entry ID": "eC62W2PeJ76nzY4Ab"
 	}
 ]
-
 export default villagers;

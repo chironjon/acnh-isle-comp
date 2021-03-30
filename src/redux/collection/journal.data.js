@@ -5,15 +5,15 @@ import seasonsAndEvents from './processedJSData/Seasons and Events';
 const JOURNAL_DATA = [
   {
     "items": achievements,
-    "subcategory": "achievements"
+    "tags": "achievements"
   },
   {
     "items": reactions,
-    "subcategory": "character"
+    "tags": "character"
   },
   {
     "items": seasonsAndEvents,
-    "subcategory": "seasonsAndEvents"
+    "tags": "seasonsAndEvents"
   }
 ];
 
