@@ -1,37 +1,37 @@
 import InputActionTypes from './input.types';
 
-export const setCategory = selectedCategory => ({
-  type: InputActionTypes.SET_CATEGORY,
-  payload: selectedCategory
-})
-
-export const setFilter = selectedFilter => ({
-  type: InputActionTypes.SET_FILTER,
-  payload: selectedFilter
-})
-
-export const setCatArray = categoryArray => ({
-  type: InputActionTypes.SET_CAT_ARRAY,
-  payload: categoryArray
-})
-
-export const setFilterArray = filterArray => ({
-  type: InputActionTypes.SET_FILTER_ARRAY,
-  payload: filterArray
-})
-
-export const searchfieldChange = searchfield => ({
-  type: InputActionTypes.SEARCHFIELD_CHANGE,
-  payload: searchfield
-})
-
-export const filterItems = payload => ({
-  type: InputActionTypes.FILTER_ITEMS,
+export const pickCategory = payload => ({
+  type: InputActionTypes.PICK_CATEGORY,
   payload
 })
 
-export const sortItems = payload => ({
-  type: InputActionTypes.SORT_ITEMS,
+export const setCatArray = payload => ({
+  type: InputActionTypes.SET_CAT_ARRAY,
+  payload
+})
+
+export const setFilterArray = payload => ({
+  type: InputActionTypes.SET_FILTER_ARRAY,
+  payload
+})
+
+export const toggleFilter = payload => ({
+  type: InputActionTypes.TOGGLE_FILTER,
+  payload
+})
+
+export const searchfieldChange = payload => ({
+  type: InputActionTypes.SEARCHFIELD_CHANGE,
+  payload
+})
+
+export const loadItems = payload => ({
+  type: InputActionTypes.LOAD_ITEMS,
+  payload
+})
+
+export const setSortBy = payload => ({
+  type: InputActionTypes.SET_SORT_BY,
   payload
 })
 

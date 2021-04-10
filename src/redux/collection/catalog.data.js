@@ -61,7 +61,7 @@ const CATALOG_DATA = [
     'items': construction
   },
   {
-    'tags': 'dressUp',
+    'tags': 'dress-Up',
     'category': ['clothing'],
     'items': dressUp
   },
@@ -106,7 +106,7 @@ const CATALOG_DATA = [
     'items': messageCards
   },
   {
-    'tags': 'misc',
+    'tags': 'miscellaneous',
     'category': ['furniture'],
     'items': misc
   },
@@ -171,7 +171,7 @@ const CATALOG_DATA = [
     'items': umbrellas
   },
   {
-    'tags': 'wallMounted',
+    'tags': 'wall-Mounted',
     'category': ['furniture'],
     'items': wallMounted
   },

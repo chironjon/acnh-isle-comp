@@ -1,23 +1,23 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, } from 'react';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
 import CustomButton from '../../components/custom-button/custom-button.component';
-import ItemList from '../../components/item-list/item-list.component';
+// import ItemList from '../../components/item-list/item-list.component';
 
 import { selectVillagers } from '../../redux/collection/collection.selectors'
 
 // import './villagerpage.styles.scss';
-function capital_letter(str) 
-{
-    str = str.split(" ");
+// function capital_letter(str) 
+// {
+//     str = str.split(" ");
 
-    for (let i = 0, x = str.length; i < x; i++) {
-        str[i] = str[i][0].toUpperCase() + str[i].substr(1);
-    }
+//     for (let i = 0, x = str.length; i < x; i++) {
+//         str[i] = str[i][0].toUpperCase() + str[i].substr(1);
+//     }
 
-    return str.join(" ");
-}
+//     return str.join(" ");
+// }
 
 const VillagerPage = ({villagers}) => {
   const [selectedCategory, setCategory] = useState('');

@@ -1,9 +1,9 @@
 import tools from '../../assets/icons/tools.svg';
-import catalog from '../../assets/icons/catalogcart.svg';
+import catalog from '../../assets/icons/catalogCart.svg';
 import journal from '../../assets/icons/journal.svg';
-import villagers from '../../assets/icons/friendsicon.svg';
-import home from '../../assets/icons/islandlogo.svg';
-import login from '../../assets/icons/22_Profile.svg';
+import villagers from '../../assets/icons/friends.svg';
+import home from '../../assets/icons/island.svg';
+import login from '../../assets/icons/profile.svg';
 
 const titleArray = [
   'home',
@@ -18,7 +18,6 @@ const INITIAL_STATE = {
   sections: [
     {
       title: titleArray[0],
-      subtitle: 'coming soon',
       imageUrl: home,
       id: 1,
       size: 'box',
@@ -26,7 +25,6 @@ const INITIAL_STATE = {
     },
     {
       title: titleArray[1],
-      subtitle: 'coming soon',
       imageUrl: catalog,
       id: 2,
       size: 'box',
@@ -34,7 +32,6 @@ const INITIAL_STATE = {
     },
     {
       title: titleArray[2],
-      subtitle: 'coming soon',
       imageUrl: villagers,
       id: 3,
       size: 'box',
@@ -42,7 +39,6 @@ const INITIAL_STATE = {
     },
     {
       title: titleArray[3],
-      subtitle: 'coming soon',
       imageUrl: tools,
       id: 4,
       size: 'box',
@@ -50,7 +46,6 @@ const INITIAL_STATE = {
     },
     {
       title: titleArray[4],
-      subtitle: 'coming soon',
       imageUrl: journal,
       id: 5,
       size: 'box',

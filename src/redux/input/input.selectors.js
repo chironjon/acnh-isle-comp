@@ -4,25 +4,25 @@ const selectInput = state => state.input;
 
 export const selectSearchfield = createSelector(
   [selectInput],
-  input => input.input.searchfield
+  input => input.filters.searchfield
 )
 
 export const selectFilter = createSelector(
   [selectInput],
-  input => input.input.selectedFilter
+  input => input.filters.selectedFilter
 )
 
 export const selectFilterArray = createSelector(
   [selectInput],
-  input => input.input.filterArray
+  input => input.filters.filterArray
 )
 
 export const selectCategory = createSelector(
   [selectInput],
-  categories => categories.categories.selectedCategory
+  input => input.categories.selectedCategory
 )
 
 export const selectCatArray = createSelector(
   [selectInput],
-  categories => categories.categories.categoryArray
+  input => input.categories.categoryArray
 )

@@ -2,27 +2,25 @@ import InputActionTypes from './input.types';
 
 const INITIAL_STATE = {
   'categories': {
-    'selectedCategory': '',
+    'selectedCategory': 'clothing',
     'categoryArray': []
   },
-  'input': {
+  'sortPage': {
+    'sort': 'name',
+    'order': 'A⥮Z',
+    'perPage': 10,
+  },
+  'filters': {
     'searchfield': '',
     'selectedFilter': '',
-    'filterArray': []
+    'filterArray': [],
   }
 }
-
+//filter states, include, exclude and off
+// A⥯Z A⥮Z  ⥥  ⥣  ⥌  ⥍
 const inputReducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
-    case InputActionTypes.FILTER_ITEMS:
-      return {
-        ...state
-      }
-    case InputActionTypes.SORT_ITEMS:
-      return {
-        ...state
-      }
-    case InputActionTypes.SET_CATEGORY:
+    case InputActionTypes.PICK_CATEGORY:
       return {
         ...state,
         categories: {
@@ -38,30 +36,38 @@ const inputReducer = (state = INITIAL_STATE, action) => {
           categoryArray: action.payload
         }
       };
-    case InputActionTypes.SEARCHFIELD_CHANGE:
-      return {
-        ...state,
-        input: {
-          ...state.input,
-          searchfield: action.payload
-        }
-      };
-    case InputActionTypes.SET_FILTER:
-      return {
-        ...state,
-        input: {
-          ...state.input,
-          selectedFilter: action.payload
-        }
-      };
     case InputActionTypes.SET_FILTER_ARRAY:
       return {
         ...state,
-        input: {
-          ...state.input,
+        filters: {
+          ...state.filters,
           filterArray: action.payload
         }
       };
+    case InputActionTypes.TOGGLE_FILTER:
+      return {
+        ...state,
+        filters: {
+          ...state.filters,
+          selectedFilter: action.payload
+        }
+      };
+    case InputActionTypes.SEARCHFIELD_CHANGE:
+      return {
+        ...state,
+        filters: {
+          ...state.filters,
+          searchfield: action.payload
+        }
+      };
+    case InputActionTypes.LOAD_ITEMS:
+      return {
+        ...state
+      }
+    case InputActionTypes.SET_SORT_BY:
+      return {
+        ...state
+      }
     default:
       return state;
   }

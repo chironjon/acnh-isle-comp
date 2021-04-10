@@ -1,0 +1,26 @@
+.filter-select-container {
+  grid-column: span 3;
+  
+  .filter-button-container {
+    display: flex;
+
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
+    margin: 0.64rem 0;
+    .filter-button {
+      margin: 0.05rem;
+
+      .filter-icon {
+        border: 1px solid var(--black-opaque);
+        border-radius: 8px;
+        height: 2rem;
+        width: 2rem;
+
+      }
+      .filter-icon #selected {
+        
+      }
+    }
+  }
+}
